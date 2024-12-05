@@ -1,0 +1,701 @@
+ratingid,userid,rating,comment,ratingdate,rateddishid,rateddeliverypersonid
+701,378,5,Izvrsno jelo!,2023-12-12 13:17:14,496,972
+702,312,1,Zadovoljstvo nije bilo na razini.,2023-12-12 04:03:55,500,972
+703,377,4,"Vrlo dobro, ali može bolje.",2023-12-12 13:08:39,638,215
+704,580,1,Zadovoljstvo nije bilo na razini.,2023-12-12 23:09:18,419,215
+705,172,3,"Ok, ništa posebno.",2023-12-10 19:00:00,2,972
+706,126,4,"Vrlo dobro, ali može bolje.",2023-12-12 16:35:48,495,972
+707,423,5,Izvrsno jelo!,2023-12-13 00:07:00,940,972
+708,310,3,"Ok, ništa posebno.",2023-12-12 22:36:39,442,972
+709,171,3,"Ok, ništa posebno.",2023-12-10 17:00:00,207,972
+710,174,1,Zadovoljstvo nije bilo na razini.,2023-12-10 19:00:00,2,972
+711,557,4,"Vrlo dobro, ali može bolje.",2023-12-13 01:16:18,261,215
+712,134,4,"Vrlo dobro, ali može bolje.",2023-12-12 09:12:10,724,215
+713,470,4,"Vrlo dobro, ali može bolje.",2023-12-12 21:27:53,173,215
+714,243,1,Zadovoljstvo nije bilo na razini.,2023-12-12 02:45:30,641,215
+715,305,4,"Vrlo dobro, ali može bolje.",2023-12-12 18:38:49,930,972
+716,452,2,Moglo je biti bolje.,2023-12-12 17:21:10,987,499
+717,551,3,"Ok, ništa posebno.",2023-12-12 19:09:17,413,215
+718,310,5,Izvrsno jelo!,2023-12-12 13:24:42,289,972
+719,483,4,"Vrlo dobro, ali može bolje.",2023-12-12 15:11:43,857,972
+720,481,5,Izvrsno jelo!,2023-12-12 17:35:05,359,215
+721,172,2,Moglo je biti bolje.,2023-12-10 16:00:00,212,972
+722,423,3,"Ok, ništa posebno.",2023-12-16 16:06:00,653,215
+723,331,2,Moglo je biti bolje.,2023-12-12 09:52:41,493,215
+724,392,1,Zadovoljstvo nije bilo na razini.,2023-12-17 14:06:00,218,215
+725,204,5,Izvrsno jelo!,2023-12-12 12:28:12,770,215
+726,424,5,Izvrsno jelo!,2023-12-12 16:26:25,370,215
+727,170,3,"Ok, ništa posebno.",2023-12-10 17:00:00,2,972
+728,499,5,Izvrsno jelo!,2023-12-12 17:35:33,385,215
+729,110,2,Moglo je biti bolje.,2023-12-12 19:23:49,483,215
+730,168,4,"Vrlo dobro, ali može bolje.",2023-12-10 18:00:00,8,972
+731,599,1,Zadovoljstvo nije bilo na razini.,2023-12-12 12:16:52,116,972
+732,351,3,"Ok, ništa posebno.",2023-12-12 09:12:39,699,972
+733,454,3,"Ok, ništa posebno.",2023-12-12 17:54:57,391,972
+734,387,4,"Vrlo dobro, ali može bolje.",2023-12-12 17:30:37,16,499
+735,207,1,Zadovoljstvo nije bilo na razini.,2023-12-12 07:52:19,380,972
+736,520,1,Zadovoljstvo nije bilo na razini.,2023-12-12 14:00:04,483,499
+737,690,5,Izvrsno jelo!,2023-12-03 01:12:45,470,883
+738,423,2,Moglo je biti bolje.,2023-12-12 05:26:50,753,215
+739,201,3,"Ok, ništa posebno.",2023-12-12 14:25:01,83,972
+740,168,5,Izvrsno jelo!,2023-12-10 19:00:00,211,972
+741,353,5,Izvrsno jelo!,2023-12-12 15:19:49,104,215
+742,388,2,Moglo je biti bolje.,2023-12-12 16:54:51,564,215
+743,175,2,Moglo je biti bolje.,2023-12-10 16:00:00,2,972
+744,235,2,Moglo je biti bolje.,2023-12-12 08:36:33,631,972
+745,451,4,"Vrlo dobro, ali može bolje.",2023-12-12 05:00:02,44,972
+746,135,4,"Vrlo dobro, ali može bolje.",2023-12-05 15:06:00,545,868
+747,526,2,Moglo je biti bolje.,2023-12-13 00:48:38,949,972
+748,100,4,"Vrlo dobro, ali može bolje.",2023-12-12 01:06:11,20,972
+749,414,3,"Ok, ništa posebno.",2023-12-12 18:20:45,666,972
+750,164,3,"Ok, ništa posebno.",2023-12-12 21:27:15,536,972
+751,542,4,"Vrlo dobro, ali može bolje.",2023-12-12 20:01:03,142,972
+752,149,3,"Ok, ništa posebno.",2023-12-12 21:45:56,633,215
+753,104,1,Zadovoljstvo nije bilo na razini.,2023-12-12 12:29:09,456,215
+754,549,4,"Vrlo dobro, ali može bolje.",2023-12-12 02:49:55,105,972
+755,456,5,Izvrsno jelo!,2023-12-12 22:23:19,995,972
+756,176,4,"Vrlo dobro, ali može bolje.",2023-12-10 17:00:00,207,972
+757,176,1,Zadovoljstvo nije bilo na razini.,2023-12-10 19:00:00,212,972
+758,168,1,Zadovoljstvo nije bilo na razini.,2023-12-10 20:00:00,2,972
+759,159,5,Izvrsno jelo!,2023-12-12 23:48:05,990,499
+760,242,1,Zadovoljstvo nije bilo na razini.,2023-12-12 08:50:55,520,972
+761,227,1,Zadovoljstvo nije bilo na razini.,2023-12-12 17:31:15,615,215
+762,168,2,Moglo je biti bolje.,2023-12-10 18:00:00,207,972
+763,118,4,"Vrlo dobro, ali može bolje.",2023-12-12 02:14:04,50,972
+764,174,5,Izvrsno jelo!,2023-12-10 16:00:00,211,972
+765,523,1,Zadovoljstvo nije bilo na razini.,2023-12-12 12:06:36,872,499
+766,153,1,Zadovoljstvo nije bilo na razini.,2023-12-11 14:06:00,77,499
+767,561,2,Moglo je biti bolje.,2023-12-12 22:34:19,145,215
+768,285,5,Izvrsno jelo!,2023-12-24 14:06:00,976,215
+769,158,2,Moglo je biti bolje.,2023-12-19 16:06:00,766,972
+770,139,4,"Vrlo dobro, ali može bolje.",2023-12-12 08:31:25,179,215
+771,293,1,Zadovoljstvo nije bilo na razini.,2023-12-12 05:15:40,198,499
+772,169,2,Moglo je biti bolje.,2023-12-10 17:00:00,212,972
+773,499,4,"Vrlo dobro, ali može bolje.",2023-12-12 11:42:23,86,499
+774,593,3,"Ok, ništa posebno.",2023-12-12 18:11:28,71,972
+775,187,4,"Vrlo dobro, ali može bolje.",2023-12-12 06:32:59,74,215
+776,401,5,Izvrsno jelo!,2023-12-12 21:58:18,147,499
+777,261,2,Moglo je biti bolje.,2023-12-13 02:22:59,478,972
+778,176,1,Zadovoljstvo nije bilo na razini.,2023-12-10 18:00:00,8,972
+779,221,5,Izvrsno jelo!,2023-12-12 05:13:14,888,972
+780,171,1,Zadovoljstvo nije bilo na razini.,2023-12-10 19:00:00,2,972
+781,175,2,Moglo je biti bolje.,2023-12-10 19:00:00,8,972
+782,113,4,"Vrlo dobro, ali može bolje.",2023-12-18 02:34:39,915,776
+783,542,4,"Vrlo dobro, ali može bolje.",2023-12-12 05:59:27,14,499
+784,278,1,Zadovoljstvo nije bilo na razini.,2023-12-12 18:42:29,556,215
+785,316,2,Moglo je biti bolje.,2023-12-12 03:51:25,428,499
+786,466,1,Zadovoljstvo nije bilo na razini.,2023-12-12 22:13:33,388,972
+787,405,3,"Ok, ništa posebno.",2023-12-12 04:23:37,921,499
+788,173,4,"Vrlo dobro, ali može bolje.",2023-12-10 18:00:00,2,972
+789,343,2,Moglo je biti bolje.,2023-12-28 14:28:32,112,483
+790,169,1,Zadovoljstvo nije bilo na razini.,2023-12-10 20:00:00,2,972
+791,550,3,"Ok, ništa posebno.",2023-12-12 05:10:30,31,215
+792,598,4,"Vrlo dobro, ali može bolje.",2023-12-12 18:04:12,777,215
+793,383,1,Zadovoljstvo nije bilo na razini.,2023-12-22 15:06:00,168,972
+794,167,2,Moglo je biti bolje.,2023-12-10 16:00:00,2,972
+795,437,5,Izvrsno jelo!,2023-12-12 10:10:40,73,972
+796,421,4,"Vrlo dobro, ali može bolje.",2023-12-21 21:01:09,87,620
+797,173,3,"Ok, ništa posebno.",2023-12-10 17:00:00,207,972
+798,434,5,Izvrsno jelo!,2023-12-25 12:06:00,381,972
+799,354,2,Moglo je biti bolje.,2023-12-12 19:50:34,432,499
+800,466,3,"Ok, ništa posebno.",2023-12-12 14:36:29,395,972
+801,173,4,"Vrlo dobro, ali može bolje.",2023-12-10 20:00:00,212,972
+802,178,1,Zadovoljstvo nije bilo na razini.,2023-12-29 13:06:00,178,868
+803,172,4,"Vrlo dobro, ali može bolje.",2023-12-10 19:00:00,8,972
+804,564,5,Izvrsno jelo!,2023-12-12 18:43:20,42,499
+805,886,4,"Vrlo dobro, ali može bolje.",2023-12-21 07:22:24,879,720
+806,220,3,"Ok, ništa posebno.",2023-12-12 12:08:25,555,972
+807,310,4,"Vrlo dobro, ali može bolje.",2023-12-12 18:04:51,330,215
+808,164,2,Moglo je biti bolje.,2023-12-12 21:39:36,12,972
+809,205,1,Zadovoljstvo nije bilo na razini.,2023-12-12 14:04:03,836,215
+810,400,1,Zadovoljstvo nije bilo na razini.,2023-12-18 14:06:00,558,499
+811,170,1,Zadovoljstvo nije bilo na razini.,2023-12-12 23:01:17,715,215
+812,214,1,Zadovoljstvo nije bilo na razini.,2023-12-12 02:47:28,657,215
+813,298,4,"Vrlo dobro, ali može bolje.",2023-12-09 14:06:00,753,499
+814,300,4,"Vrlo dobro, ali može bolje.",2023-12-12 20:22:07,689,499
+815,102,5,Izvrsno jelo!,2023-12-12 09:05:20,686,972
+816,122,4,"Vrlo dobro, ali može bolje.",2023-12-12 10:44:29,170,499
+817,561,3,"Ok, ništa posebno.",2023-12-13 03:35:35,555,215
+818,315,5,Izvrsno jelo!,2023-12-12 18:39:17,488,215
+819,124,1,Zadovoljstvo nije bilo na razini.,2023-12-28 17:06:00,65,499
+820,206,3,"Ok, ništa posebno.",2023-12-12 10:17:14,93,972
+821,386,1,Zadovoljstvo nije bilo na razini.,2023-12-12 06:30:19,200,215
+822,314,5,Izvrsno jelo!,2023-12-12 18:47:10,657,972
+823,464,1,Zadovoljstvo nije bilo na razini.,2023-12-12 11:26:44,134,215
+824,121,2,Moglo je biti bolje.,2023-12-12 11:36:55,940,972
+825,314,3,"Ok, ništa posebno.",2023-12-12 16:25:29,555,499
+826,578,3,"Ok, ništa posebno.",2023-12-13 00:44:26,332,499
+827,579,4,"Vrlo dobro, ali može bolje.",2023-12-12 18:07:15,625,972
+828,444,2,Moglo je biti bolje.,2023-12-23 16:06:00,698,868
+829,174,2,Moglo je biti bolje.,2023-12-10 17:00:00,212,972
+830,278,1,Zadovoljstvo nije bilo na razini.,2023-12-12 15:55:27,509,215
+831,171,2,Moglo je biti bolje.,2023-12-10 17:00:00,212,972
+832,371,4,"Vrlo dobro, ali može bolje.",2023-12-13 01:43:44,956,972
+833,365,1,Zadovoljstvo nije bilo na razini.,2023-12-12 16:23:32,1,972
+834,171,3,"Ok, ništa posebno.",2023-12-10 16:00:00,211,972
+835,286,4,"Vrlo dobro, ali može bolje.",2023-12-12 11:44:53,32,499
+836,257,1,Zadovoljstvo nije bilo na razini.,2023-12-12 18:24:05,108,972
+837,167,3,"Ok, ništa posebno.",2023-12-10 19:00:00,211,972
+838,192,3,"Ok, ništa posebno.",2023-12-12 07:32:27,876,499
+839,311,1,Zadovoljstvo nije bilo na razini.,2023-12-12 17:00:03,348,972
+840,481,2,Moglo je biti bolje.,2023-12-12 08:30:03,724,972
+841,136,1,Zadovoljstvo nije bilo na razini.,2023-12-15 15:06:00,804,614
+842,194,3,"Ok, ništa posebno.",2023-12-12 14:10:53,599,215
+843,565,5,Izvrsno jelo!,2023-12-12 17:12:38,36,499
+844,817,1,Zadovoljstvo nije bilo na razini.,2023-12-11 00:01:16,446,928
+845,144,2,Moglo je biti bolje.,2023-12-12 11:27:34,329,499
+846,178,3,"Ok, ništa posebno.",2023-12-12 06:05:32,612,215
+847,372,5,Izvrsno jelo!,2023-12-12 11:14:45,36,972
+848,386,4,"Vrlo dobro, ali može bolje.",2023-12-13 01:41:09,398,215
+849,592,2,Moglo je biti bolje.,2023-12-04 20:42:40,651,650
+850,557,3,"Ok, ništa posebno.",2023-12-12 16:28:38,586,499
+851,473,3,"Ok, ništa posebno.",2023-12-13 01:49:52,700,215
+852,167,1,Zadovoljstvo nije bilo na razini.,2023-12-10 16:00:00,212,972
+853,174,5,Izvrsno jelo!,2023-12-10 19:00:00,8,972
+854,130,2,Moglo je biti bolje.,2023-12-12 14:05:10,553,499
+855,165,1,Zadovoljstvo nije bilo na razini.,2023-12-12 21:03:07,53,972
+856,270,3,"Ok, ništa posebno.",2023-12-13 01:07:48,95,499
+857,441,5,Izvrsno jelo!,2023-12-12 11:49:23,879,215
+858,115,5,Izvrsno jelo!,2023-12-12 02:50:45,159,972
+859,567,1,Zadovoljstvo nije bilo na razini.,2023-12-12 09:10:19,308,972
+860,404,1,Zadovoljstvo nije bilo na razini.,2023-12-12 09:15:25,835,215
+861,147,5,Izvrsno jelo!,2023-12-12 21:22:07,521,731
+862,176,4,"Vrlo dobro, ali može bolje.",2023-12-10 18:00:00,211,972
+863,417,3,"Ok, ništa posebno.",2023-12-12 17:11:48,65,972
+864,454,2,Moglo je biti bolje.,2023-12-12 21:05:43,484,972
+865,579,3,"Ok, ništa posebno.",2023-12-12 06:31:48,560,972
+866,433,2,Moglo je biti bolje.,2023-12-12 14:43:00,436,972
+867,129,3,"Ok, ništa posebno.",2023-12-12 09:14:17,247,972
+868,502,1,Zadovoljstvo nije bilo na razini.,2023-12-12 23:48:51,86,499
+869,578,2,Moglo je biti bolje.,2023-12-12 07:20:24,958,499
+870,169,1,Zadovoljstvo nije bilo na razini.,2023-12-10 19:00:00,207,972
+871,170,5,Izvrsno jelo!,2023-12-10 17:00:00,207,972
+872,525,5,Izvrsno jelo!,2023-12-12 21:53:07,103,499
+873,168,4,"Vrlo dobro, ali može bolje.",2023-12-10 19:00:00,8,972
+874,543,3,"Ok, ništa posebno.",2023-12-20 13:06:00,272,868
+875,440,5,Izvrsno jelo!,2023-12-13 03:21:24,463,215
+876,264,4,"Vrlo dobro, ali može bolje.",2023-12-12 07:13:10,698,499
+877,337,2,Moglo je biti bolje.,2023-12-12 11:05:11,862,499
+878,174,4,"Vrlo dobro, ali može bolje.",2023-12-10 20:00:00,207,972
+879,552,1,Zadovoljstvo nije bilo na razini.,2023-12-12 18:42:45,741,972
+880,311,3,"Ok, ništa posebno.",2023-12-12 14:39:35,467,215
+881,405,2,Moglo je biti bolje.,2023-12-05 18:24:03,490,459
+882,316,3,"Ok, ništa posebno.",2023-12-12 22:17:44,395,499
+883,361,3,"Ok, ništa posebno.",2023-12-12 11:15:04,619,499
+884,258,4,"Vrlo dobro, ali može bolje.",2023-12-12 05:42:27,382,972
+885,493,5,Izvrsno jelo!,2023-12-15 14:06:00,454,215
+886,226,1,Zadovoljstvo nije bilo na razini.,2023-12-12 11:40:24,937,215
+887,572,2,Moglo je biti bolje.,2023-12-13 01:40:34,373,499
+888,511,4,"Vrlo dobro, ali može bolje.",2023-12-12 16:52:01,781,499
+889,562,5,Izvrsno jelo!,2023-12-12 08:13:42,10,215
+890,356,3,"Ok, ništa posebno.",2023-12-12 20:06:32,179,499
+891,285,1,Zadovoljstvo nije bilo na razini.,2023-12-28 20:06:34,362,548
+892,224,4,"Vrlo dobro, ali može bolje.",2023-12-17 13:06:00,722,215
+893,175,3,"Ok, ništa posebno.",2023-12-10 18:00:00,207,972
+894,144,5,Izvrsno jelo!,2023-12-27 14:06:00,321,972
+895,175,4,"Vrlo dobro, ali može bolje.",2023-12-10 17:00:00,212,972
+896,370,3,"Ok, ništa posebno.",2023-12-12 07:42:23,269,215
+897,167,2,Moglo je biti bolje.,2023-12-10 16:00:00,207,972
+898,173,1,Zadovoljstvo nije bilo na razini.,2023-12-10 19:00:00,211,972
+899,134,4,"Vrlo dobro, ali može bolje.",2023-12-12 21:33:23,885,972
+900,522,4,"Vrlo dobro, ali može bolje.",2023-12-12 02:23:09,275,499
+901,422,4,"Vrlo dobro, ali može bolje.",2023-12-05 14:06:00,468,972
+902,170,1,Zadovoljstvo nije bilo na razini.,2023-12-10 20:00:00,211,972
+903,824,4,"Vrlo dobro, ali može bolje.",2023-12-04 07:14:27,180,483
+904,514,2,Moglo je biti bolje.,2023-12-12 06:46:01,553,499
+905,126,5,Izvrsno jelo!,2023-12-12 11:13:34,997,215
+906,170,3,"Ok, ništa posebno.",2023-12-12 11:28:13,521,215
+907,194,3,"Ok, ništa posebno.",2023-12-12 22:29:20,832,215
+908,478,5,Izvrsno jelo!,2023-12-12 14:02:35,960,972
+909,219,1,Zadovoljstvo nije bilo na razini.,2023-12-12 15:33:12,882,972
+910,114,3,"Ok, ništa posebno.",2023-12-12 21:59:18,743,215
+911,115,2,Moglo je biti bolje.,2023-12-23 03:47:48,573,854
+912,256,3,"Ok, ništa posebno.",2023-12-12 04:19:02,930,215
+913,391,4,"Vrlo dobro, ali može bolje.",2023-12-12 10:14:10,491,215
+914,526,3,"Ok, ništa posebno.",2023-12-12 11:16:14,608,215
+915,571,1,Zadovoljstvo nije bilo na razini.,2023-12-12 22:51:24,896,215
+916,162,4,"Vrlo dobro, ali može bolje.",2023-12-12 12:39:34,26,215
+917,109,5,Izvrsno jelo!,2023-12-12 21:58:36,974,972
+918,170,3,"Ok, ništa posebno.",2023-12-10 18:00:00,212,972
+919,415,5,Izvrsno jelo!,2023-12-12 23:27:47,369,215
+920,428,1,Zadovoljstvo nije bilo na razini.,2023-12-12 22:13:47,83,215
+921,440,2,Moglo je biti bolje.,2023-12-12 21:40:15,492,972
+922,533,2,Moglo je biti bolje.,2023-12-12 07:18:12,34,499
+923,504,5,Izvrsno jelo!,2023-12-12 07:11:37,343,972
+924,548,4,"Vrlo dobro, ali može bolje.",2023-12-12 12:06:44,907,972
+925,170,3,"Ok, ništa posebno.",2023-12-10 16:00:00,8,972
+926,372,1,Zadovoljstvo nije bilo na razini.,2023-12-12 21:37:35,6,972
+927,171,2,Moglo je biti bolje.,2023-12-10 20:00:00,8,972
+928,219,2,Moglo je biti bolje.,2023-12-12 07:29:19,734,499
+929,543,4,"Vrlo dobro, ali može bolje.",2023-12-12 07:18:54,429,499
+930,485,4,"Vrlo dobro, ali može bolje.",2023-12-12 19:34:37,330,215
+931,179,4,"Vrlo dobro, ali može bolje.",2023-12-12 11:30:25,364,972
+932,399,3,"Ok, ništa posebno.",2023-12-12 03:13:58,366,215
+933,171,1,Zadovoljstvo nije bilo na razini.,2023-12-10 19:00:00,212,972
+934,556,1,Zadovoljstvo nije bilo na razini.,2023-12-12 21:33:26,720,972
+935,176,3,"Ok, ništa posebno.",2023-12-10 18:00:00,2,972
+936,152,1,Zadovoljstvo nije bilo na razini.,2023-12-12 21:28:34,322,972
+937,204,4,"Vrlo dobro, ali može bolje.",2023-12-12 15:39:21,445,215
+938,471,2,Moglo je biti bolje.,2023-12-13 01:34:55,646,215
+939,264,2,Moglo je biti bolje.,2023-12-13 02:44:43,840,972
+940,100,3,"Ok, ništa posebno.",2023-12-12 05:57:28,802,499
+941,461,4,"Vrlo dobro, ali može bolje.",2023-12-12 12:28:09,17,499
+942,570,4,"Vrlo dobro, ali može bolje.",2023-12-12 21:23:13,706,215
+943,169,2,Moglo je biti bolje.,2023-12-10 16:00:00,8,972
+944,348,4,"Vrlo dobro, ali može bolje.",2023-12-12 16:09:08,214,499
+945,440,1,Zadovoljstvo nije bilo na razini.,2023-12-12 06:46:38,486,972
+946,252,2,Moglo je biti bolje.,2023-12-13 01:28:53,317,972
+947,167,2,Moglo je biti bolje.,2023-12-16 16:06:00,950,215
+948,295,1,Zadovoljstvo nije bilo na razini.,2023-12-12 14:57:35,307,972
+949,408,2,Moglo je biti bolje.,2023-12-12 15:44:54,834,499
+950,405,4,"Vrlo dobro, ali može bolje.",2023-12-13 03:42:34,225,972
+951,328,4,"Vrlo dobro, ali može bolje.",2023-12-12 07:39:53,880,215
+952,277,5,Izvrsno jelo!,2023-12-12 06:18:39,288,215
+953,221,4,"Vrlo dobro, ali može bolje.",2023-12-13 00:57:46,221,499
+954,353,4,"Vrlo dobro, ali može bolje.",2023-12-12 04:11:35,660,215
+955,576,5,Izvrsno jelo!,2023-12-12 03:03:58,413,972
+956,591,4,"Vrlo dobro, ali može bolje.",2023-12-12 13:56:22,585,972
+957,448,4,"Vrlo dobro, ali može bolje.",2023-12-21 16:06:00,793,499
+958,323,5,Izvrsno jelo!,2023-12-12 16:53:51,825,215
+959,458,1,Zadovoljstvo nije bilo na razini.,2023-12-12 22:58:28,888,972
+960,180,5,Izvrsno jelo!,2023-12-12 12:49:21,811,972
+961,512,2,Moglo je biti bolje.,2023-12-12 05:00:00,336,972
+962,510,2,Moglo je biti bolje.,2023-12-12 23:00:17,535,499
+963,167,2,Moglo je biti bolje.,2023-12-10 16:00:00,8,972
+964,336,4,"Vrlo dobro, ali može bolje.",2023-12-13 00:46:52,480,499
+965,287,1,Zadovoljstvo nije bilo na razini.,2023-12-21 15:17:49,233,647
+966,317,2,Moglo je biti bolje.,2023-12-12 14:27:36,850,972
+967,169,5,Izvrsno jelo!,2023-12-10 16:00:00,207,972
+968,592,4,"Vrlo dobro, ali može bolje.",2023-12-12 15:34:30,359,972
+969,100,5,Izvrsno jelo!,2023-12-12 09:03:45,519,499
+970,480,4,"Vrlo dobro, ali može bolje.",2023-12-09 16:06:00,887,499
+971,436,2,Moglo je biti bolje.,2023-12-12 17:05:19,963,215
+972,381,5,Izvrsno jelo!,2023-12-13 01:24:37,439,215
+973,449,1,Zadovoljstvo nije bilo na razini.,2023-12-12 13:19:01,150,499
+974,159,5,Izvrsno jelo!,2023-12-12 06:14:05,147,499
+975,548,5,Izvrsno jelo!,2023-12-12 13:21:09,681,215
+976,114,5,Izvrsno jelo!,2023-12-12 11:12:00,26,499
+977,454,3,"Ok, ništa posebno.",2023-12-27 16:06:00,638,215
+978,175,5,Izvrsno jelo!,2023-12-10 19:00:00,211,972
+979,357,2,Moglo je biti bolje.,2023-12-12 11:03:30,184,215
+980,205,4,"Vrlo dobro, ali može bolje.",2023-12-12 03:47:05,224,215
+981,289,5,Izvrsno jelo!,2023-12-26 18:06:00,188,868
+982,351,1,Zadovoljstvo nije bilo na razini.,2023-12-12 18:20:40,945,499
+983,370,5,Izvrsno jelo!,2023-12-12 14:01:59,279,972
+984,325,3,"Ok, ništa posebno.",2023-12-12 19:10:01,991,972
+985,190,2,Moglo je biti bolje.,2023-12-12 16:51:25,466,972
+986,461,1,Zadovoljstvo nije bilo na razini.,2023-12-12 19:38:14,228,972
+987,475,4,"Vrlo dobro, ali može bolje.",2023-12-17 00:16:38,609,417
+988,306,2,Moglo je biti bolje.,2023-12-01 20:08:31,487,536
+989,277,2,Moglo je biti bolje.,2023-12-12 01:36:29,872,972
+990,501,4,"Vrlo dobro, ali može bolje.",2023-12-13 00:30:02,761,215
+991,217,3,"Ok, ništa posebno.",2023-12-12 09:00:59,895,499
+992,178,4,"Vrlo dobro, ali može bolje.",2023-12-12 12:32:24,549,499
+993,578,4,"Vrlo dobro, ali može bolje.",2023-12-13 01:31:29,540,499
+994,592,1,Zadovoljstvo nije bilo na razini.,2023-12-12 16:45:39,751,499
+995,424,2,Moglo je biti bolje.,2023-12-12 17:36:28,465,972
+996,164,5,Izvrsno jelo!,2023-12-12 09:57:46,268,215
+997,277,1,Zadovoljstvo nije bilo na razini.,2023-12-12 10:51:31,506,215
+998,173,1,Zadovoljstvo nije bilo na razini.,2023-12-10 16:00:00,8,972
+999,465,5,Izvrsno jelo!,2023-12-12 14:10:24,90,972
+1000,578,5,Izvrsno jelo!,2023-12-12 20:38:40,503,972
+1001,288,2,Moglo je biti bolje.,2023-12-12 11:15:59,506,972
+1002,297,5,Izvrsno jelo!,2023-12-13 01:53:30,618,215
+1003,172,5,Izvrsno jelo!,2023-12-10 16:00:00,207,972
+1004,101,3,"Ok, ništa posebno.",2023-12-12 17:00:26,683,215
+1005,201,5,Izvrsno jelo!,2023-12-12 11:14:05,808,499
+1006,300,5,Izvrsno jelo!,2023-12-12 21:01:46,801,972
+1007,157,5,Izvrsno jelo!,2023-12-12 12:46:38,83,499
+1008,228,3,"Ok, ništa posebno.",2023-12-24 15:06:00,158,614
+1009,167,5,Izvrsno jelo!,2023-12-10 19:00:00,2,972
+1010,177,1,Zadovoljstvo nije bilo na razini.,2023-12-12 04:17:17,904,215
+1011,205,5,Izvrsno jelo!,2023-12-12 14:02:08,495,499
+1012,264,4,"Vrlo dobro, ali može bolje.",2023-12-26 14:06:00,831,868
+1013,391,2,Moglo je biti bolje.,2023-12-12 14:27:46,894,215
+1014,136,3,"Ok, ništa posebno.",2023-12-12 03:25:45,544,215
+1015,500,4,"Vrlo dobro, ali može bolje.",2023-12-13 02:45:54,50,972
+1016,153,1,Zadovoljstvo nije bilo na razini.,2023-12-12 20:12:38,879,499
+1017,221,1,Zadovoljstvo nije bilo na razini.,2023-12-12 13:32:47,915,215
+1018,159,3,"Ok, ništa posebno.",2023-12-14 17:06:00,214,499
+1019,170,2,Moglo je biti bolje.,2023-12-10 19:00:00,211,972
+1020,404,3,"Ok, ništa posebno.",2023-12-12 07:54:44,442,215
+1021,162,4,"Vrlo dobro, ali može bolje.",2023-12-12 14:32:03,870,972
+1022,437,3,"Ok, ništa posebno.",2023-12-12 10:40:47,174,972
+1023,175,3,"Ok, ništa posebno.",2023-12-16 13:06:00,921,972
+1024,417,1,Zadovoljstvo nije bilo na razini.,2023-12-12 19:53:14,457,499
+1025,295,2,Moglo je biti bolje.,2023-12-12 14:38:30,744,215
+1026,322,1,Zadovoljstvo nije bilo na razini.,2023-12-12 16:11:38,790,215
+1027,113,4,"Vrlo dobro, ali može bolje.",2023-12-12 03:42:29,35,499
+1028,305,5,Izvrsno jelo!,2023-12-12 08:34:24,853,215
+1029,547,4,"Vrlo dobro, ali može bolje.",2023-12-12 12:47:32,251,215
+1030,172,1,Zadovoljstvo nije bilo na razini.,2023-12-10 16:00:00,211,972
+1031,188,1,Zadovoljstvo nije bilo na razini.,2023-12-12 19:48:16,373,215
+1032,375,1,Zadovoljstvo nije bilo na razini.,2023-12-12 22:58:09,431,499
+1033,435,2,Moglo je biti bolje.,2023-12-12 16:56:25,448,215
+1034,277,5,Izvrsno jelo!,2023-12-12 16:45:03,808,215
+1035,273,4,"Vrlo dobro, ali može bolje.",2023-12-12 19:27:34,171,215
+1036,556,3,"Ok, ništa posebno.",2023-12-13 03:32:44,911,215
+1037,197,3,"Ok, ništa posebno.",2023-12-10 14:06:00,654,614
+1038,269,2,Moglo je biti bolje.,2023-12-27 18:06:00,930,614
+1039,157,4,"Vrlo dobro, ali može bolje.",2023-12-13 03:22:40,641,215
+1040,155,1,Zadovoljstvo nije bilo na razini.,2023-12-12 12:25:50,515,499
+1041,169,4,"Vrlo dobro, ali može bolje.",2023-12-10 17:00:00,211,972
+1042,203,3,"Ok, ništa posebno.",2023-12-12 18:18:58,918,215
+1043,162,1,Zadovoljstvo nije bilo na razini.,2023-12-12 07:25:10,990,972
+1044,115,5,Izvrsno jelo!,2023-12-12 14:50:25,959,972
+1045,203,5,Izvrsno jelo!,2023-12-12 20:32:16,608,972
+1046,503,4,"Vrlo dobro, ali može bolje.",2023-12-12 03:32:36,423,215
+1047,180,2,Moglo je biti bolje.,2023-12-12 18:55:38,908,972
+1048,104,2,Moglo je biti bolje.,2023-12-12 19:56:27,583,499
+1049,491,2,Moglo je biti bolje.,2023-12-12 19:09:31,776,215
+1050,168,4,"Vrlo dobro, ali može bolje.",2023-12-10 19:00:00,212,972
+1051,214,4,"Vrlo dobro, ali može bolje.",2023-12-12 01:47:28,657,215
+1052,101,2,Moglo je biti bolje.,2023-12-12 14:00:26,683,215
+1053,557,5,Izvrsno jelo!,2023-12-12 13:28:38,586,499
+1054,261,5,Izvrsno jelo!,2023-12-13 02:22:59,478,972
+1055,598,2,Moglo je biti bolje.,2023-12-12 15:04:12,777,215
+1056,592,2,Moglo je biti bolje.,2023-12-12 16:34:30,359,972
+1057,172,2,Moglo je biti bolje.,2023-12-10 20:00:00,211,972
+1058,510,2,Moglo je biti bolje.,2023-12-12 23:00:17,535,499
+1059,264,4,"Vrlo dobro, ali može bolje.",2023-12-26 18:06:00,831,868
+1060,549,4,"Vrlo dobro, ali može bolje.",2023-12-12 04:49:55,105,972
+1061,257,5,Izvrsno jelo!,2023-12-12 18:24:05,108,972
+1062,404,4,"Vrlo dobro, ali može bolje.",2023-12-12 08:15:25,835,215
+1063,593,1,Zadovoljstvo nije bilo na razini.,2023-12-12 19:11:28,71,972
+1064,176,1,Zadovoljstvo nije bilo na razini.,2023-12-10 18:00:00,212,972
+1065,130,2,Moglo je biti bolje.,2023-12-12 11:05:10,553,499
+1066,221,4,"Vrlo dobro, ali može bolje.",2023-12-12 21:57:46,221,499
+1067,372,1,Zadovoljstvo nije bilo na razini.,2023-12-12 14:14:45,36,972
+1068,171,2,Moglo je biti bolje.,2023-12-10 19:00:00,211,972
+1069,126,2,Moglo je biti bolje.,2023-12-12 19:35:48,495,972
+1070,543,5,Izvrsno jelo!,2023-12-20 12:06:00,272,868
+1071,405,2,Moglo je biti bolje.,2023-12-12 06:23:37,921,499
+1072,328,1,Zadovoljstvo nije bilo na razini.,2023-12-12 04:39:53,880,215
+1073,289,1,Zadovoljstvo nije bilo na razini.,2023-12-26 15:06:00,188,868
+1074,592,4,"Vrlo dobro, ali može bolje.",2023-12-12 15:45:39,751,499
+1075,162,2,Moglo je biti bolje.,2023-12-12 08:25:10,990,972
+1076,190,2,Moglo je biti bolje.,2023-12-12 16:51:25,466,972
+1077,542,2,Moglo je biti bolje.,2023-12-12 05:59:27,14,499
+1078,221,4,"Vrlo dobro, ali može bolje.",2023-12-12 13:32:47,915,215
+1079,391,3,"Ok, ništa posebno.",2023-12-12 14:27:46,894,215
+1080,159,1,Zadovoljstvo nije bilo na razini.,2023-12-12 21:48:05,990,499
+1081,361,4,"Vrlo dobro, ali može bolje.",2023-12-12 08:15:04,619,499
+1082,336,1,Zadovoljstvo nije bilo na razini.,2023-12-13 00:46:52,480,499
+1083,169,3,"Ok, ništa posebno.",2023-12-10 19:00:00,207,972
+1084,297,5,Izvrsno jelo!,2023-12-13 00:53:30,618,215
+1085,201,4,"Vrlo dobro, ali može bolje.",2023-12-12 13:25:01,83,972
+1086,370,1,Zadovoljstvo nije bilo na razini.,2023-12-12 06:42:23,269,215
+1087,599,4,"Vrlo dobro, ali može bolje.",2023-12-12 12:16:52,116,972
+1088,464,2,Moglo je biti bolje.,2023-12-12 11:26:44,134,215
+1089,481,2,Moglo je biti bolje.,2023-12-12 18:35:05,359,215
+1090,174,1,Zadovoljstvo nije bilo na razini.,2023-12-10 18:00:00,2,972
+1091,164,3,"Ok, ništa posebno.",2023-12-12 22:39:36,12,972
+1092,422,2,Moglo je biti bolje.,2023-12-05 15:06:00,468,972
+1093,550,2,Moglo je biti bolje.,2023-12-12 06:10:30,31,215
+1094,164,3,"Ok, ništa posebno.",2023-12-12 21:27:15,536,972
+1095,167,3,"Ok, ništa posebno.",2023-12-10 20:00:00,2,972
+1096,478,1,Zadovoljstvo nije bilo na razini.,2023-12-12 13:02:35,960,972
+1097,293,3,"Ok, ništa posebno.",2023-12-12 03:15:40,198,499
+1098,180,2,Moglo je biti bolje.,2023-12-12 11:49:21,811,972
+1099,197,5,Izvrsno jelo!,2023-12-10 13:06:00,654,614
+1100,526,1,Zadovoljstvo nije bilo na razini.,2023-12-13 01:48:38,949,972
+1101,172,3,"Ok, ništa posebno.",2023-12-10 19:00:00,8,972
+1102,172,5,Izvrsno jelo!,2023-12-10 16:00:00,207,972
+1103,174,1,Zadovoljstvo nije bilo na razini.,2023-12-10 16:00:00,207,972
+1104,277,1,Zadovoljstvo nije bilo na razini.,2023-12-12 09:18:39,288,215
+1105,170,5,Izvrsno jelo!,2023-12-12 23:01:17,715,215
+1106,252,3,"Ok, ništa posebno.",2023-12-12 23:28:53,317,972
+1107,417,5,Izvrsno jelo!,2023-12-12 22:53:14,457,499
+1108,173,1,Zadovoljstvo nije bilo na razini.,2023-12-10 17:00:00,211,972
+1109,567,4,"Vrlo dobro, ali može bolje.",2023-12-12 11:10:19,308,972
+1110,173,1,Zadovoljstvo nije bilo na razini.,2023-12-10 17:00:00,2,972
+1111,591,3,"Ok, ništa posebno.",2023-12-12 12:56:22,585,972
+1112,104,2,Moglo je biti bolje.,2023-12-12 18:56:27,583,499
+1113,158,2,Moglo je biti bolje.,2023-12-19 16:06:00,766,972
+1114,415,5,Izvrsno jelo!,2023-12-12 21:27:47,369,215
+1115,547,2,Moglo je biti bolje.,2023-12-12 11:47:32,251,215
+1116,170,3,"Ok, ništa posebno.",2023-12-10 16:00:00,211,972
+1117,139,3,"Ok, ništa posebno.",2023-12-12 12:31:25,179,215
+1118,423,4,"Vrlo dobro, ali može bolje.",2023-12-12 05:26:50,753,215
+1119,157,1,Zadovoljstvo nije bilo na razini.,2023-12-12 08:46:38,83,499
+1120,219,3,"Ok, ništa posebno.",2023-12-12 03:29:19,734,499
+1121,572,1,Zadovoljstvo nije bilo na razini.,2023-12-13 01:40:34,373,499
+1122,178,3,"Ok, ništa posebno.",2023-12-12 08:05:32,612,215
+1123,580,4,"Vrlo dobro, ali može bolje.",2023-12-13 01:09:18,419,215
+1124,405,5,Izvrsno jelo!,2023-12-12 23:42:34,225,972
+1125,171,3,"Ok, ništa posebno.",2023-12-10 16:00:00,212,972
+1126,278,3,"Ok, ništa posebno.",2023-12-12 16:42:29,556,215
+1127,217,4,"Vrlo dobro, ali može bolje.",2023-12-12 05:00:59,895,499
+1128,204,3,"Ok, ništa posebno.",2023-12-12 13:28:12,770,215
+1129,144,1,Zadovoljstvo nije bilo na razini.,2023-12-27 17:06:00,321,972
+1130,399,1,Zadovoljstvo nije bilo na razini.,2023-12-12 04:13:58,366,215
+1131,533,2,Moglo je biti bolje.,2023-12-12 08:18:12,34,499
+1132,480,5,Izvrsno jelo!,2023-12-09 13:06:00,887,499
+1133,126,1,Zadovoljstvo nije bilo na razini.,2023-12-12 11:13:34,997,215
+1134,147,1,Zadovoljstvo nije bilo na razini.,2023-12-12 21:22:07,521,731
+1135,331,1,Zadovoljstvo nije bilo na razini.,2023-12-12 11:52:41,493,215
+1136,466,1,Zadovoljstvo nije bilo na razini.,2023-12-12 16:36:29,395,972
+1137,179,3,"Ok, ništa posebno.",2023-12-12 09:30:25,364,972
+1138,400,4,"Vrlo dobro, ali može bolje.",2023-12-18 17:06:00,558,499
+1139,178,3,"Ok, ništa posebno.",2023-12-29 16:06:00,178,868
+1140,169,4,"Vrlo dobro, ali može bolje.",2023-12-10 20:00:00,207,972
+1141,452,3,"Ok, ništa posebno.",2023-12-12 20:21:10,987,499
+1142,170,5,Izvrsno jelo!,2023-12-10 19:00:00,212,972
+1143,314,2,Moglo je biti bolje.,2023-12-12 19:25:29,555,499
+1144,174,3,"Ok, ništa posebno.",2023-12-10 17:00:00,211,972
+1145,311,1,Zadovoljstvo nije bilo na razini.,2023-12-12 19:00:03,348,972
+1146,224,2,Moglo je biti bolje.,2023-12-17 14:06:00,722,215
+1147,170,3,"Ok, ništa posebno.",2023-12-12 11:28:13,521,215
+1148,886,1,Zadovoljstvo nije bilo na razini.,2023-12-21 07:22:24,879,720
+1149,205,3,"Ok, ništa posebno.",2023-12-12 15:04:03,836,215
+1150,109,4,"Vrlo dobro, ali može bolje.",2023-12-12 21:58:36,974,972
+1151,449,3,"Ok, ništa posebno.",2023-12-12 14:19:01,150,499
+1152,170,4,"Vrlo dobro, ali može bolje.",2023-12-10 17:00:00,211,972
+1153,561,4,"Vrlo dobro, ali može bolje.",2023-12-12 22:34:19,145,215
+1154,448,4,"Vrlo dobro, ali može bolje.",2023-12-21 15:06:00,793,499
+1155,115,1,Zadovoljstvo nije bilo na razini.,2023-12-12 13:50:25,959,972
+1156,168,4,"Vrlo dobro, ali može bolje.",2023-12-10 16:00:00,8,972
+1157,159,3,"Ok, ništa posebno.",2023-12-14 17:06:00,214,499
+1158,124,4,"Vrlo dobro, ali može bolje.",2023-12-28 17:06:00,65,499
+1159,168,4,"Vrlo dobro, ali može bolje.",2023-12-10 16:00:00,207,972
+1160,118,2,Moglo je biti bolje.,2023-12-12 02:14:04,50,972
+1161,491,2,Moglo je biti bolje.,2023-12-12 18:09:31,776,215
+1162,316,4,"Vrlo dobro, ali može bolje.",2023-12-12 21:17:44,395,499
+1163,295,1,Zadovoljstvo nije bilo na razini.,2023-12-12 15:57:35,307,972
+1164,456,1,Zadovoljstvo nije bilo na razini.,2023-12-12 22:23:19,995,972
+1165,170,4,"Vrlo dobro, ali može bolje.",2023-12-10 17:00:00,8,972
+1166,525,3,"Ok, ništa posebno.",2023-12-12 23:53:07,103,499
+1167,386,4,"Vrlo dobro, ali može bolje.",2023-12-12 23:41:09,398,215
+1168,310,1,Zadovoljstvo nije bilo na razini.,2023-12-12 14:24:42,289,972
+1169,314,5,Izvrsno jelo!,2023-12-12 14:47:10,657,972
+1170,466,3,"Ok, ništa posebno.",2023-12-13 01:13:33,388,972
+1171,113,4,"Vrlo dobro, ali može bolje.",2023-12-18 02:34:39,915,776
+1172,176,1,Zadovoljstvo nije bilo na razini.,2023-12-10 18:00:00,2,972
+1173,171,5,Izvrsno jelo!,2023-12-10 20:00:00,8,972
+1174,227,3,"Ok, ništa posebno.",2023-12-12 20:31:15,615,215
+1175,499,3,"Ok, ništa posebno.",2023-12-12 17:35:33,385,215
+1176,169,5,Izvrsno jelo!,2023-12-10 20:00:00,2,972
+1177,437,2,Moglo je biti bolje.,2023-12-12 11:40:47,174,972
+1178,136,2,Moglo je biti bolje.,2023-12-12 05:25:45,544,215
+1179,220,5,Izvrsno jelo!,2023-12-12 14:08:25,555,972
+1180,387,1,Zadovoljstvo nije bilo na razini.,2023-12-12 15:30:37,16,499
+1181,159,3,"Ok, ništa posebno.",2023-12-12 05:14:05,147,499
+1182,552,2,Moglo je biti bolje.,2023-12-12 16:42:45,741,972
+1183,471,5,Izvrsno jelo!,2023-12-13 03:34:55,646,215
+1184,564,2,Moglo je biti bolje.,2023-12-12 18:43:20,42,499
+1185,176,5,Izvrsno jelo!,2023-12-10 16:00:00,8,972
+1186,578,5,Izvrsno jelo!,2023-12-13 01:44:26,332,499
+1187,175,4,"Vrlo dobro, ali može bolje.",2023-12-10 17:00:00,8,972
+1188,205,4,"Vrlo dobro, ali može bolje.",2023-12-12 13:02:08,495,499
+1189,187,1,Zadovoljstvo nije bilo na razini.,2023-12-12 04:32:59,74,215
+1190,228,1,Zadovoljstvo nije bilo na razini.,2023-12-24 15:06:00,158,614
+1191,204,5,Izvrsno jelo!,2023-12-12 15:39:21,445,215
+1192,278,4,"Vrlo dobro, ali može bolje.",2023-12-12 15:55:27,509,215
+1193,351,3,"Ok, ništa posebno.",2023-12-12 11:12:39,699,972
+1194,305,2,Moglo je biti bolje.,2023-12-12 10:34:24,853,215
+1195,277,3,"Ok, ništa posebno.",2023-12-12 12:45:03,808,215
+1196,579,2,Moglo je biti bolje.,2023-12-12 07:31:48,560,972
+1197,436,4,"Vrlo dobro, ali može bolje.",2023-12-12 18:05:19,963,215
+1198,578,2,Moglo je biti bolje.,2023-12-12 09:20:24,958,499
+1199,316,3,"Ok, ništa posebno.",2023-12-12 04:51:25,428,499
+1200,100,3,"Ok, ništa posebno.",2023-12-12 07:03:45,519,499
+1201,392,1,Zadovoljstvo nije bilo na razini.,2023-12-17 16:06:00,218,215
+1202,381,3,"Ok, ništa posebno.",2023-12-13 02:24:37,439,215
+1203,162,4,"Vrlo dobro, ali može bolje.",2023-12-12 18:32:03,870,972
+1204,273,5,Izvrsno jelo!,2023-12-12 15:27:34,171,215
+1205,175,2,Moglo je biti bolje.,2023-12-10 17:00:00,212,972
+1206,437,1,Zadovoljstvo nije bilo na razini.,2023-12-12 10:10:40,73,972
+1207,454,1,Zadovoljstvo nije bilo na razini.,2023-12-12 22:05:43,484,972
+1208,414,3,"Ok, ništa posebno.",2023-12-12 20:20:45,666,972
+1209,576,2,Moglo je biti bolje.,2023-12-12 06:03:58,413,972
+1210,235,5,Izvrsno jelo!,2023-12-12 09:36:33,631,972
+1211,423,5,Izvrsno jelo!,2023-12-16 15:06:00,653,215
+1212,523,2,Moglo je biti bolje.,2023-12-12 11:06:36,872,499
+1213,351,2,Moglo je biti bolje.,2023-12-12 19:20:40,945,499
+1214,287,5,Izvrsno jelo!,2023-12-21 13:17:49,233,647
+1215,817,2,Moglo je biti bolje.,2023-12-10 22:01:16,446,928
+1216,300,3,"Ok, ništa posebno.",2023-12-12 20:01:46,801,972
+1217,114,3,"Ok, ništa posebno.",2023-12-12 22:59:18,743,215
+1218,207,1,Zadovoljstvo nije bilo na razini.,2023-12-12 05:52:19,380,972
+1219,317,2,Moglo je biti bolje.,2023-12-12 15:27:36,850,972
+1220,306,2,Moglo je biti bolje.,2023-12-01 22:08:31,487,536
+1221,579,4,"Vrlo dobro, ali može bolje.",2023-12-12 18:07:15,625,972
+1222,485,2,Moglo je biti bolje.,2023-12-12 21:34:37,330,215
+1223,500,5,Izvrsno jelo!,2023-12-13 00:45:54,50,972
+1224,543,3,"Ok, ništa posebno.",2023-12-12 06:18:54,429,499
+1225,288,2,Moglo je biti bolje.,2023-12-12 10:15:59,506,972
+1226,556,1,Zadovoljstvo nije bilo na razini.,2023-12-13 00:33:26,720,972
+1227,520,5,Izvrsno jelo!,2023-12-12 15:00:04,483,499
+1228,242,3,"Ok, ništa posebno.",2023-12-12 10:50:55,520,972
+1229,153,5,Izvrsno jelo!,2023-12-11 15:06:00,77,499
+1230,421,1,Zadovoljstvo nije bilo na razini.,2023-12-21 17:01:09,87,620
+1231,175,2,Moglo je biti bolje.,2023-12-10 18:00:00,207,972
+1232,365,5,Izvrsno jelo!,2023-12-12 13:23:32,1,972
+1233,170,4,"Vrlo dobro, ali može bolje.",2023-12-10 20:00:00,207,972
+1234,353,5,Izvrsno jelo!,2023-12-12 12:19:49,104,215
+1235,388,5,Izvrsno jelo!,2023-12-12 15:54:51,564,215
+1236,433,4,"Vrlo dobro, ali može bolje.",2023-12-12 14:43:00,436,972
+1237,435,1,Zadovoljstvo nije bilo na razini.,2023-12-12 18:56:25,448,215
+1238,136,1,Zadovoljstvo nije bilo na razini.,2023-12-15 16:06:00,804,614
+1239,172,2,Moglo je biti bolje.,2023-12-10 18:00:00,2,972
+1240,152,5,Izvrsno jelo!,2023-12-12 20:28:34,322,972
+1241,503,4,"Vrlo dobro, ali može bolje.",2023-12-12 03:32:36,423,215
+1242,475,4,"Vrlo dobro, ali može bolje.",2023-12-16 23:16:38,609,417
+1243,175,5,Izvrsno jelo!,2023-12-10 17:00:00,2,972
+1244,164,5,Izvrsno jelo!,2023-12-12 09:57:46,268,215
+1245,312,3,"Ok, ništa posebno.",2023-12-12 03:03:55,500,972
+1246,122,3,"Ok, ništa posebno.",2023-12-12 11:44:29,170,499
+1247,298,5,Izvrsno jelo!,2023-12-09 15:06:00,753,499
+1248,504,4,"Vrlo dobro, ali može bolje.",2023-12-12 10:11:37,343,972
+1249,357,3,"Ok, ništa posebno.",2023-12-12 12:03:30,184,215
+1250,824,5,Izvrsno jelo!,2023-12-04 04:14:27,180,483
+1251,134,2,Moglo je biti bolje.,2023-12-12 11:12:10,724,215
+1252,423,5,Izvrsno jelo!,2023-12-13 01:07:00,940,972
+1253,458,3,"Ok, ništa posebno.",2023-12-12 22:58:28,888,972
+1254,201,4,"Vrlo dobro, ali može bolje.",2023-12-12 10:14:05,808,499
+1255,170,1,Zadovoljstvo nije bilo na razini.,2023-12-10 19:00:00,2,972
+1256,188,5,Izvrsno jelo!,2023-12-12 19:48:16,373,215
+1257,378,1,Zadovoljstvo nije bilo na razini.,2023-12-12 15:17:14,496,972
+1258,173,3,"Ok, ništa posebno.",2023-12-10 16:00:00,207,972
+1259,286,4,"Vrlo dobro, ali može bolje.",2023-12-12 11:44:53,32,499
+1260,461,4,"Vrlo dobro, ali može bolje.",2023-12-12 20:38:14,228,972
+1261,522,5,Izvrsno jelo!,2023-12-12 02:23:09,275,499
+1262,383,5,Izvrsno jelo!,2023-12-22 14:06:00,168,972
+1263,174,5,Izvrsno jelo!,2023-12-10 19:00:00,212,972
+1264,168,5,Izvrsno jelo!,2023-12-10 19:00:00,2,972
+1265,375,3,"Ok, ništa posebno.",2023-12-12 21:58:09,431,499
+1266,121,1,Zadovoljstvo nije bilo na razini.,2023-12-12 10:36:55,940,972
+1267,277,4,"Vrlo dobro, ali može bolje.",2023-12-12 02:36:29,872,972
+1268,167,2,Moglo je biti bolje.,2023-12-10 17:00:00,212,972
+1269,311,4,"Vrlo dobro, ali može bolje.",2023-12-12 15:39:35,467,215
+1270,194,5,Izvrsno jelo!,2023-12-12 17:10:53,599,215
+1271,548,5,Izvrsno jelo!,2023-12-12 10:06:44,907,972
+1272,690,3,"Ok, ništa posebno.",2023-12-03 03:12:45,470,883
+1273,277,4,"Vrlo dobro, ali može bolje.",2023-12-12 11:51:31,506,215
+1274,162,3,"Ok, ništa posebno.",2023-12-12 11:39:34,26,215
+1275,173,4,"Vrlo dobro, ali može bolje.",2023-12-10 20:00:00,212,972
+1276,473,5,Izvrsno jelo!,2023-12-13 04:49:52,700,215
+1277,149,4,"Vrlo dobro, ali može bolje.",2023-12-13 00:45:56,633,215
+1278,173,3,"Ok, ništa posebno.",2023-12-10 16:00:00,8,972
+1279,405,4,"Vrlo dobro, ali može bolje.",2023-12-05 20:24:03,490,459
+1280,219,5,Izvrsno jelo!,2023-12-12 13:33:12,882,972
+1281,258,3,"Ok, ništa posebno.",2023-12-12 01:42:27,382,972
+1282,176,5,Izvrsno jelo!,2023-12-10 19:00:00,211,972
+1283,243,4,"Vrlo dobro, ali može bolje.",2023-12-12 06:45:30,641,215
+1284,144,3,"Ok, ništa posebno.",2023-12-12 12:27:34,329,499
+1285,557,5,Izvrsno jelo!,2023-12-13 04:16:18,261,215
+1286,177,3,"Ok, ništa posebno.",2023-12-12 03:17:17,904,215
+1287,135,3,"Ok, ništa posebno.",2023-12-05 15:06:00,545,868
+1288,175,1,Zadovoljstvo nije bilo na razini.,2023-12-10 18:00:00,211,972
+1289,323,2,Moglo je biti bolje.,2023-12-12 16:53:51,825,215
+1290,514,4,"Vrlo dobro, ali može bolje.",2023-12-12 06:46:01,553,499
+1291,483,5,Izvrsno jelo!,2023-12-12 12:11:43,857,972
+1292,440,4,"Vrlo dobro, ali može bolje.",2023-12-13 02:21:24,463,215
+1293,461,2,Moglo je biti bolje.,2023-12-12 10:28:09,17,499
+1294,454,1,Zadovoljstvo nije bilo na razini.,2023-12-27 12:06:00,638,215
+1295,175,5,Izvrsno jelo!,2023-12-16 14:06:00,921,972
+1296,440,3,"Ok, ništa posebno.",2023-12-12 06:46:38,486,972
+1297,129,1,Zadovoljstvo nije bilo na razini.,2023-12-12 12:14:17,247,972
+1298,167,2,Moglo je biti bolje.,2023-12-10 17:00:00,211,972
+1299,526,5,Izvrsno jelo!,2023-12-12 12:16:14,608,215
+1300,203,4,"Vrlo dobro, ali može bolje.",2023-12-12 18:32:16,608,972
+1301,465,4,"Vrlo dobro, ali može bolje.",2023-12-12 13:10:24,90,972
+1302,440,5,Izvrsno jelo!,2023-12-12 23:40:15,492,972
+1303,194,2,Moglo je biti bolje.,2023-12-12 22:29:20,832,215
+1304,168,5,Izvrsno jelo!,2023-12-10 17:00:00,212,972
+1305,501,1,Zadovoljstvo nije bilo na razini.,2023-12-13 02:30:02,761,215
+1306,102,3,"Ok, ništa posebno.",2023-12-12 09:05:20,686,972
+1307,354,3,"Ok, ništa posebno.",2023-12-12 18:50:34,432,499
+1308,178,3,"Ok, ništa posebno.",2023-12-12 10:32:24,549,499
+1309,434,3,"Ok, ništa posebno.",2023-12-25 12:06:00,381,972
+1310,167,5,Izvrsno jelo!,2023-12-16 12:06:00,950,215
+1311,169,1,Zadovoljstvo nije bilo na razini.,2023-12-10 19:00:00,8,972
+1312,205,5,Izvrsno jelo!,2023-12-12 02:47:05,224,215
+1313,391,2,Moglo je biti bolje.,2023-12-12 10:14:10,491,215
+1314,167,4,"Vrlo dobro, ali može bolje.",2023-12-10 16:00:00,2,972
+1315,221,3,"Ok, ništa posebno.",2023-12-12 04:13:14,888,972
+1316,424,2,Moglo je biti bolje.,2023-12-12 17:26:25,370,215
+1317,454,1,Zadovoljstvo nije bilo na razini.,2023-12-12 19:54:57,391,972
+1318,561,1,Zadovoljstvo nije bilo na razini.,2023-12-12 23:35:35,555,215
+1319,512,5,Izvrsno jelo!,2023-12-12 05:00:00,336,972
+1320,305,3,"Ok, ništa posebno.",2023-12-12 17:38:49,930,972
+1321,441,4,"Vrlo dobro, ali može bolje.",2023-12-12 14:49:23,879,215
+1322,100,2,Moglo je biti bolje.,2023-12-12 04:57:28,802,499
+1323,556,4,"Vrlo dobro, ali može bolje.",2023-12-13 03:32:44,911,215
+1324,167,1,Zadovoljstvo nije bilo na razini.,2023-12-10 19:00:00,207,972
+1325,325,1,Zadovoljstvo nije bilo na razini.,2023-12-12 19:10:01,991,972
+1326,542,2,Moglo je biti bolje.,2023-12-12 21:01:03,142,972
+1327,444,1,Zadovoljstvo nije bilo na razini.,2023-12-23 17:06:00,698,868
+1328,371,2,Moglo je biti bolje.,2023-12-13 01:43:44,956,972
+1329,134,3,"Ok, ništa posebno.",2023-12-12 19:33:23,885,972
+1330,174,4,"Vrlo dobro, ali može bolje.",2023-12-10 17:00:00,8,972
+1331,356,5,Izvrsno jelo!,2023-12-12 21:06:32,179,499
+1332,206,1,Zadovoljstvo nije bilo na razini.,2023-12-12 08:17:14,93,972
+1333,417,4,"Vrlo dobro, ali može bolje.",2023-12-12 19:11:48,65,972
+1334,502,5,Izvrsno jelo!,2023-12-12 21:48:51,86,499
+1335,104,5,Izvrsno jelo!,2023-12-12 12:29:09,456,215
+1336,370,4,"Vrlo dobro, ali može bolje.",2023-12-12 16:01:59,279,972
+1337,337,2,Moglo je biti bolje.,2023-12-12 11:05:11,862,499
+1338,310,1,Zadovoljstvo nije bilo na razini.,2023-12-12 21:04:51,330,215
+1339,348,4,"Vrlo dobro, ali može bolje.",2023-12-12 16:09:08,214,499
+1340,404,2,Moglo je biti bolje.,2023-12-12 07:54:44,442,215
+1341,100,1,Zadovoljstvo nije bilo na razini.,2023-12-12 04:06:11,20,972
+1342,570,2,Moglo je biti bolje.,2023-12-12 22:23:13,706,215
+1343,171,3,"Ok, ništa posebno.",2023-12-10 17:00:00,212,972
+1344,165,4,"Vrlo dobro, ali može bolje.",2023-12-12 21:03:07,53,972
+1345,511,1,Zadovoljstvo nije bilo na razini.,2023-12-12 17:52:01,781,499
+1346,481,4,"Vrlo dobro, ali može bolje.",2023-12-12 06:30:03,724,972
+1347,115,2,Moglo je biti bolje.,2023-12-12 02:50:45,159,972
+1348,493,1,Zadovoljstvo nije bilo na razini.,2023-12-15 14:06:00,454,215
+1349,315,1,Zadovoljstvo nije bilo na razini.,2023-12-12 20:39:17,488,215
+1350,264,5,Izvrsno jelo!,2023-12-12 23:44:43,840,972
+1351,168,4,"Vrlo dobro, ali može bolje.",2023-12-10 18:00:00,211,972
+1352,408,2,Moglo je biti bolje.,2023-12-12 16:44:54,834,499
+1353,264,1,Zadovoljstvo nije bilo na razini.,2023-12-12 09:13:10,698,499
+1354,551,1,Zadovoljstvo nije bilo na razini.,2023-12-12 22:09:17,413,215
+1355,115,3,"Ok, ništa posebno.",2023-12-23 00:47:48,573,854
+1356,168,4,"Vrlo dobro, ali može bolje.",2023-12-10 16:00:00,8,972
+1357,169,1,Zadovoljstvo nije bilo na razini.,2023-12-10 20:00:00,211,972
+1358,269,3,"Ok, ništa posebno.",2023-12-27 17:06:00,930,614
+1359,322,4,"Vrlo dobro, ali može bolje.",2023-12-12 18:11:38,790,215
+1360,428,2,Moglo je biti bolje.,2023-12-12 23:13:47,83,215
+1361,180,4,"Vrlo dobro, ali može bolje.",2023-12-12 15:55:38,908,972
+1362,270,3,"Ok, ništa posebno.",2023-12-13 01:07:48,95,499
+1363,401,3,"Ok, ništa posebno.",2023-12-12 20:58:18,147,499
+1364,172,3,"Ok, ništa posebno.",2023-12-10 16:00:00,212,972
+1365,110,4,"Vrlo dobro, ali može bolje.",2023-12-12 21:23:49,483,215
+1366,203,2,Moglo je biti bolje.,2023-12-12 20:18:58,918,215
+1367,592,2,Moglo je biti bolje.,2023-12-04 20:42:40,651,650
+1368,155,5,Izvrsno jelo!,2023-12-12 09:25:50,515,499
+1369,167,3,"Ok, ništa posebno.",2023-12-10 16:00:00,8,972
+1370,578,1,Zadovoljstvo nije bilo na razini.,2023-12-12 23:38:40,503,972
+1371,192,4,"Vrlo dobro, ali može bolje.",2023-12-12 05:32:27,876,499
+1372,386,3,"Ok, ništa posebno.",2023-12-12 07:30:19,200,215
+1373,424,2,Moglo je biti bolje.,2023-12-12 15:36:28,465,972
+1374,114,3,"Ok, ništa posebno.",2023-12-12 13:12:00,26,499
+1375,470,1,Zadovoljstvo nije bilo na razini.,2023-12-12 20:27:53,173,215
+1376,578,4,"Vrlo dobro, ali može bolje.",2023-12-12 23:31:29,540,499
+1377,565,1,Zadovoljstvo nije bilo na razini.,2023-12-12 17:12:38,36,499
+1378,157,2,Moglo je biti bolje.,2023-12-12 23:22:40,641,215
+1379,300,5,Izvrsno jelo!,2023-12-12 20:22:07,689,499
+1380,377,5,Izvrsno jelo!,2023-12-12 12:08:39,638,215
+1381,285,2,Moglo je biti bolje.,2023-12-24 16:06:00,976,215
+1382,295,3,"Ok, ništa posebno.",2023-12-12 15:38:30,744,215
+1383,499,3,"Ok, ništa posebno.",2023-12-12 09:42:23,86,499
+1384,451,2,Moglo je biti bolje.,2023-12-12 05:00:02,44,972
+1385,176,2,Moglo je biti bolje.,2023-12-10 17:00:00,207,972
+1386,169,1,Zadovoljstvo nije bilo na razini.,2023-12-10 16:00:00,212,972
+1387,113,2,Moglo je biti bolje.,2023-12-12 05:42:29,35,499
+1388,353,4,"Vrlo dobro, ali može bolje.",2023-12-12 08:11:35,660,215
+1389,171,1,Zadovoljstvo nije bilo na razini.,2023-12-10 16:00:00,2,972
+1390,226,2,Moglo je biti bolje.,2023-12-12 08:40:24,937,215
+1391,343,4,"Vrlo dobro, ali može bolje.",2023-12-28 17:28:32,112,483
+1392,571,4,"Vrlo dobro, ali može bolje.",2023-12-13 00:51:24,896,215
+1393,372,4,"Vrlo dobro, ali može bolje.",2023-12-12 23:37:35,6,972
+1394,310,5,Izvrsno jelo!,2023-12-13 01:36:39,442,972
+1395,285,4,"Vrlo dobro, ali može bolje.",2023-12-29 00:06:34,362,548
+1396,548,2,Moglo je biti bolje.,2023-12-12 13:21:09,681,215
+1397,256,4,"Vrlo dobro, ali može bolje.",2023-12-12 08:19:02,930,215
+1398,562,5,Izvrsno jelo!,2023-12-12 09:13:42,10,215
+1399,171,1,Zadovoljstvo nije bilo na razini.,2023-12-10 20:00:00,207,972
+1400,153,3,"Ok, ništa posebno.",2023-12-12 19:12:38,879,499

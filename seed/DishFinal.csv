@@ -1,0 +1,616 @@
+dishid,name,category,price,calories,isavailable,menuid
+1,Katsu Curry,Predjelo,30.00,593,t,1
+2,Sizzling Pork,Desert,16.00,265,t,2
+6,Sizzling Pork,Glavno jelo,38.00,421,f,6
+8,Spaghetti Bolognese,Desert,20.00,121,t,8
+10,Vegetable Ramen,Predjelo,47.00,407,f,10
+12,Pasta with Creamy Sauce,Glavno jelo,26.00,309,f,12
+13,Vegetable Tempura,Glavno jelo,24.00,264,f,13
+14,Sautéed Shrimp,Glavno jelo,46.00,347,f,14
+16,Veal Parmesan,Glavno jelo,21.00,168,t,16
+17,Salmon Sashimi,Desert,14.00,664,t,17
+19,Seafood Pasta,Predjelo,26.00,530,t,19
+20,Chicken Cacciatore,Desert,48.00,147,t,20
+24,Fish Stew,Predjelo,46.00,152,t,24
+25,Seafood Gumbo,Predjelo,15.00,142,f,25
+26,Beef Burritos,Predjelo,8.00,359,t,26
+29,Sizzling Pork,Predjelo,49.00,372,f,29
+31,Beef Empanadas,Glavno jelo,11.00,694,f,31
+32,Chicken Biryani,Glavno jelo,30.00,687,f,32
+33,Peking Duck,Desert,32.00,280,f,33
+34,Vegetable Curry,Desert,49.00,547,f,34
+35,Dish Name,Desert,41.00,275,f,35
+36,Pulled Pork Nachos,Desert,24.00,171,f,36
+37,Vegetarian Soup,Desert,47.00,372,f,37
+38,Bulgur Salad,Glavno jelo,30.00,274,f,38
+40,Grilled Salmon Filet,Desert,36.00,600,t,40
+41,Grilled Salmon Filet,Glavno jelo,17.00,577,t,41
+42,Spicy Mac and Cheese,Desert,12.00,515,t,42
+43,Lamb Korma,Glavno jelo,13.00,780,t,43
+44,Chicken Pesto Pasta,Glavno jelo,44.00,321,t,44
+45,Vegetable Pizza,Predjelo,37.00,500,f,45
+46,Grilled Sea Bass,Desert,26.00,485,f,46
+47,Fish and Chips,Predjelo,37.00,413,f,47
+49,Chorizo Tacos,Desert,20.00,367,f,49
+50,Tuna Tartare,Desert,21.00,779,t,50
+51,Pasta with Beef,Desert,21.00,283,t,51
+53,Chicken Sausage,Glavno jelo,19.00,324,t,53
+54,Chicken Shawarma Wrap,Predjelo,6.00,183,f,54
+55,Peking Duck Pancakes,Predjelo,30.00,660,t,55
+56,Beef Wellington,Glavno jelo,22.00,344,f,56
+57,Pasta Napoli,Predjelo,20.00,361,t,57
+58,Prawn Cocktail,Desert,42.00,296,f,58
+60,Pasta Primavera,Glavno jelo,6.00,765,t,60
+63,Wagyu Beef Steak,Glavno jelo,14.00,710,t,63
+65,Chili Rellenos,Predjelo,33.00,376,f,65
+66,Chocolate Cake,Predjelo,33.00,494,f,66
+67,Grilled Pork Belly,Desert,19.00,172,f,67
+68,Fried Rice,Desert,48.00,221,f,68
+69,Baked Macaroni and Cheese,Predjelo,27.00,113,t,69
+71,Lasagna,Desert,19.00,136,t,71
+73,Pork Schnitzel,Glavno jelo,17.00,130,t,73
+74,Salmon Sashimi,Desert,31.00,775,f,74
+77,Vegetarian Stir Fry,Desert,34.00,725,f,77
+80,Pork Skewers,Predjelo,48.00,375,t,80
+81,Clam Chowder,Glavno jelo,38.00,652,t,81
+82,Grilled Sea Bass,Predjelo,37.00,554,t,82
+83,Vegetarian Sushi,Desert,8.00,583,f,83
+85,Chicken Tenders Basket,Glavno jelo,44.00,413,f,85
+86,Lobster Bisque,Predjelo,8.00,672,f,86
+87,Meatballs and Spaghetti,Desert,31.00,614,t,87
+90,Peking Duck,Glavno jelo,20.00,120,f,90
+92,Jambalaya,Glavno jelo,34.00,415,t,92
+93,Pork Belly Sliders,Glavno jelo,24.00,541,f,93
+95,Ceviche,Glavno jelo,9.00,593,f,95
+99,Lamb Kebabs,Glavno jelo,34.00,164,f,99
+100,Vegetarian Stew,Predjelo,25.00,250,t,100
+101,Beef Steak,Glavno jelo,14.00,544,f,101
+102,Vegetable Samosas,Predjelo,28.00,685,f,102
+103,Shrimp and Grits,Glavno jelo,29.00,148,f,103
+104,Shrimp Ceviche,Predjelo,41.00,262,t,104
+105,Roast Beef Sandwich,Predjelo,31.00,101,f,105
+108,Beef Brisket,Predjelo,11.00,658,f,108
+109,Hawaiian Pizza,Predjelo,20.00,101,f,109
+111,Steak and Kidney Pie,Desert,39.00,374,f,111
+112,Lobster Bisque,Glavno jelo,46.00,677,f,112
+113,Seafood Gumbo,Desert,11.00,786,f,113
+116,Peking Duck,Predjelo,7.00,696,f,116
+117,Grilled Cheese Sandwich,Desert,8.00,421,t,117
+118,Chicken with Mole,Desert,36.00,493,f,118
+120,Salmon Salad,Desert,37.00,765,t,120
+121,Beef and Broccoli Stir Fry,Glavno jelo,12.00,321,t,121
+122,Crab Cakes,Glavno jelo,32.00,393,t,122
+123,Korean BBQ,Desert,34.00,452,f,123
+125,Fried Rice,Glavno jelo,37.00,384,f,125
+126,Mushroom Soup,Predjelo,12.00,121,t,126
+129,Steak Sandwich,Desert,19.00,553,f,129
+134,Seafood Gumbo,Desert,46.00,764,f,134
+135,Moussaka with Lamb,Desert,36.00,510,f,135
+137,Fish Stew,Desert,15.00,389,f,137
+138,Cauliflower Cheese,Glavno jelo,39.00,771,f,138
+140,French Toast,Desert,17.00,513,f,140
+141,Veggie Pita,Predjelo,18.00,535,f,141
+142,Pork Schnitzel,Desert,24.00,749,f,142
+144,Pasta Risotto,Glavno jelo,8.00,131,f,144
+145,Lasagna,Desert,6.00,106,f,145
+146,Eggplant Moussaka,Predjelo,21.00,431,t,146
+147,Beef and Broccoli Stir Fry,Predjelo,7.00,716,f,147
+150,Paella Valenciana,Predjelo,16.00,371,t,150
+151,Beef Tartar,Predjelo,7.00,299,f,151
+152,Veggie Burger,Glavno jelo,21.00,680,t,152
+154,Chicken and Rice,Glavno jelo,45.00,289,t,154
+156,Chicken Caesar Wrap,Glavno jelo,8.00,350,f,156
+158,Lamb Kofta,Glavno jelo,43.00,509,f,158
+159,Salmon Gravy,Predjelo,11.00,211,t,159
+162,Cauliflower Cheese,Glavno jelo,12.00,307,f,162
+164,Vegetable Curry,Desert,37.00,795,t,164
+168,Cheese Fondue,Glavno jelo,12.00,622,f,168
+169,Lamb Shawarma,Desert,38.00,294,t,169
+170,Chicken Quesadilla,Glavno jelo,8.00,296,t,170
+171,Steak Tartare,Glavno jelo,32.00,116,t,171
+173,Lamb Moussaka,Glavno jelo,13.00,799,f,173
+174,Chicken Enchiladas,Desert,11.00,161,t,174
+176,Salmon with Roasted Potatoes,Predjelo,9.00,747,t,176
+177,Spicy Grilled Fish,Desert,23.00,650,t,177
+178,Baked Chicken Thighs,Glavno jelo,37.00,763,f,178
+179,Eggplant Parmesan,Predjelo,14.00,559,f,179
+180,Eggplant Parmesan,Predjelo,36.00,550,t,180
+184,Risotto alla Milanese,Glavno jelo,30.00,176,t,184
+186,Grilled Shrimp Tacos,Predjelo,13.00,106,t,186
+188,Clam Chowder,Desert,49.00,613,t,188
+191,Vegetarian Soup,Glavno jelo,42.00,253,t,191
+192,Roast Duck Breast,Glavno jelo,28.00,224,t,192
+193,Lamb Tagine,Predjelo,12.00,558,t,193
+196,Beef Steak,Predjelo,39.00,716,t,196
+197,Gyros,Desert,11.00,690,f,197
+198,Pasta Carbonara,Predjelo,22.00,267,f,198
+200,Pasta Primavera,Glavno jelo,49.00,548,f,200
+202,Ceviche,Predjelo,37.00,646,f,202
+203,Gyros,Predjelo,28.00,145,t,203
+205,Chicken Saag,Desert,34.00,235,t,205
+206,Meatloaf,Predjelo,38.00,592,t,206
+207,Chicken Masala,Desert,49.00,752,t,207
+209,Salmon Fillet with Lemon,Glavno jelo,16.00,215,f,209
+210,Chicken Fried Rice,Predjelo,16.00,743,t,210
+211,Lamb Shank,Desert,50.00,431,t,211
+212,Fish Fingers,Desert,6.00,541,t,212
+214,Roast Pork Loin,Glavno jelo,11.00,760,f,214
+216,Roast Chicken,Desert,35.00,476,t,216
+217,Steak Frites,Predjelo,46.00,500,f,217
+218,Lobster Roll,Predjelo,10.00,245,f,218
+220,Pork Schnitzel,Predjelo,7.00,140,t,220
+221,Chicken Tenders Basket,Desert,25.00,396,t,221
+222,Pork Tacos,Predjelo,20.00,243,f,222
+224,Steak Tartare,Glavno jelo,44.00,519,f,224
+225,Grilled Octopus,Glavno jelo,38.00,542,t,225
+226,Lamb and Mint Salad,Predjelo,23.00,203,f,226
+227,Peking Duck Pancakes,Glavno jelo,39.00,693,f,227
+228,Duck Ragu,Glavno jelo,19.00,316,t,228
+231,Lamb and Mint Salad,Predjelo,9.00,521,t,231
+232,Vegetarian Lasagna,Glavno jelo,43.00,751,t,232
+233,Beef Carpaccio,Predjelo,28.00,384,t,233
+235,Lamb Rogan Josh,Desert,30.00,702,f,235
+236,Chicken Shawarma Wrap,Desert,7.00,533,t,236
+239,Korean BBQ,Glavno jelo,18.00,236,t,239
+242,Steak Frites,Desert,24.00,103,f,242
+243,Sautéed Shrimp,Predjelo,38.00,688,t,243
+244,Beef Brisket,Predjelo,12.00,646,f,244
+247,Chicken Tenders,Predjelo,27.00,153,t,247
+251,Vegetarian Soup,Desert,11.00,147,f,251
+252,Beef Empanadas,Glavno jelo,29.00,265,f,252
+253,Chicken Drumsticks,Glavno jelo,33.00,636,t,253
+256,Seafood Scampi,Desert,46.00,457,t,256
+258,Veggie Pita,Desert,43.00,432,f,258
+260,Chicken Enchiladas,Desert,23.00,412,f,260
+261,Pasta Primavera,Predjelo,20.00,467,t,261
+263,Stuffed Peppers,Glavno jelo,19.00,788,t,263
+264,Chicken Korma,Predjelo,21.00,487,t,264
+268,Pasta Bolognese,Desert,38.00,105,t,268
+269,Fish Chowder,Desert,33.00,515,f,269
+270,Vegetable Ramen,Desert,20.00,619,f,270
+272,Salmon with Asparagus,Desert,21.00,287,f,272
+273,Caesar Salad,Glavno jelo,37.00,664,f,273
+274,Tuna Sushi Rolls,Predjelo,47.00,777,t,274
+275,Pasta Puttanesca,Desert,8.00,718,t,275
+276,Chicken Souvlaki,Desert,14.00,377,t,276
+277,Beef Cheeks,Glavno jelo,36.00,153,f,277
+278,Smoked Salmon Bagel,Glavno jelo,6.00,292,f,278
+279,Steak Tartare,Predjelo,32.00,702,f,279
+280,Fried Catfish,Desert,34.00,109,t,280
+281,Oysters Rockefeller,Desert,20.00,622,t,281
+282,Fish Stew,Desert,18.00,205,f,282
+288,Chicken Fried Chicken,Predjelo,32.00,501,f,288
+289,Pad Thai,Desert,46.00,360,t,289
+291,Smoked Salmon Bagel,Predjelo,17.00,319,f,291
+292,Roast Beef Sandwich,Glavno jelo,11.00,397,t,292
+293,Vegetable Curry,Glavno jelo,12.00,160,t,293
+296,Pulled Pork Tacos,Glavno jelo,19.00,374,f,296
+299,Pork Schnitzel,Glavno jelo,33.00,128,t,299
+300,Vegetable Pakoras,Predjelo,20.00,246,t,300
+302,Chicken Drumsticks,Desert,49.00,794,t,302
+304,Chicken Parmesan,Predjelo,36.00,396,t,304
+307,Chicken Kiev,Glavno jelo,45.00,209,f,307
+308,Salmon Fillet with Lemon,Desert,8.00,367,f,308
+310,Pasta Puttanesca,Predjelo,10.00,508,f,310
+311,Mushroom Soup,Glavno jelo,22.00,661,t,311
+312,Cauliflower Cheese,Predjelo,48.00,738,f,312
+313,Stuffed Mushrooms,Glavno jelo,21.00,482,t,313
+314,Beef Roast,Glavno jelo,33.00,791,f,314
+317,Seafood Pasta,Desert,23.00,131,f,317
+319,Pasta with Pesto,Desert,38.00,541,t,319
+321,Chicken with Mole,Desert,26.00,674,t,321
+322,Beef Empanadas,Predjelo,13.00,709,f,322
+328,Crispy Pork Belly,Glavno jelo,15.00,242,t,328
+329,Tuna Tartare,Desert,26.00,358,t,329
+330,Spicy Mac and Cheese,Glavno jelo,5.00,615,f,330
+331,Shredded Beef Tacos,Desert,37.00,341,f,331
+332,Grilled Sea Bass,Predjelo,40.00,289,t,332
+334,Beef and Broccoli Stir Fry,Glavno jelo,23.00,267,t,334
+335,Vegetable Curry,Predjelo,27.00,692,t,335
+336,Salmon with Asparagus,Desert,23.00,561,f,336
+337,Caesar Salad,Predjelo,34.00,767,f,337
+338,Pork Loin,Desert,40.00,369,f,338
+341,Seafood Salad,Glavno jelo,16.00,465,t,341
+342,Vegetarian Soup,Glavno jelo,34.00,603,t,342
+343,Pork Schnitzel Sandwich,Predjelo,16.00,526,t,343
+345,Lamb Kofta,Glavno jelo,8.00,223,t,345
+348,Cheese Nachos,Glavno jelo,11.00,405,f,348
+352,Chicken Shawarma,Predjelo,14.00,716,f,352
+353,Lamb and Mint Salad,Desert,7.00,746,t,353
+358,Stuffed Bell Peppers,Predjelo,35.00,507,f,358
+359,Fried Chicken Wings,Predjelo,20.00,464,t,359
+360,Beef Tacos,Desert,15.00,341,f,360
+362,Lamb Korma,Desert,12.00,737,t,362
+364,Tuna Sushi Rolls,Glavno jelo,42.00,759,f,364
+366,Pasta with Creamy Sauce,Glavno jelo,28.00,385,f,366
+367,Beef Burritos,Predjelo,38.00,366,t,367
+369,Lobster Mac and Cheese,Glavno jelo,37.00,707,t,369
+370,Baked Salmon,Glavno jelo,12.00,650,f,370
+371,Falafel,Predjelo,9.00,176,f,371
+373,Dish Name,Glavno jelo,29.00,159,f,373
+375,Chicken Fajitas,Predjelo,50.00,337,t,375
+377,Prawn Cocktail,Predjelo,40.00,251,t,377
+379,Tandoori Chicken,Predjelo,24.00,116,f,379
+380,Baked Macaroni and Cheese,Predjelo,44.00,392,t,380
+381,Vegetarian Chili,Glavno jelo,33.00,379,t,381
+382,Spaghetti Carbonara,Desert,20.00,303,f,382
+385,Sizzling Pork,Desert,21.00,733,t,385
+387,Spicy Tuna Roll,Glavno jelo,33.00,645,f,387
+388,Paella Valenciana,Glavno jelo,24.00,759,t,388
+391,Pasta Gnocchi,Predjelo,22.00,423,t,391
+395,Cauliflower Cheese,Desert,24.00,699,t,395
+398,Roast Beef Sandwich,Predjelo,49.00,487,f,398
+399,Seafood Risotto,Desert,29.00,382,t,399
+400,Sautéed Shrimp,Predjelo,8.00,264,f,400
+401,Spicy Grilled Fish,Glavno jelo,18.00,396,t,401
+403,Lobster Roll,Glavno jelo,8.00,334,t,403
+404,Vegetarian Burger,Desert,7.00,276,t,404
+405,Chili Rellenos,Predjelo,42.00,593,t,405
+407,Croque Monsieur,Glavno jelo,36.00,658,t,407
+411,Lamb Tagine,Predjelo,14.00,788,f,411
+412,Pork Belly,Desert,30.00,239,f,412
+413,Pasta with Beef,Predjelo,5.00,403,t,413
+414,Katsu Curry,Predjelo,11.00,602,f,414
+416,Chicken Caesar Wrap,Predjelo,8.00,749,t,416
+419,Pork Schnitzel Sandwich,Predjelo,29.00,187,t,419
+420,Fish and Chips,Glavno jelo,9.00,506,f,420
+422,Beef Empanadas,Glavno jelo,42.00,481,f,422
+423,Seared Tuna,Predjelo,47.00,169,t,423
+425,Beef Empanadas,Predjelo,50.00,518,f,425
+426,Tuna Sushi Rolls,Desert,25.00,626,t,426
+427,Chicken Enchiladas,Glavno jelo,24.00,652,t,427
+428,Pork Loin,Glavno jelo,38.00,780,t,428
+429,Chicken Tenders,Predjelo,12.00,595,f,429
+431,Veal Parmesan,Predjelo,19.00,794,f,431
+432,Fried Chicken and Fries,Desert,24.00,660,t,432
+436,Crispy Duck,Predjelo,40.00,112,t,436
+437,Steak Frites,Predjelo,41.00,571,t,437
+438,Grilled Sea Bass,Predjelo,37.00,198,f,438
+439,Chili Con Carne,Desert,17.00,555,f,439
+440,Grilled Shrimp Tacos,Glavno jelo,42.00,653,t,440
+441,Vegetable Stir Fry,Predjelo,7.00,712,f,441
+442,Chicken Shawarma Plate,Predjelo,45.00,670,t,442
+444,Beef Meatballs,Glavno jelo,43.00,638,f,444
+445,Shrimp and Grits,Desert,11.00,671,f,445
+446,Fish and Chips,Glavno jelo,46.00,286,f,446
+448,Hibachi Shrimp,Predjelo,49.00,672,t,448
+451,Roast Pork Loin,Glavno jelo,39.00,175,f,451
+454,Grilled Pork Belly,Predjelo,35.00,262,f,454
+455,Pasta Gnocchi,Desert,21.00,418,t,455
+456,Shrimp Po' Boy,Glavno jelo,16.00,477,f,456
+457,Beef Stroganoff,Predjelo,44.00,117,f,457
+460,Salmon with Roasted Potatoes,Predjelo,14.00,507,f,460
+461,Vegetarian Tacos,Predjelo,15.00,519,f,461
+462,Lamb Rogan Josh,Desert,29.00,132,t,462
+463,Buffalo Wings,Glavno jelo,45.00,271,f,463
+464,Veggie Burger,Glavno jelo,13.00,110,f,464
+465,Pulled Pork Sandwich,Desert,26.00,721,f,465
+466,Vegetable Pizza,Desert,21.00,233,t,466
+467,Pasta Alfredo,Glavno jelo,26.00,479,f,467
+468,Veggie Tacos,Predjelo,32.00,523,t,468
+469,Pork Tacos,Glavno jelo,38.00,197,t,469
+470,Prawn Cocktail,Glavno jelo,37.00,639,f,470
+473,Tuna Tartare,Glavno jelo,21.00,122,f,473
+477,Lobster Roll,Desert,25.00,718,t,477
+478,Seafood Pasta,Predjelo,47.00,361,f,478
+479,Fried Chicken and Fries,Glavno jelo,19.00,542,f,479
+480,Cheese Pizza,Glavno jelo,14.00,500,t,480
+481,Spicy Grilled Fish,Glavno jelo,40.00,443,t,481
+483,Ceviche,Predjelo,28.00,102,f,483
+484,Cheese Nachos,Predjelo,26.00,771,f,484
+486,Cheese Pizza,Desert,6.00,678,t,486
+487,Chicken Pot Pie,Glavno jelo,40.00,218,f,487
+488,Dish Name,Glavno jelo,8.00,393,t,488
+489,Ceviche,Glavno jelo,45.00,336,f,489
+490,French Toast,Predjelo,41.00,554,t,490
+491,Pork Schnitzel Sandwich,Desert,30.00,754,t,491
+492,Chicken Enchiladas,Predjelo,32.00,651,f,492
+493,Chicken and Waffles,Desert,22.00,235,t,493
+495,Pasta Bolognese,Predjelo,31.00,627,f,495
+496,Beef and Ale Pie,Glavno jelo,13.00,791,f,496
+497,Grilled Cheese Sandwich,Predjelo,17.00,170,t,497
+500,Peking Duck,Predjelo,14.00,681,f,500
+502,Chicken Drumsticks,Glavno jelo,40.00,304,t,2
+503,Vegetarian Sushi,Predjelo,13.00,587,t,3
+505,Lobster Mac,Desert,12.00,480,t,5
+506,Lasagna Bolognese,Glavno jelo,22.00,334,f,6
+509,Lamb Vindaloo,Glavno jelo,36.00,258,f,9
+510,Pasta with Creamy Sauce,Desert,29.00,223,f,10
+513,Duck Leg Confit,Predjelo,13.00,108,t,13
+514,Vegetable Stir Fry,Desert,31.00,592,f,14
+515,Pasta Carbonara,Glavno jelo,5.00,546,f,15
+516,Fish Tacos,Desert,23.00,201,t,16
+519,Grilled Shrimp Skewers,Desert,16.00,634,t,19
+520,Beef Cheeks,Glavno jelo,24.00,433,t,20
+521,Tuna Sushi Rolls,Desert,17.00,376,f,21
+522,Meatloaf,Predjelo,29.00,614,f,22
+524,Steak Sandwich,Predjelo,14.00,156,t,24
+525,Chicken and Rice,Desert,33.00,633,t,25
+528,Chicken Cacciatore,Glavno jelo,20.00,683,t,28
+532,Barbecue Chicken,Desert,46.00,153,f,32
+533,Vegetarian Soup,Predjelo,14.00,252,t,33
+535,Chicken Fried Rice,Glavno jelo,7.00,183,f,35
+536,Grilled Calamari,Predjelo,13.00,708,t,36
+537,Stuffed Mushrooms,Predjelo,21.00,398,f,37
+539,Beef Cheeks,Desert,16.00,302,f,39
+540,Sizzling Pork,Predjelo,8.00,331,t,40
+541,Salmon Sashimi,Predjelo,28.00,583,t,41
+544,Steak Frites,Glavno jelo,13.00,329,f,44
+545,Chicken Tikka Masala,Predjelo,16.00,618,f,45
+549,Steak Tips,Predjelo,37.00,477,t,49
+553,Grilled Salmon Filet,Desert,43.00,203,f,53
+554,Chicken Tenders Basket,Desert,49.00,106,f,54
+555,Fried Catfish,Predjelo,25.00,375,t,55
+556,Lobster Mac,Predjelo,16.00,699,f,56
+557,Fried Chicken Wings,Predjelo,32.00,759,f,57
+558,Beef and Ale Pie,Desert,45.00,156,t,58
+559,Katsu Curry,Glavno jelo,36.00,121,f,59
+560,Fried Catfish,Predjelo,11.00,430,f,60
+564,Lamb Korma,Predjelo,11.00,547,f,64
+566,Lamb Shank,Predjelo,44.00,162,f,66
+567,Smoked Salmon Bagel,Glavno jelo,27.00,245,t,67
+568,Pasta with Shrimp,Predjelo,37.00,445,t,68
+569,Vegetable Pizza,Desert,7.00,301,f,69
+573,Chocolate Cake,Glavno jelo,22.00,648,t,73
+574,Chicken with Mole,Glavno jelo,34.00,513,t,74
+576,Chicken Masala,Predjelo,38.00,193,f,76
+577,Buffalo Wings,Glavno jelo,10.00,766,f,77
+579,Chicken Tikka Masala,Predjelo,8.00,279,f,79
+580,Spaghetti Carbonara,Predjelo,17.00,630,f,80
+582,Goulash,Glavno jelo,14.00,453,f,82
+583,Chicken Pot Pie,Predjelo,39.00,334,f,83
+585,Tuna Poke Bowl,Desert,31.00,568,t,85
+586,Tomato Basil Soup,Desert,36.00,148,t,86
+587,Pasta Napoli,Glavno jelo,24.00,637,t,87
+591,Pulled Pork Sandwich,Glavno jelo,33.00,277,f,91
+592,Eggplant Parmesan,Desert,10.00,375,t,92
+593,Spicy Tuna Roll,Glavno jelo,33.00,437,t,93
+594,Crispy Pork Belly,Predjelo,34.00,259,t,94
+595,Mushroom Soup,Predjelo,14.00,718,f,95
+599,Eggplant Stir Fry,Desert,9.00,437,t,99
+600,Falafel,Predjelo,21.00,555,t,100
+601,Lobster Roll,Predjelo,27.00,609,t,101
+602,Eggplant Parmesan,Glavno jelo,12.00,122,f,102
+604,Roast Pork Loin,Glavno jelo,40.00,117,f,104
+606,Chicken and Mushroom Pie,Glavno jelo,46.00,216,f,106
+608,Steak and Kidney Pie,Desert,49.00,564,t,108
+609,Pasta Carbonara,Glavno jelo,15.00,677,t,109
+612,Grilled Salmon Filet,Desert,7.00,386,t,112
+613,Spaghetti Carbonara,Glavno jelo,47.00,297,f,113
+615,Fried Rice with Shrimp,Glavno jelo,25.00,655,f,115
+616,Chicken Tenders Basket,Glavno jelo,16.00,475,t,116
+617,Grilled Chicken,Desert,13.00,340,t,117
+618,Lamb Kofta,Desert,23.00,652,t,118
+619,Veal Parmesan,Glavno jelo,31.00,725,f,119
+620,Vegetarian Lasagna,Glavno jelo,36.00,616,t,120
+621,Pasta Primavera,Desert,14.00,690,t,121
+622,Vegetarian Tacos,Glavno jelo,10.00,201,f,122
+624,Smoked Salmon Bagel,Glavno jelo,32.00,134,t,124
+625,Mushroom Soup,Desert,17.00,367,f,125
+626,Chicken Pesto Pasta,Predjelo,11.00,686,t,126
+627,BBQ Ribs,Glavno jelo,48.00,634,f,127
+629,Lobster Tail,Glavno jelo,17.00,133,t,129
+630,Sizzling Fajitas,Predjelo,22.00,269,f,130
+631,Spaghetti Bolognese,Glavno jelo,11.00,790,t,131
+632,Meatloaf,Desert,15.00,183,f,132
+633,Seafood Gumbo,Predjelo,29.00,382,f,133
+636,Peking Duck,Desert,49.00,259,t,136
+638,Chicken and Potatoes,Desert,30.00,791,t,138
+641,Steak Frites,Desert,24.00,396,t,141
+642,Pork Schnitzel,Glavno jelo,7.00,373,f,142
+646,Cheese Pizza,Predjelo,30.00,222,f,146
+651,Vegetarian Pizza,Desert,9.00,184,f,151
+653,Shrimp Ceviche,Desert,41.00,225,f,153
+654,Seafood Salad,Desert,9.00,726,f,154
+655,Tandoori Chicken,Desert,8.00,452,f,155
+656,Chicken Shawarma Wrap,Predjelo,49.00,523,t,156
+657,Chicken Shawarma Wrap,Desert,10.00,357,t,157
+660,Chicken Cacciatore,Predjelo,42.00,374,t,160
+664,Vegetable Curry,Predjelo,12.00,227,t,164
+666,Vegetarian Stir Fry,Predjelo,24.00,682,f,166
+667,Dish Name,Glavno jelo,39.00,218,f,167
+668,Spaghetti Bolognese,Predjelo,43.00,671,t,168
+669,Chowder Fries,Predjelo,42.00,377,t,169
+670,Lamb and Mint Salad,Desert,31.00,303,f,170
+671,Mushroom Risotto,Desert,24.00,458,f,171
+673,Veggie Pita,Predjelo,35.00,218,t,173
+674,Crab Cakes,Glavno jelo,19.00,316,t,174
+677,Grilled Pork Belly,Predjelo,32.00,328,t,177
+679,French Toast,Predjelo,13.00,394,t,179
+680,Beef Burrito Wraps,Desert,28.00,737,f,180
+681,Salmon Fillet with Lemon,Predjelo,47.00,794,f,181
+682,Pasta Puttanesca,Predjelo,7.00,674,f,182
+683,Lasagna Bolognese,Glavno jelo,33.00,433,t,183
+684,Chicken Spring Rolls,Glavno jelo,37.00,511,f,184
+686,Baked Salmon,Predjelo,38.00,418,t,186
+689,Seafood Scampi,Desert,40.00,667,t,189
+691,Chicken with Sweet Potatoes,Desert,40.00,388,t,191
+693,Veggie Tacos,Predjelo,12.00,760,f,193
+694,Ceviche,Glavno jelo,34.00,556,t,194
+698,Fish and Chips,Glavno jelo,24.00,782,t,198
+699,Beef Meatballs,Desert,27.00,171,t,199
+700,Peking Duck Pancakes,Desert,22.00,264,t,200
+701,Chicken Tenders Basket,Predjelo,13.00,149,t,201
+703,Beef Cheeks,Desert,22.00,383,f,203
+704,Lobster Bisque,Glavno jelo,48.00,682,t,204
+705,Katsu Curry,Desert,23.00,107,f,205
+706,Lobster Bisque,Desert,50.00,754,f,206
+707,Seafood Gumbo,Glavno jelo,12.00,720,t,207
+710,Crispy Pork Belly,Desert,43.00,365,f,210
+711,Chicken Pot Pie,Glavno jelo,26.00,646,f,211
+712,Chicken Cacciatore,Glavno jelo,5.00,540,f,212
+713,Pasta with Shrimp,Predjelo,42.00,166,t,213
+714,Vegetable Stir Fry,Predjelo,5.00,622,f,214
+715,Vegetable Pizza,Desert,18.00,504,t,215
+719,Salmon with Asparagus,Glavno jelo,32.00,359,t,219
+720,Chicken Biryani,Desert,39.00,244,f,220
+722,Chicken Souvlaki,Predjelo,21.00,452,t,222
+723,Pork Tacos,Glavno jelo,15.00,207,t,223
+724,Shrimp Ceviche,Glavno jelo,27.00,566,f,224
+725,Baked Chicken Thighs,Desert,31.00,286,f,225
+726,Sizzling Fajitas,Predjelo,13.00,550,f,226
+728,Vegetable Stir Fry,Predjelo,21.00,499,f,228
+729,Vegetarian Soup,Predjelo,10.00,580,f,229
+730,Duck Confit,Glavno jelo,6.00,699,t,230
+731,Pulled Pork Nachos,Predjelo,21.00,213,f,231
+732,Grilled Octopus,Desert,10.00,443,t,232
+733,Lamb Moussaka,Glavno jelo,14.00,354,f,233
+734,Hawaiian Pizza,Predjelo,46.00,767,f,234
+739,Veggie Pita,Desert,33.00,233,f,239
+741,Prawn Cocktail,Predjelo,38.00,454,f,241
+742,Hibachi Shrimp,Glavno jelo,49.00,715,f,242
+743,Baked Macaroni and Cheese,Glavno jelo,16.00,664,t,243
+744,Fried Chicken and Fries,Predjelo,27.00,649,t,244
+745,Paella Valenciana,Predjelo,26.00,203,f,245
+746,Cheese Nachos,Glavno jelo,31.00,367,f,246
+747,Pad Thai,Desert,14.00,782,f,247
+749,Lamb Moussaka,Predjelo,22.00,554,f,249
+750,Chicken Tikka Masala,Desert,31.00,318,f,250
+751,Chicken Quesadilla,Glavno jelo,40.00,713,f,251
+752,Chicken Shawarma Plate,Predjelo,36.00,508,t,252
+753,Chicken Caesar Wrap,Glavno jelo,28.00,516,f,253
+754,Steak Salad,Desert,46.00,416,f,254
+758,Pulled Pork Nachos,Glavno jelo,38.00,318,f,258
+759,Duck Ragu,Glavno jelo,27.00,189,f,259
+761,Chicken Pot Pie,Predjelo,29.00,702,t,261
+764,Barbecue Chicken,Desert,28.00,786,f,264
+765,Steak Frites,Predjelo,5.00,119,t,265
+766,Chicken and Rice,Desert,7.00,704,f,266
+769,Shrimp Fried Rice,Desert,48.00,738,f,269
+770,Chicken Saag,Glavno jelo,50.00,774,t,270
+771,Roast Beef Sandwich,Predjelo,32.00,498,f,271
+776,Crab Cakes,Glavno jelo,42.00,660,f,276
+777,Baked Macaroni and Cheese,Glavno jelo,10.00,761,f,277
+780,Tuna Steak,Desert,27.00,445,t,280
+781,Chicken Katsu,Predjelo,19.00,599,t,281
+782,Pork Schnitzel,Predjelo,5.00,253,t,282
+786,BBQ Ribs,Desert,46.00,135,f,286
+788,Beef Roast,Glavno jelo,39.00,741,f,288
+790,Shrimp Po' Boy Sandwich,Glavno jelo,25.00,394,f,290
+791,Steak Frites,Desert,39.00,576,t,291
+793,Pasta Puttanesca,Glavno jelo,19.00,198,f,293
+794,Bulgur Salad,Desert,42.00,115,f,294
+796,Egg Rolls,Glavno jelo,33.00,567,t,296
+797,Hibachi Shrimp,Desert,12.00,161,f,297
+799,Pasta Napoli,Desert,14.00,261,t,299
+800,Pasta with Pesto,Desert,42.00,697,f,300
+801,Lamb Tagine,Predjelo,18.00,531,t,301
+802,Lobster Mac and Cheese,Predjelo,39.00,190,t,302
+803,Moussaka with Lamb,Predjelo,50.00,628,f,303
+804,Veggie Tacos,Glavno jelo,33.00,722,f,304
+806,Salmon with Roasted Potatoes,Desert,39.00,293,t,306
+807,Roast Chicken Wings,Desert,30.00,496,t,307
+808,Fried Catfish,Predjelo,16.00,127,f,308
+809,Roast Chicken Wings,Desert,34.00,482,t,309
+811,Chicken Shawarma Plate,Predjelo,34.00,194,f,311
+815,Fried Chicken and Fries,Glavno jelo,20.00,701,t,315
+816,Grilled Fish Tacos,Predjelo,18.00,284,t,316
+818,Chicken Shawarma Wrap,Glavno jelo,15.00,610,t,318
+819,Meatloaf,Desert,9.00,357,t,319
+821,Spaghetti Carbonara,Predjelo,30.00,784,t,321
+825,Grilled Calamari,Predjelo,49.00,169,t,325
+826,Moules Marinières,Glavno jelo,33.00,486,f,326
+829,Fish Tacos,Predjelo,19.00,366,f,329
+831,Grilled Sea Bass,Desert,42.00,282,t,331
+832,Roast Pork Loin,Glavno jelo,28.00,545,f,332
+833,Veal Parmesan,Desert,40.00,546,f,333
+834,Fried Calamari,Desert,20.00,311,f,334
+835,Vegetable Soup,Glavno jelo,45.00,572,f,335
+836,Crispy Duck,Desert,39.00,517,t,336
+838,Cheese Nachos,Glavno jelo,12.00,678,t,338
+839,Lobster Bisque,Desert,11.00,707,f,339
+840,Tuna Sushi Rolls,Glavno jelo,34.00,695,t,340
+841,Fried Chicken and Fries,Desert,12.00,664,f,341
+842,Salmon with Roasted Potatoes,Predjelo,36.00,639,t,342
+843,Vegetable Stir Fry,Predjelo,28.00,653,f,343
+848,Beef Ribs,Glavno jelo,5.00,593,f,348
+850,Eggplant Moussaka,Glavno jelo,10.00,101,f,350
+851,Tuna Tartare,Desert,12.00,693,t,351
+853,Bulgur Salad,Predjelo,20.00,456,f,353
+855,Shrimp Po' Boy Sandwich,Predjelo,42.00,351,f,355
+857,Chicken Parmesan,Desert,46.00,763,f,357
+858,Grilled Sea Bass,Glavno jelo,32.00,770,f,358
+859,Lobster Roll Sandwich,Glavno jelo,32.00,594,f,359
+860,Chicken Shawarma Plate,Glavno jelo,38.00,101,t,360
+862,Fish Stew,Predjelo,21.00,559,t,362
+863,Baked Macaroni and Cheese,Glavno jelo,21.00,718,f,363
+865,Roast Duck Breast,Glavno jelo,29.00,181,t,365
+866,Pulled Pork Sandwich,Predjelo,24.00,778,t,366
+867,Vegetarian Pizza,Predjelo,8.00,550,f,367
+868,Peking Duck,Predjelo,47.00,709,f,368
+870,Mushroom Soup,Predjelo,6.00,447,f,370
+872,Smoked Salmon Bagel,Predjelo,49.00,136,f,372
+873,Pulled Pork Tacos,Desert,43.00,312,f,373
+875,Pasta with Creamy Sauce,Desert,45.00,736,f,375
+876,Salmon with Asparagus,Desert,29.00,485,f,376
+878,Clam Chowder,Desert,45.00,609,f,378
+879,Grilled Octopus,Glavno jelo,50.00,757,t,379
+880,Tuna Poke Bowl,Predjelo,24.00,194,f,380
+882,Peking Duck,Desert,40.00,792,f,382
+885,Lamb Kofta,Predjelo,34.00,444,f,385
+887,Chicken Shawarma,Desert,49.00,782,t,387
+888,Tandoori Chicken,Desert,21.00,357,f,388
+889,Vegetarian Chili,Desert,9.00,542,f,389
+890,Fish Fingers,Desert,32.00,350,t,390
+891,Chicken Alfredo,Glavno jelo,28.00,446,t,391
+893,Grilled Chicken,Predjelo,34.00,192,t,393
+894,Stuffed Zucchini,Desert,36.00,420,t,394
+895,Chicken Korma,Desert,20.00,298,f,395
+896,Chili Rellenos,Desert,27.00,372,t,396
+898,Mushroom Risotto,Desert,23.00,569,t,398
+899,Chicken Fried Chicken,Desert,44.00,411,f,399
+901,Veggie Burger,Desert,16.00,383,t,401
+903,Beef Tartar,Predjelo,14.00,567,f,403
+904,Burrito Bowl,Predjelo,15.00,352,f,404
+905,Peking Duck,Desert,30.00,673,f,405
+906,Shawarma Fries,Desert,15.00,713,t,406
+907,Bulgur Salad,Glavno jelo,15.00,324,f,407
+908,Egg Rolls,Desert,11.00,297,f,408
+911,Stuffed Mushrooms,Predjelo,17.00,618,f,411
+912,Pulled Pork Tacos,Predjelo,12.00,219,f,412
+915,Steak Tips,Predjelo,42.00,596,t,415
+918,Seafood Salad,Desert,21.00,742,t,418
+920,Chicken Saag,Desert,32.00,203,t,420
+921,Pasta with Mushrooms,Desert,42.00,571,t,421
+923,Shrimp Fried Rice,Desert,10.00,587,f,423
+926,Fish Tacos,Glavno jelo,45.00,738,t,426
+928,Chicken Tikka Masala,Predjelo,34.00,123,t,428
+929,Pulled Pork Sandwich,Predjelo,23.00,700,t,429
+930,Beef Bulgogi,Predjelo,25.00,656,f,430
+931,Barbecue Chicken,Predjelo,45.00,252,f,431
+932,Beef Bulgogi,Predjelo,21.00,773,f,432
+936,Roast Chicken Wings,Glavno jelo,36.00,745,t,436
+937,Vegetarian Stir Fry,Glavno jelo,38.00,520,f,437
+940,Vegetable Soup,Predjelo,48.00,504,t,440
+941,Fish Tacos,Predjelo,47.00,237,t,441
+943,Steak and Kidney Pie,Predjelo,39.00,461,f,443
+945,Pork Skewers,Desert,38.00,214,t,445
+949,Shawarma Fries,Glavno jelo,28.00,725,f,449
+950,Peking Duck,Predjelo,38.00,187,f,450
+953,Chicken Quesadilla,Predjelo,42.00,672,f,453
+954,Grilled Fish Tacos,Predjelo,34.00,789,t,454
+956,Chicken Katsu,Glavno jelo,8.00,665,t,456
+957,Gyros,Glavno jelo,48.00,726,t,457
+958,Chicken Biryani,Desert,25.00,182,f,458
+959,Lobster Roll Sandwich,Predjelo,49.00,667,f,459
+960,Chili Con Carne,Desert,33.00,576,t,460
+961,Crispy Pork Belly,Desert,25.00,343,t,461
+963,Pork Ribs,Glavno jelo,23.00,407,f,463
+965,Vegetable Pakoras,Predjelo,31.00,534,t,465
+967,Beef Empanadas,Desert,45.00,340,f,467
+972,Vegetable Ramen,Desert,37.00,490,f,472
+974,Lamb Korma,Predjelo,13.00,438,t,474
+976,Cheese Pizza,Predjelo,27.00,761,f,476
+977,Chicken Rice Paper Rolls,Desert,15.00,468,f,477
+978,Baked Salmon,Predjelo,46.00,500,t,478
+980,Mushroom Soup,Predjelo,23.00,755,f,480
+983,Falafel,Desert,36.00,236,t,483
+984,Seafood Paella,Desert,19.00,180,f,484
+986,Jambalaya,Desert,23.00,206,t,486
+987,Beef Carpaccio,Predjelo,41.00,315,t,487
+990,Beef and Ale Pie,Glavno jelo,34.00,627,f,490
+991,Chicken Fajitas,Predjelo,41.00,781,t,491
+995,Chicken Biryani,Glavno jelo,40.00,150,f,495
+996,Chicken Souvlaki,Predjelo,42.00,232,f,496
+997,Lamb Moussaka,Glavno jelo,14.00,432,t,497
+998,Chicken and Mushroom Pie,Glavno jelo,32.00,131,t,498

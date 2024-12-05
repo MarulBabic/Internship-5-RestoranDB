@@ -1,0 +1,1106 @@
+orderid,userid,restaurantid,ordertype,deliveryaddress,deliverytime,deliverypersonid,notes,totalamount,orderdate
+1054,167,397,Dostava,Random Address 11,2023-12-10 15:00:00,972,Napomena,16.00,2023-12-10 15:00:00
+1055,168,397,Dostava,Random Address 12,2023-12-10 15:00:00,972,Napomena,16.00,2023-12-10 15:00:00
+1056,169,397,Dostava,Random Address 13,2023-12-10 15:00:00,972,Napomena,16.00,2023-12-10 15:00:00
+1057,170,397,Dostava,Random Address 14,2023-12-10 15:00:00,972,Napomena,16.00,2023-12-10 15:00:00
+1058,171,397,Dostava,Random Address 15,2023-12-10 15:00:00,972,Napomena,16.00,2023-12-10 15:00:00
+1059,172,397,Dostava,Random Address 16,2023-12-10 15:00:00,972,Napomena,16.00,2023-12-10 15:00:00
+1060,173,397,Dostava,Random Address 17,2023-12-10 15:00:00,972,Napomena,16.00,2023-12-10 15:00:00
+1061,174,397,Dostava,Random Address 18,2023-12-10 15:00:00,972,Napomena,16.00,2023-12-10 15:00:00
+1062,175,397,Dostava,Random Address 19,2023-12-10 15:00:00,972,Napomena,16.00,2023-12-10 15:00:00
+1063,176,397,Dostava,Random Address 20,2023-12-10 15:00:00,972,Napomena,16.00,2023-12-10 15:00:00
+1064,167,397,Dostava,Random Address 21,2023-12-10 15:00:00,972,Napomena,20.00,2023-12-10 15:00:00
+1065,168,397,Dostava,Random Address 22,2023-12-10 15:00:00,972,Napomena,20.00,2023-12-10 15:00:00
+1066,169,397,Dostava,Random Address 23,2023-12-10 15:00:00,972,Napomena,20.00,2023-12-10 15:00:00
+1067,170,397,Dostava,Random Address 24,2023-12-10 15:00:00,972,Napomena,20.00,2023-12-10 15:00:00
+1068,171,397,Dostava,Random Address 25,2023-12-10 15:00:00,972,Napomena,20.00,2023-12-10 15:00:00
+1069,172,397,Dostava,Random Address 26,2023-12-10 15:00:00,972,Napomena,20.00,2023-12-10 15:00:00
+1070,173,397,Dostava,Random Address 27,2023-12-10 15:00:00,972,Napomena,20.00,2023-12-10 15:00:00
+1071,174,397,Dostava,Random Address 28,2023-12-10 15:00:00,972,Napomena,20.00,2023-12-10 15:00:00
+1072,175,397,Dostava,Random Address 29,2023-12-10 15:00:00,972,Napomena,20.00,2023-12-10 15:00:00
+1073,176,397,Dostava,Random Address 30,2023-12-10 15:00:00,972,Napomena,20.00,2023-12-10 15:00:00
+1074,167,397,Dostava,Random Address 31,2023-12-10 15:00:00,972,Napomena,49.00,2023-12-10 15:00:00
+1075,168,397,Dostava,Random Address 32,2023-12-10 15:00:00,972,Napomena,49.00,2023-12-10 15:00:00
+1076,169,397,Dostava,Random Address 33,2023-12-10 15:00:00,972,Napomena,49.00,2023-12-10 15:00:00
+1077,170,397,Dostava,Random Address 34,2023-12-10 15:00:00,972,Napomena,49.00,2023-12-10 15:00:00
+1078,171,397,Dostava,Random Address 35,2023-12-10 15:00:00,972,Napomena,49.00,2023-12-10 15:00:00
+568,434,8,Dostava,790 Random Street,2023-12-25 13:06:00,972,Sample note for the order.,33.00,2023-12-25 11:06:00
+595,383,10,Konzumacija u restoranu,75 Random Street,2023-12-22 13:06:00,972,Sample note for the order.,72.00,2023-12-22 11:06:00
+600,175,7,Dostava,596 Random Street,2023-12-16 13:06:00,972,Sample note for the order.,168.00,2023-12-16 11:06:00
+1079,172,397,Dostava,Random Address 36,2023-12-10 15:00:00,972,Napomena,49.00,2023-12-10 15:00:00
+1080,173,397,Dostava,Random Address 37,2023-12-10 15:00:00,972,Napomena,49.00,2023-12-10 15:00:00
+1081,174,397,Dostava,Random Address 38,2023-12-10 15:00:00,972,Napomena,49.00,2023-12-10 15:00:00
+1082,175,397,Dostava,Random Address 39,2023-12-10 15:00:00,972,Napomena,49.00,2023-12-10 15:00:00
+1083,176,397,Dostava,Random Address 40,2023-12-10 15:00:00,972,Napomena,49.00,2023-12-10 15:00:00
+1084,167,397,Dostava,Random Address 41,2023-12-10 15:00:00,972,Napomena,50.00,2023-12-10 15:00:00
+1085,168,397,Dostava,Random Address 42,2023-12-10 15:00:00,972,Napomena,50.00,2023-12-10 15:00:00
+1086,169,397,Dostava,Random Address 43,2023-12-10 15:00:00,972,Napomena,50.00,2023-12-10 15:00:00
+1087,170,397,Dostava,Random Address 44,2023-12-10 15:00:00,972,Napomena,50.00,2023-12-10 15:00:00
+1088,171,397,Dostava,Random Address 45,2023-12-10 15:00:00,972,Napomena,50.00,2023-12-10 15:00:00
+1089,172,397,Dostava,Random Address 46,2023-12-10 15:00:00,972,Napomena,50.00,2023-12-10 15:00:00
+1090,173,397,Dostava,Random Address 47,2023-12-10 15:00:00,972,Napomena,50.00,2023-12-10 15:00:00
+1091,174,397,Dostava,Random Address 48,2023-12-10 15:00:00,972,Napomena,50.00,2023-12-10 15:00:00
+1092,175,397,Dostava,Random Address 49,2023-12-10 15:00:00,972,Napomena,50.00,2023-12-10 15:00:00
+1093,176,397,Dostava,Random Address 50,2023-12-10 15:00:00,972,Napomena,50.00,2023-12-10 15:00:00
+1094,167,397,Dostava,Random Address 51,2023-12-10 15:00:00,972,Napomena,6.00,2023-12-10 15:00:00
+1095,168,397,Dostava,Random Address 52,2023-12-10 15:00:00,972,Napomena,6.00,2023-12-10 15:00:00
+1096,169,397,Dostava,Random Address 53,2023-12-10 15:00:00,972,Napomena,6.00,2023-12-10 15:00:00
+1097,170,397,Dostava,Random Address 54,2023-12-10 15:00:00,972,Napomena,6.00,2023-12-10 15:00:00
+1098,171,397,Dostava,Random Address 55,2023-12-10 15:00:00,972,Napomena,6.00,2023-12-10 15:00:00
+1099,172,397,Dostava,Random Address 56,2023-12-10 15:00:00,972,Napomena,6.00,2023-12-10 15:00:00
+1100,173,397,Dostava,Random Address 57,2023-12-10 15:00:00,972,Napomena,6.00,2023-12-10 15:00:00
+1101,174,397,Dostava,Random Address 58,2023-12-10 15:00:00,972,Napomena,6.00,2023-12-10 15:00:00
+1102,175,397,Dostava,Random Address 59,2023-12-10 15:00:00,972,Napomena,6.00,2023-12-10 15:00:00
+1103,176,397,Dostava,Random Address 60,2023-12-10 15:00:00,972,Napomena,6.00,2023-12-10 15:00:00
+1104,167,397,Dostava,Random Address 11,2023-12-10 15:00:00,972,Napomena,16.00,2023-12-10 15:00:00
+1105,168,397,Dostava,Random Address 21,2023-12-10 15:00:00,972,Napomena,20.00,2023-12-10 15:00:00
+1106,169,397,Dostava,Random Address 31,2023-12-10 15:00:00,972,Napomena,49.00,2023-12-10 15:00:00
+1107,170,397,Dostava,Random Address 41,2023-12-10 15:00:00,972,Napomena,50.00,2023-12-10 15:00:00
+1108,171,397,Dostava,Random Address 51,2023-12-10 15:00:00,972,Napomena,6.00,2023-12-10 15:00:00
+616,422,5,Konzumacija u restoranu,785 Random Street,2023-12-05 13:06:00,972,Sample note for the order.,128.00,2023-12-05 11:06:00
+617,144,1,Konzumacija u restoranu,432 Random Street,2023-12-27 13:06:00,972,Sample note for the order.,234.00,2023-12-27 13:06:00
+644,158,3,Konzumacija u restoranu,873 Random Street,2023-12-19 13:06:00,972,Sample note for the order.,14.00,2023-12-19 11:06:00
+674,423,1,Konzumacija u restoranu,480 Random Street,2023-12-16 13:06:00,215,Sample note for the order.,328.00,2023-12-16 11:06:00
+675,167,4,Dostava,503 Random Street,2023-12-16 13:06:00,215,Sample note for the order.,152.00,2023-12-16 11:06:00
+681,392,2,Konzumacija u restoranu,133 Random Street,2023-12-17 13:06:00,215,Sample note for the order.,50.00,2023-12-17 11:06:00
+682,454,1,Dostava,299 Random Street,2023-12-27 13:06:00,215,Sample note for the order.,150.00,2023-12-27 11:06:00
+703,224,9,Konzumacija u restoranu,312 Random Street,2023-12-17 13:06:00,215,Sample note for the order.,126.00,2023-12-17 11:06:00
+721,285,8,Konzumacija u restoranu,128 Random Street,2023-12-24 13:06:00,215,Sample note for the order.,108.00,2023-12-24 13:06:00
+724,493,9,Dostava,497 Random Street,2023-12-15 13:06:00,215,Sample note for the order.,350.00,2023-12-15 11:06:00
+751,124,1,Konzumacija u restoranu,340 Random Street,2023-12-28 13:06:00,499,Sample note for the order.,297.00,2023-12-28 12:06:00
+754,298,5,Dostava,261 Random Street,2023-12-09 13:06:00,499,Sample note for the order.,280.00,2023-12-09 12:06:00
+760,159,1,Dostava,487 Random Street,2023-12-14 13:06:00,499,Sample note for the order.,88.00,2023-12-14 13:06:00
+801,480,7,Dostava,566 Random Street,2023-12-09 13:06:00,499,Sample note for the order.,294.00,2023-12-09 12:06:00
+816,400,10,Konzumacija u restoranu,605 Random Street,2023-12-18 13:06:00,499,Sample note for the order.,135.00,2023-12-18 12:06:00
+819,484,3,Dostava,55 Random Street,2024-03-02 13:06:00,499,Sample note for the order.,35.00,2024-03-02 11:06:00
+820,392,2,Dostava,457 Random Street,2024-09-08 13:06:00,499,Sample note for the order.,272.00,2024-09-08 11:06:00
+821,146,1,Dostava,92 Random Street,2024-05-30 13:06:00,499,Sample note for the order.,126.00,2024-05-30 11:06:00
+822,509,7,Konzumacija u restoranu,88 Random Street,2024-02-19 13:06:00,499,Sample note for the order.,110.00,2024-02-19 11:06:00
+823,200,1,Konzumacija u restoranu,405 Random Street,2024-03-23 13:06:00,499,Sample note for the order.,155.00,2024-03-23 12:06:00
+824,411,9,Konzumacija u restoranu,895 Random Street,2024-01-10 13:06:00,499,Sample note for the order.,54.00,2024-01-10 12:06:00
+825,143,3,Konzumacija u restoranu,399 Random Street,2024-11-05 13:06:00,499,Sample note for the order.,27.00,2024-11-05 13:06:00
+826,547,8,Konzumacija u restoranu,331 Random Street,2024-05-31 13:06:00,499,Sample note for the order.,400.00,2024-05-31 13:06:00
+827,430,7,Dostava,384 Random Street,2024-10-22 13:06:00,499,Sample note for the order.,138.00,2024-10-22 12:06:00
+828,223,3,Dostava,934 Random Street,2024-06-26 13:06:00,499,Sample note for the order.,28.00,2024-06-26 11:06:00
+829,159,8,Konzumacija u restoranu,38 Random Street,2024-08-04 13:06:00,499,Sample note for the order.,28.00,2024-08-04 12:06:00
+830,311,5,Dostava,620 Random Street,2024-02-13 13:06:00,499,Sample note for the order.,132.00,2024-02-13 13:06:00
+831,448,8,Dostava,311 Random Street,2023-12-21 13:06:00,499,Sample note for the order.,19.00,2023-12-21 13:06:00
+832,506,8,Dostava,444 Random Street,2024-08-23 13:06:00,499,Sample note for the order.,119.00,2024-08-23 13:06:00
+833,438,10,Dostava,402 Random Street,2024-01-27 13:06:00,499,Sample note for the order.,84.00,2024-01-27 13:06:00
+834,375,7,Dostava,619 Random Street,2024-09-03 13:06:00,499,Sample note for the order.,115.00,2024-09-03 12:06:00
+835,191,1,Konzumacija u restoranu,776 Random Street,2024-01-17 13:06:00,499,Sample note for the order.,170.00,2024-01-17 12:06:00
+836,586,4,Dostava,219 Random Street,2024-02-29 13:06:00,499,Sample note for the order.,120.00,2024-02-29 11:06:00
+837,540,5,Konzumacija u restoranu,468 Random Street,2024-07-23 13:06:00,499,Sample note for the order.,288.00,2024-07-23 13:06:00
+838,514,2,Dostava,472 Random Street,2024-11-11 13:06:00,499,Sample note for the order.,396.00,2024-11-11 13:06:00
+839,336,4,Dostava,693 Random Street,2024-11-12 13:06:00,499,Sample note for the order.,56.00,2024-11-12 13:06:00
+840,257,7,Konzumacija u restoranu,263 Random Street,2024-05-25 13:06:00,499,Sample note for the order.,36.00,2024-05-25 13:06:00
+841,175,3,Konzumacija u restoranu,611 Random Street,2024-09-24 13:06:00,499,Sample note for the order.,10.00,2024-09-24 12:06:00
+1016,120,5,Dostava,867 Random Street,2024-07-10 13:06:00,868,Sample note for the order.,45.00,2024-07-10 12:06:00
+1017,546,8,Dostava,580 Random Street,2024-05-07 13:06:00,868,Sample note for the order.,104.00,2024-05-07 13:06:00
+1018,464,8,Konzumacija u restoranu,149 Random Street,2024-03-18 13:06:00,868,Sample note for the order.,104.00,2024-03-18 11:06:00
+1019,495,6,Dostava,498 Random Street,2024-11-15 13:06:00,868,Sample note for the order.,77.00,2024-11-15 13:06:00
+1020,450,6,Konzumacija u restoranu,629 Random Street,2024-08-24 13:06:00,868,Sample note for the order.,39.00,2024-08-24 12:06:00
+1021,557,4,Dostava,401 Random Street,2024-03-15 13:06:00,868,Sample note for the order.,180.00,2024-03-15 12:06:00
+1022,200,8,Dostava,200 Random Street,2024-10-02 13:06:00,868,Sample note for the order.,330.00,2024-10-02 11:06:00
+1023,144,1,Dostava,593 Random Street,2024-01-30 13:06:00,868,Sample note for the order.,82.00,2024-01-30 13:06:00
+1024,254,3,Dostava,841 Random Street,2024-06-15 13:06:00,868,Sample note for the order.,392.00,2024-06-15 13:06:00
+1025,438,3,Konzumacija u restoranu,514 Random Street,2024-11-09 13:06:00,868,Sample note for the order.,156.00,2024-11-09 11:06:00
+1026,325,8,Konzumacija u restoranu,914 Random Street,2024-08-08 13:06:00,868,Sample note for the order.,248.00,2024-08-08 11:06:00
+1027,111,6,Konzumacija u restoranu,939 Random Street,2024-06-04 13:06:00,868,Sample note for the order.,441.00,2024-06-04 11:06:00
+1028,276,4,Konzumacija u restoranu,876 Random Street,2024-03-04 13:06:00,868,Sample note for the order.,450.00,2024-03-04 12:06:00
+1029,295,2,Dostava,489 Random Street,2024-08-28 13:06:00,868,Sample note for the order.,56.00,2024-08-28 11:06:00
+1030,444,3,Dostava,3 Random Street,2023-12-23 13:06:00,868,Sample note for the order.,144.00,2023-12-23 13:06:00
+1031,176,2,Dostava,767 Random Street,2024-01-25 13:06:00,868,Sample note for the order.,72.00,2024-01-25 11:06:00
+1032,165,7,Dostava,912 Random Street,2024-07-03 13:06:00,868,Sample note for the order.,470.00,2024-07-03 13:06:00
+1033,211,5,Dostava,430 Random Street,2024-01-06 13:06:00,868,Sample note for the order.,294.00,2024-01-06 11:06:00
+1034,306,10,Konzumacija u restoranu,983 Random Street,2024-05-07 13:06:00,868,Sample note for the order.,256.00,2024-05-07 11:06:00
+1035,391,9,Dostava,354 Random Street,2024-11-23 13:06:00,868,Sample note for the order.,270.00,2024-11-23 12:06:00
+1036,289,8,Konzumacija u restoranu,730 Random Street,2023-12-26 13:06:00,868,Sample note for the order.,441.00,2023-12-26 13:06:00
+1037,260,9,Konzumacija u restoranu,442 Random Street,2024-03-23 13:06:00,868,Sample note for the order.,270.00,2024-03-23 12:06:00
+1038,316,2,Konzumacija u restoranu,855 Random Street,2024-06-22 13:06:00,868,Sample note for the order.,108.00,2024-06-22 13:06:00
+796,219,7,Dostava,172 Random Street,2024-06-11 13:06:00,499,Sample note for the order.,230.00,2023-12-12 02:29:19
+655,243,6,Konzumacija u restoranu,16 Random Street,2024-01-02 13:06:00,215,Sample note for the order.,24.00,2023-12-12 01:45:30
+704,440,1,Konzumacija u restoranu,765 Random Street,2024-06-05 13:06:00,215,Sample note for the order.,450.00,2023-12-12 23:21:24
+719,561,8,Dostava,803 Random Street,2024-09-16 13:06:00,215,Sample note for the order.,25.00,2023-12-12 22:35:35
+586,481,3,Dostava,983 Random Street,2024-01-01 13:06:00,972,Sample note for the order.,108.00,2023-12-12 03:30:03
+572,134,2,Konzumacija u restoranu,108 Random Street,2024-03-13 13:06:00,972,Sample note for the order.,272.00,2023-12-12 16:33:23
+756,144,7,Konzumacija u restoranu,301 Random Street,2024-06-05 13:06:00,499,Sample note for the order.,156.00,2023-12-12 08:27:34
+606,179,8,Konzumacija u restoranu,262 Random Street,2024-01-24 13:06:00,972,Sample note for the order.,42.00,2023-12-12 08:30:25
+649,556,1,Konzumacija u restoranu,201 Random Street,2024-11-07 13:06:00,972,Sample note for the order.,195.00,2023-12-12 19:33:26
+618,162,6,Dostava,168 Random Street,2024-10-01 13:06:00,972,Sample note for the order.,102.00,2023-12-12 03:25:10
+656,557,4,Dostava,802 Random Street,2024-08-11 13:06:00,215,Sample note for the order.,80.00,2023-12-12 23:16:18
+647,483,2,Dostava,460 Random Street,2024-01-19 13:06:00,972,Sample note for the order.,92.00,2023-12-12 11:11:43
+593,414,8,Dostava,932 Random Street,2024-07-16 13:06:00,972,Sample note for the order.,168.00,2023-12-12 17:20:45
+614,454,9,Konzumacija u restoranu,276 Random Street,2024-09-21 13:06:00,972,Sample note for the order.,176.00,2023-12-12 15:54:57
+672,481,9,Konzumacija u restoranu,324 Random Street,2024-04-17 13:06:00,215,Sample note for the order.,40.00,2023-12-12 15:35:05
+648,314,2,Dostava,242 Random Street,2024-09-14 13:06:00,972,Sample note for the order.,100.00,2023-12-12 13:47:10
+570,100,4,Konzumacija u restoranu,859 Random Street,2024-03-27 13:06:00,972,Sample note for the order.,384.00,2023-12-12 00:06:11
+657,162,3,Konzumacija u restoranu,784 Random Street,2024-02-07 13:06:00,215,Sample note for the order.,40.00,2023-12-12 07:39:34
+731,177,8,Dostava,164 Random Street,2024-08-30 13:06:00,215,Sample note for the order.,60.00,2023-12-12 01:17:17
+671,526,3,Dostava,422 Random Street,2024-07-11 13:06:00,215,Sample note for the order.,147.00,2023-12-12 10:16:14
+654,322,1,Dostava,532 Random Street,2024-01-17 13:06:00,215,Sample note for the order.,200.00,2023-12-12 13:11:38
+580,164,3,Dostava,493 Random Street,2024-07-20 13:06:00,972,Sample note for the order.,13.00,2023-12-12 19:27:15
+748,424,5,Dostava,617 Random Street,2024-05-12 13:06:00,215,Sample note for the order.,120.00,2023-12-12 13:26:25
+628,242,5,Dostava,970 Random Street,2024-05-07 13:06:00,972,Sample note for the order.,24.00,2023-12-12 06:50:55
+696,114,9,Konzumacija u restoranu,686 Random Street,2024-04-19 13:06:00,215,Sample note for the order.,64.00,2023-12-12 19:59:18
+653,570,3,Dostava,939 Random Street,2024-03-16 13:06:00,215,Sample note for the order.,250.00,2023-12-12 19:23:13
+742,353,2,Konzumacija u restoranu,688 Random Street,2024-05-03 13:06:00,215,Sample note for the order.,420.00,2023-12-12 03:11:35
+612,165,10,Konzumacija u restoranu,901 Random Street,2024-10-02 13:06:00,972,Sample note for the order.,95.00,2023-12-12 18:03:07
+790,153,5,Konzumacija u restoranu,524 Random Street,2024-08-07 13:06:00,499,Sample note for the order.,150.00,2023-12-12 15:12:38
+842,511,10,Dostava,445 Random Street,2024-05-20 13:06:00,499,Sample note for the order.,294.00,2024-05-20 13:06:00
+843,153,6,Konzumacija u restoranu,486 Random Street,2023-12-11 13:06:00,499,Sample note for the order.,136.00,2023-12-11 11:06:00
+844,218,3,Konzumacija u restoranu,222 Random Street,2024-06-30 13:06:00,499,Sample note for the order.,270.00,2024-06-30 12:06:00
+845,193,3,Konzumacija u restoranu,691 Random Street,2024-11-06 13:06:00,499,Sample note for the order.,190.00,2024-11-06 11:06:00
+846,441,4,Konzumacija u restoranu,361 Random Street,2024-09-20 13:06:00,499,Sample note for the order.,43.00,2024-09-20 11:06:00
+847,344,9,Konzumacija u restoranu,107 Random Street,2024-03-28 13:06:00,499,Sample note for the order.,56.00,2024-03-28 13:06:00
+848,143,6,Konzumacija u restoranu,409 Random Street,2024-05-24 13:06:00,499,Sample note for the order.,75.00,2024-05-24 11:06:00
+849,207,8,Konzumacija u restoranu,968 Random Street,2024-03-07 13:06:00,499,Sample note for the order.,198.00,2024-03-07 13:06:00
+850,135,8,Konzumacija u restoranu,471 Random Street,2024-02-24 13:06:00,614,Sample note for the order.,96.00,2024-02-24 13:06:00
+851,422,1,Konzumacija u restoranu,379 Random Street,2024-10-07 13:06:00,614,Sample note for the order.,145.00,2024-10-07 11:06:00
+852,543,4,Konzumacija u restoranu,158 Random Street,2024-02-15 13:06:00,614,Sample note for the order.,34.00,2024-02-15 13:06:00
+853,149,2,Konzumacija u restoranu,608 Random Street,2024-10-23 13:06:00,614,Sample note for the order.,259.00,2024-10-23 12:06:00
+854,366,5,Konzumacija u restoranu,11 Random Street,2024-02-07 13:06:00,614,Sample note for the order.,240.00,2024-02-07 13:06:00
+855,208,8,Konzumacija u restoranu,288 Random Street,2024-11-07 13:06:00,614,Sample note for the order.,44.00,2024-11-07 12:06:00
+856,452,8,Dostava,751 Random Street,2024-11-20 13:06:00,614,Sample note for the order.,42.00,2024-11-20 11:06:00
+857,465,8,Dostava,692 Random Street,2024-02-28 13:06:00,614,Sample note for the order.,76.00,2024-02-28 11:06:00
+858,199,3,Dostava,760 Random Street,2024-07-15 13:06:00,614,Sample note for the order.,306.00,2024-07-15 13:06:00
+859,440,4,Dostava,527 Random Street,2024-09-06 13:06:00,614,Sample note for the order.,282.00,2024-09-06 12:06:00
+860,197,5,Dostava,148 Random Street,2023-12-10 13:06:00,614,Sample note for the order.,45.00,2023-12-10 12:06:00
+861,201,4,Dostava,493 Random Street,2024-11-18 13:06:00,614,Sample note for the order.,324.00,2024-11-18 11:06:00
+862,366,9,Dostava,693 Random Street,2024-09-24 13:06:00,614,Sample note for the order.,24.00,2024-09-24 11:06:00
+863,400,4,Dostava,306 Random Street,2024-06-20 13:06:00,614,Sample note for the order.,27.00,2024-06-20 13:06:00
+864,300,7,Dostava,142 Random Street,2024-01-28 13:06:00,614,Sample note for the order.,441.00,2024-01-28 12:06:00
+865,315,6,Konzumacija u restoranu,331 Random Street,2024-04-13 13:06:00,614,Sample note for the order.,165.00,2024-04-13 13:06:00
+866,259,7,Dostava,71 Random Street,2024-10-28 13:06:00,614,Sample note for the order.,140.00,2024-10-28 12:06:00
+867,523,7,Dostava,362 Random Street,2024-04-13 13:06:00,614,Sample note for the order.,120.00,2024-04-13 11:06:00
+868,323,4,Konzumacija u restoranu,278 Random Street,2024-06-06 13:06:00,614,Sample note for the order.,57.00,2024-06-06 12:06:00
+869,320,2,Konzumacija u restoranu,372 Random Street,2024-08-12 13:06:00,614,Sample note for the order.,42.00,2024-08-12 11:06:00
+870,269,4,Dostava,560 Random Street,2023-12-27 13:06:00,614,Sample note for the order.,200.00,2023-12-27 13:06:00
+871,331,5,Dostava,208 Random Street,2024-05-06 13:06:00,614,Sample note for the order.,306.00,2024-05-06 11:06:00
+872,554,10,Konzumacija u restoranu,753 Random Street,2024-03-16 13:06:00,614,Sample note for the order.,12.00,2024-03-16 11:06:00
+873,562,2,Konzumacija u restoranu,804 Random Street,2024-08-02 13:06:00,614,Sample note for the order.,19.00,2024-08-02 11:06:00
+874,410,3,Konzumacija u restoranu,759 Random Street,2024-03-19 13:06:00,614,Sample note for the order.,21.00,2024-03-19 13:06:00
+875,216,10,Dostava,946 Random Street,2024-07-23 13:06:00,614,Sample note for the order.,259.00,2024-07-23 12:06:00
+876,535,4,Dostava,511 Random Street,2024-11-14 13:06:00,614,Sample note for the order.,115.00,2024-11-14 11:06:00
+877,456,9,Dostava,757 Random Street,2024-03-14 13:06:00,614,Sample note for the order.,72.00,2024-03-14 13:06:00
+878,446,4,Konzumacija u restoranu,170 Random Street,2024-04-27 13:06:00,614,Sample note for the order.,260.00,2024-04-27 12:06:00
+879,281,2,Konzumacija u restoranu,304 Random Street,2024-03-16 13:06:00,614,Sample note for the order.,120.00,2024-03-16 12:06:00
+880,263,10,Dostava,932 Random Street,2024-06-18 13:06:00,614,Sample note for the order.,16.00,2024-06-18 13:06:00
+881,119,4,Konzumacija u restoranu,483 Random Street,2024-07-16 13:06:00,614,Sample note for the order.,126.00,2024-07-16 13:06:00
+882,467,8,Dostava,765 Random Street,2024-05-31 13:06:00,614,Sample note for the order.,144.00,2024-05-31 12:06:00
+883,265,4,Konzumacija u restoranu,398 Random Street,2024-09-10 13:06:00,614,Sample note for the order.,390.00,2024-09-10 13:06:00
+884,483,3,Konzumacija u restoranu,974 Random Street,2024-09-04 13:06:00,614,Sample note for the order.,184.00,2024-09-04 12:06:00
+885,555,4,Dostava,968 Random Street,2024-08-24 13:06:00,614,Sample note for the order.,98.00,2024-08-24 11:06:00
+886,337,1,Dostava,337 Random Street,2024-04-19 13:06:00,614,Sample note for the order.,19.00,2024-04-19 12:06:00
+887,106,7,Konzumacija u restoranu,904 Random Street,2024-08-30 13:06:00,614,Sample note for the order.,180.00,2024-08-30 12:06:00
+888,309,1,Konzumacija u restoranu,739 Random Street,2024-04-22 13:06:00,614,Sample note for the order.,240.00,2024-04-22 13:06:00
+889,337,1,Dostava,919 Random Street,2024-01-26 13:06:00,614,Sample note for the order.,220.00,2024-01-26 13:06:00
+890,386,2,Dostava,959 Random Street,2024-03-29 13:06:00,614,Sample note for the order.,195.00,2024-03-29 13:06:00
+891,516,8,Dostava,91 Random Street,2024-11-15 13:06:00,614,Sample note for the order.,46.00,2024-11-15 11:06:00
+892,127,2,Konzumacija u restoranu,353 Random Street,2024-08-13 13:06:00,614,Sample note for the order.,340.00,2024-08-13 11:06:00
+893,584,1,Dostava,342 Random Street,2024-03-11 13:06:00,614,Sample note for the order.,50.00,2024-03-11 12:06:00
+894,240,4,Konzumacija u restoranu,451 Random Street,2024-09-11 13:06:00,614,Sample note for the order.,376.00,2024-09-11 12:06:00
+895,316,9,Konzumacija u restoranu,985 Random Street,2024-09-04 13:06:00,614,Sample note for the order.,360.00,2024-09-04 11:06:00
+896,228,3,Dostava,872 Random Street,2023-12-24 13:06:00,614,Sample note for the order.,43.00,2023-12-24 11:06:00
+897,599,2,Konzumacija u restoranu,179 Random Street,2024-06-06 13:06:00,614,Sample note for the order.,259.00,2024-06-06 13:06:00
+898,186,9,Dostava,674 Random Street,2024-09-10 13:06:00,614,Sample note for the order.,11.00,2024-09-10 12:06:00
+899,136,3,Konzumacija u restoranu,559 Random Street,2023-12-15 13:06:00,614,Sample note for the order.,264.00,2023-12-15 13:06:00
+900,539,4,Konzumacija u restoranu,333 Random Street,2024-01-18 13:06:00,614,Sample note for the order.,272.00,2024-01-18 13:06:00
+901,569,5,Dostava,913 Random Street,2024-10-20 13:06:00,614,Sample note for the order.,21.00,2024-10-20 13:06:00
+902,278,3,Konzumacija u restoranu,119 Random Street,2024-03-15 13:06:00,614,Sample note for the order.,340.00,2024-03-15 13:06:00
+903,299,4,Dostava,222 Random Street,2024-01-06 13:06:00,614,Sample note for the order.,72.00,2024-01-06 11:06:00
+904,144,10,Konzumacija u restoranu,150 Random Street,2024-02-02 13:06:00,614,Sample note for the order.,40.00,2024-02-02 11:06:00
+905,505,2,Konzumacija u restoranu,473 Random Street,2024-06-25 13:06:00,614,Sample note for the order.,243.00,2024-06-25 11:06:00
+906,520,5,Konzumacija u restoranu,689 Random Street,2024-03-20 13:06:00,614,Sample note for the order.,294.00,2024-03-20 13:06:00
+907,140,9,Dostava,513 Random Street,2024-01-27 13:06:00,614,Sample note for the order.,64.00,2024-01-27 12:06:00
+908,219,4,Konzumacija u restoranu,604 Random Street,2024-08-22 13:06:00,614,Sample note for the order.,126.00,2024-08-22 11:06:00
+909,278,10,Dostava,746 Random Street,2024-01-26 13:06:00,614,Sample note for the order.,276.00,2024-01-26 12:06:00
+910,368,4,Dostava,93 Random Street,2024-02-25 13:06:00,614,Sample note for the order.,207.00,2024-02-25 11:06:00
+911,207,6,Konzumacija u restoranu,777 Random Street,2024-03-08 13:06:00,614,Sample note for the order.,126.00,2024-03-08 13:06:00
+912,240,6,Konzumacija u restoranu,412 Random Street,2024-08-30 13:06:00,614,Sample note for the order.,141.00,2024-08-30 12:06:00
+913,572,1,Konzumacija u restoranu,904 Random Street,2024-07-12 13:06:00,614,Sample note for the order.,18.00,2024-07-12 11:06:00
+914,597,6,Dostava,192 Random Street,2024-07-09 13:06:00,614,Sample note for the order.,132.00,2024-07-09 11:06:00
+915,104,3,Konzumacija u restoranu,404 Random Street,2024-01-21 13:06:00,614,Sample note for the order.,147.00,2024-01-21 11:06:00
+916,410,3,Konzumacija u restoranu,236 Random Street,2024-02-05 13:06:00,614,Sample note for the order.,320.00,2024-02-05 11:06:00
+917,408,1,Konzumacija u restoranu,315 Random Street,2024-05-12 13:06:00,614,Sample note for the order.,252.00,2024-05-12 12:06:00
+918,453,4,Konzumacija u restoranu,424 Random Street,2024-03-30 13:06:00,614,Sample note for the order.,322.00,2024-03-30 12:06:00
+919,166,7,Konzumacija u restoranu,489 Random Street,2024-01-17 13:06:00,614,Sample note for the order.,246.00,2024-01-17 11:06:00
+920,527,3,Konzumacija u restoranu,262 Random Street,2024-02-24 13:06:00,614,Sample note for the order.,105.00,2024-02-24 12:06:00
+921,201,10,Dostava,686 Random Street,2024-07-26 13:06:00,614,Sample note for the order.,450.00,2024-07-26 12:06:00
+922,464,9,Konzumacija u restoranu,640 Random Street,2024-09-19 13:06:00,614,Sample note for the order.,198.00,2024-09-19 13:06:00
+923,587,4,Dostava,777 Random Street,2024-10-07 13:06:00,614,Sample note for the order.,276.00,2024-10-07 11:06:00
+924,511,3,Dostava,258 Random Street,2024-08-10 13:06:00,614,Sample note for the order.,273.00,2024-08-10 11:06:00
+925,511,4,Konzumacija u restoranu,453 Random Street,2024-01-19 13:06:00,614,Sample note for the order.,225.00,2024-01-19 12:06:00
+926,247,2,Dostava,654 Random Street,2024-10-19 13:06:00,614,Sample note for the order.,258.00,2024-10-19 13:06:00
+927,518,3,Konzumacija u restoranu,372 Random Street,2024-11-19 13:06:00,614,Sample note for the order.,252.00,2024-11-19 12:06:00
+928,212,7,Konzumacija u restoranu,594 Random Street,2024-07-27 13:06:00,614,Sample note for the order.,84.00,2024-07-27 13:06:00
+929,315,1,Dostava,31 Random Street,2024-06-24 13:06:00,614,Sample note for the order.,24.00,2024-06-24 11:06:00
+930,573,7,Dostava,995 Random Street,2024-08-30 13:06:00,614,Sample note for the order.,56.00,2024-08-30 11:06:00
+931,259,7,Konzumacija u restoranu,693 Random Street,2024-04-08 13:06:00,614,Sample note for the order.,147.00,2024-04-08 12:06:00
+932,276,5,Dostava,494 Random Street,2024-09-07 13:06:00,614,Sample note for the order.,243.00,2024-09-07 11:06:00
+933,156,7,Konzumacija u restoranu,351 Random Street,2024-04-26 13:06:00,614,Sample note for the order.,40.00,2024-04-26 13:06:00
+934,341,5,Dostava,583 Random Street,2024-03-30 13:06:00,614,Sample note for the order.,24.00,2024-03-30 11:06:00
+935,111,9,Konzumacija u restoranu,510 Random Street,2024-04-20 13:06:00,614,Sample note for the order.,120.00,2024-04-20 12:06:00
+936,186,5,Konzumacija u restoranu,164 Random Street,2024-04-22 13:06:00,614,Sample note for the order.,210.00,2024-04-22 13:06:00
+937,226,8,Dostava,700 Random Street,2024-05-19 13:06:00,614,Sample note for the order.,147.00,2024-05-19 12:06:00
+938,503,7,Konzumacija u restoranu,850 Random Street,2024-06-03 13:06:00,614,Sample note for the order.,46.00,2024-06-03 12:06:00
+939,101,1,Dostava,519 Random Street,2024-06-27 13:06:00,614,Sample note for the order.,192.00,2024-06-27 13:06:00
+940,142,6,Dostava,797 Random Street,2024-07-22 13:06:00,614,Sample note for the order.,320.00,2024-07-22 13:06:00
+941,434,9,Dostava,724 Random Street,2024-09-12 13:06:00,614,Sample note for the order.,10.00,2024-09-12 13:06:00
+942,342,10,Konzumacija u restoranu,849 Random Street,2024-08-15 13:06:00,614,Sample note for the order.,192.00,2024-08-15 12:06:00
+943,414,2,Dostava,799 Random Street,2024-04-08 13:06:00,614,Sample note for the order.,133.00,2024-04-08 13:06:00
+944,414,7,Konzumacija u restoranu,608 Random Street,2024-11-20 13:06:00,614,Sample note for the order.,56.00,2024-11-20 13:06:00
+945,419,5,Konzumacija u restoranu,551 Random Street,2024-10-29 13:06:00,614,Sample note for the order.,22.00,2024-10-29 13:06:00
+946,271,9,Dostava,844 Random Street,2024-09-13 13:06:00,614,Sample note for the order.,180.00,2024-09-13 11:06:00
+947,436,2,Dostava,412 Random Street,2024-01-24 13:06:00,614,Sample note for the order.,11.00,2024-01-24 11:06:00
+948,336,9,Dostava,684 Random Street,2024-04-12 13:06:00,614,Sample note for the order.,15.00,2024-04-12 12:06:00
+949,478,5,Konzumacija u restoranu,207 Random Street,2024-06-10 13:06:00,614,Sample note for the order.,49.00,2024-06-10 13:06:00
+950,176,1,Konzumacija u restoranu,235 Random Street,2024-08-14 13:06:00,868,Sample note for the order.,252.00,2024-08-14 12:06:00
+951,582,5,Dostava,68 Random Street,2024-10-20 13:06:00,868,Sample note for the order.,147.00,2024-10-20 12:06:00
+952,324,7,Dostava,895 Random Street,2024-08-01 13:06:00,868,Sample note for the order.,108.00,2024-08-01 13:06:00
+953,172,3,Dostava,768 Random Street,2024-08-18 13:06:00,868,Sample note for the order.,168.00,2024-08-18 13:06:00
+954,178,9,Dostava,987 Random Street,2023-12-29 13:06:00,868,Sample note for the order.,74.00,2023-12-29 11:06:00
+955,519,6,Dostava,519 Random Street,2024-10-19 13:06:00,868,Sample note for the order.,290.00,2024-10-19 13:06:00
+956,558,2,Konzumacija u restoranu,344 Random Street,2024-08-08 13:06:00,868,Sample note for the order.,180.00,2024-08-08 13:06:00
+957,228,4,Konzumacija u restoranu,770 Random Street,2024-10-08 13:06:00,868,Sample note for the order.,126.00,2024-10-08 11:06:00
+958,555,1,Dostava,769 Random Street,2024-09-07 13:06:00,868,Sample note for the order.,324.00,2024-09-07 11:06:00
+959,387,5,Konzumacija u restoranu,793 Random Street,2024-06-23 13:06:00,868,Sample note for the order.,153.00,2024-06-23 11:06:00
+960,139,6,Konzumacija u restoranu,75 Random Street,2024-09-18 13:06:00,868,Sample note for the order.,26.00,2024-09-18 12:06:00
+961,186,7,Dostava,723 Random Street,2024-08-16 13:06:00,868,Sample note for the order.,246.00,2024-08-16 13:06:00
+962,245,5,Dostava,889 Random Street,2024-06-06 13:06:00,868,Sample note for the order.,198.00,2024-06-06 11:06:00
+963,363,7,Konzumacija u restoranu,403 Random Street,2024-08-12 13:06:00,868,Sample note for the order.,74.00,2024-08-12 12:06:00
+964,271,6,Konzumacija u restoranu,908 Random Street,2024-10-17 13:06:00,868,Sample note for the order.,294.00,2024-10-17 13:06:00
+965,514,3,Konzumacija u restoranu,734 Random Street,2024-04-19 13:06:00,868,Sample note for the order.,392.00,2024-04-19 13:06:00
+966,277,2,Dostava,734 Random Street,2024-05-11 13:06:00,868,Sample note for the order.,129.00,2024-05-11 12:06:00
+967,142,6,Konzumacija u restoranu,819 Random Street,2024-10-09 13:06:00,868,Sample note for the order.,76.00,2024-10-09 11:06:00
+968,273,2,Dostava,731 Random Street,2024-05-09 13:06:00,868,Sample note for the order.,204.00,2024-05-09 11:06:00
+969,188,1,Konzumacija u restoranu,492 Random Street,2024-06-19 13:06:00,868,Sample note for the order.,360.00,2024-06-19 13:06:00
+970,567,9,Konzumacija u restoranu,771 Random Street,2024-07-10 13:06:00,868,Sample note for the order.,160.00,2024-07-10 11:06:00
+971,530,6,Dostava,215 Random Street,2024-01-23 13:06:00,868,Sample note for the order.,15.00,2024-01-23 13:06:00
+972,105,3,Dostava,959 Random Street,2024-05-27 13:06:00,868,Sample note for the order.,104.00,2024-05-27 11:06:00
+973,358,6,Dostava,341 Random Street,2024-02-22 13:06:00,868,Sample note for the order.,144.00,2024-02-22 11:06:00
+974,313,3,Konzumacija u restoranu,566 Random Street,2024-06-07 13:06:00,868,Sample note for the order.,80.00,2024-06-07 11:06:00
+975,539,3,Dostava,510 Random Street,2024-10-28 13:06:00,868,Sample note for the order.,60.00,2024-10-28 13:06:00
+976,431,8,Dostava,563 Random Street,2024-03-06 13:06:00,868,Sample note for the order.,36.00,2024-03-06 11:06:00
+977,121,4,Konzumacija u restoranu,634 Random Street,2024-05-12 13:06:00,868,Sample note for the order.,96.00,2024-05-12 12:06:00
+978,135,1,Dostava,594 Random Street,2023-12-05 13:06:00,868,Sample note for the order.,144.00,2023-12-05 12:06:00
+979,177,7,Dostava,256 Random Street,2024-10-04 13:06:00,868,Sample note for the order.,370.00,2024-10-04 11:06:00
+980,289,2,Konzumacija u restoranu,512 Random Street,2024-10-20 13:06:00,868,Sample note for the order.,46.00,2024-10-20 11:06:00
+981,362,1,Dostava,809 Random Street,2024-03-17 13:06:00,868,Sample note for the order.,192.00,2024-03-17 12:06:00
+982,111,8,Konzumacija u restoranu,164 Random Street,2024-09-22 13:06:00,868,Sample note for the order.,84.00,2024-09-22 11:06:00
+983,422,7,Dostava,964 Random Street,2024-04-14 13:06:00,868,Sample note for the order.,36.00,2024-04-14 13:06:00
+984,572,2,Dostava,776 Random Street,2024-08-08 13:06:00,868,Sample note for the order.,294.00,2024-08-08 12:06:00
+985,350,6,Dostava,996 Random Street,2024-09-25 13:06:00,868,Sample note for the order.,140.00,2024-09-25 11:06:00
+986,109,3,Dostava,370 Random Street,2024-11-28 13:06:00,868,Sample note for the order.,15.00,2024-11-28 12:06:00
+987,319,5,Dostava,672 Random Street,2024-09-23 13:06:00,868,Sample note for the order.,96.00,2024-09-23 13:06:00
+988,541,8,Dostava,31 Random Street,2024-08-13 13:06:00,868,Sample note for the order.,24.00,2024-08-13 13:06:00
+989,221,4,Konzumacija u restoranu,30 Random Street,2024-08-09 13:06:00,868,Sample note for the order.,104.00,2024-08-09 12:06:00
+990,405,9,Konzumacija u restoranu,145 Random Street,2024-07-16 13:06:00,868,Sample note for the order.,41.00,2024-07-16 12:06:00
+991,324,7,Dostava,265 Random Street,2024-04-04 13:06:00,868,Sample note for the order.,33.00,2024-04-04 11:06:00
+992,357,1,Konzumacija u restoranu,890 Random Street,2024-10-19 13:06:00,868,Sample note for the order.,160.00,2024-10-19 11:06:00
+993,543,4,Konzumacija u restoranu,51 Random Street,2023-12-20 13:06:00,868,Sample note for the order.,21.00,2023-12-20 11:06:00
+994,392,4,Dostava,51 Random Street,2024-04-21 13:06:00,868,Sample note for the order.,250.00,2024-04-21 11:06:00
+995,444,9,Dostava,948 Random Street,2024-06-20 13:06:00,868,Sample note for the order.,72.00,2024-06-20 12:06:00
+996,543,10,Dostava,861 Random Street,2024-03-26 13:06:00,868,Sample note for the order.,117.00,2024-03-26 12:06:00
+997,585,3,Dostava,968 Random Street,2024-05-07 13:06:00,868,Sample note for the order.,52.00,2024-05-07 13:06:00
+998,264,1,Dostava,453 Random Street,2023-12-26 13:06:00,868,Sample note for the order.,420.00,2023-12-26 13:06:00
+999,127,1,Konzumacija u restoranu,652 Random Street,2024-10-31 13:06:00,868,Sample note for the order.,21.00,2024-10-31 12:06:00
+1000,303,9,Konzumacija u restoranu,351 Random Street,2024-10-15 13:06:00,868,Sample note for the order.,140.00,2024-10-15 13:06:00
+1001,296,8,Dostava,620 Random Street,2024-11-24 13:06:00,868,Sample note for the order.,100.00,2024-11-24 11:06:00
+1002,138,7,Konzumacija u restoranu,671 Random Street,2024-10-19 13:06:00,868,Sample note for the order.,90.00,2024-10-19 13:06:00
+1003,248,2,Dostava,448 Random Street,2024-09-23 13:06:00,868,Sample note for the order.,306.00,2024-09-23 11:06:00
+1004,501,2,Konzumacija u restoranu,511 Random Street,2024-09-09 13:06:00,868,Sample note for the order.,216.00,2024-09-09 13:06:00
+1005,436,7,Dostava,883 Random Street,2024-08-08 13:06:00,868,Sample note for the order.,96.00,2024-08-08 12:06:00
+1006,499,2,Konzumacija u restoranu,298 Random Street,2024-07-03 13:06:00,868,Sample note for the order.,116.00,2024-07-03 11:06:00
+1007,276,6,Konzumacija u restoranu,848 Random Street,2024-01-02 13:06:00,868,Sample note for the order.,33.00,2024-01-02 11:06:00
+1008,467,2,Konzumacija u restoranu,758 Random Street,2024-09-01 13:06:00,868,Sample note for the order.,230.00,2024-09-01 12:06:00
+1009,153,8,Dostava,348 Random Street,2024-07-11 13:06:00,868,Sample note for the order.,216.00,2024-07-11 12:06:00
+1010,308,10,Konzumacija u restoranu,486 Random Street,2024-08-04 13:06:00,868,Sample note for the order.,7.00,2024-08-04 12:06:00
+1011,529,9,Konzumacija u restoranu,518 Random Street,2024-08-22 13:06:00,868,Sample note for the order.,94.00,2024-08-22 13:06:00
+1012,314,10,Konzumacija u restoranu,425 Random Street,2024-02-24 13:06:00,868,Sample note for the order.,36.00,2024-02-24 13:06:00
+1013,180,5,Konzumacija u restoranu,883 Random Street,2024-01-14 13:06:00,868,Sample note for the order.,33.00,2024-01-14 12:06:00
+1014,107,10,Konzumacija u restoranu,476 Random Street,2024-04-12 13:06:00,868,Sample note for the order.,180.00,2024-04-12 12:06:00
+1015,477,3,Konzumacija u restoranu,676 Random Street,2024-11-16 13:06:00,868,Sample note for the order.,51.00,2024-11-16 12:06:00
+1039,390,6,Dostava,946 Random Street,2024-11-20 13:06:00,868,Sample note for the order.,128.00,2024-11-20 12:06:00
+1040,396,7,Konzumacija u restoranu,598 Random Street,2024-03-19 13:06:00,868,Sample note for the order.,48.00,2024-03-19 12:06:00
+1041,366,9,Konzumacija u restoranu,341 Random Street,2024-05-12 13:06:00,868,Sample note for the order.,115.00,2024-05-12 13:06:00
+1042,331,9,Dostava,361 Random Street,2024-08-02 13:06:00,868,Sample note for the order.,54.00,2024-08-02 12:06:00
+1043,195,2,Konzumacija u restoranu,332 Random Street,2024-09-18 13:06:00,868,Sample note for the order.,234.00,2024-09-18 12:06:00
+1044,254,6,Dostava,86 Random Street,2024-05-14 13:06:00,868,Sample note for the order.,203.00,2024-05-14 12:06:00
+1045,311,8,Konzumacija u restoranu,652 Random Street,2024-10-20 13:06:00,868,Sample note for the order.,112.00,2024-10-20 12:06:00
+1046,135,8,Dostava,865 Random Street,2024-10-03 13:06:00,868,Sample note for the order.,84.00,2024-10-03 13:06:00
+1047,183,6,Konzumacija u restoranu,402 Random Street,2024-05-18 13:06:00,868,Sample note for the order.,161.00,2024-05-18 13:06:00
+1048,378,8,Dostava,552 Random Street,2024-06-03 13:06:00,868,Sample note for the order.,168.00,2024-06-03 13:06:00
+1049,351,10,Dostava,880 Random Street,2024-01-29 13:06:00,868,Sample note for the order.,114.00,2024-01-29 12:06:00
+1050,579,3,Dostava,272 Random Street,2024-02-11 13:06:00,868,Sample note for the order.,37.00,2024-02-11 11:06:00
+753,351,3,Dostava,169 Random Street,2024-01-13 13:06:00,499,Sample note for the order.,152.00,2023-12-12 14:20:40
+652,226,2,Konzumacija u restoranu,379 Random Street,2024-07-05 13:06:00,215,Sample note for the order.,266.00,2023-12-12 06:40:24
+765,178,1,Dostava,448 Random Street,2024-09-22 13:06:00,499,Sample note for the order.,370.00,2023-12-12 09:32:24
+781,578,10,Dostava,770 Random Street,2024-05-04 13:06:00,499,Sample note for the order.,120.00,2023-12-12 20:44:26
+732,331,5,Dostava,72 Random Street,2024-08-15 13:06:00,215,Sample note for the order.,22.00,2023-12-12 06:52:41
+552,599,9,Dostava,916 Random Street,2024-02-28 13:06:00,972,Sample note for the order.,63.00,2023-12-12 08:16:52
+758,221,4,Konzumacija u restoranu,935 Random Street,2024-10-23 13:06:00,499,Sample note for the order.,200.00,2023-12-12 20:57:46
+554,405,2,Dostava,699 Random Street,2024-09-19 13:06:00,972,Sample note for the order.,190.00,2023-12-12 22:42:34
+817,205,9,Dostava,704 Random Street,2024-03-15 13:06:00,499,Sample note for the order.,279.00,2023-12-12 09:02:08
+670,188,7,Dostava,890 Random Street,2024-05-26 13:06:00,215,Sample note for the order.,29.00,2023-12-12 17:48:16
+734,370,4,Dostava,21 Random Street,2024-07-05 13:06:00,215,Sample note for the order.,198.00,2023-12-12 04:42:23
+576,423,2,Dostava,402 Random Street,2024-11-01 13:06:00,972,Sample note for the order.,336.00,2023-12-12 20:07:00
+605,295,2,Dostava,352 Random Street,2024-07-27 13:06:00,972,Sample note for the order.,180.00,2023-12-12 12:57:35
+660,295,5,Dostava,708 Random Street,2024-03-19 13:06:00,215,Sample note for the order.,54.00,2023-12-12 12:38:30
+663,353,3,Konzumacija u restoranu,834 Random Street,2024-01-31 13:06:00,215,Sample note for the order.,82.00,2023-12-12 11:19:49
+770,348,9,Dostava,743 Random Street,2024-08-03 13:06:00,499,Sample note for the order.,99.00,2023-12-12 13:09:08
+626,451,1,Dostava,589 Random Street,2024-06-14 13:06:00,972,Sample note for the order.,88.00,2023-12-12 00:00:02
+784,157,2,Konzumacija u restoranu,347 Random Street,2024-07-06 13:06:00,499,Sample note for the order.,24.00,2023-12-12 07:46:38
+764,449,4,Konzumacija u restoranu,295 Random Street,2024-11-18 13:06:00,499,Sample note for the order.,144.00,2023-12-12 12:19:01
+556,288,6,Konzumacija u restoranu,319 Random Street,2024-10-14 13:06:00,972,Sample note for the order.,66.00,2023-12-12 08:15:59
+641,207,3,Dostava,938 Random Street,2024-01-18 13:06:00,972,Sample note for the order.,88.00,2023-12-12 04:52:19
+711,404,6,Dostava,576 Random Street,2024-05-14 13:06:00,215,Sample note for the order.,90.00,2023-12-12 02:54:44
+707,139,5,Dostava,861 Random Street,2024-10-05 13:06:00,215,Sample note for the order.,14.00,2023-12-12 07:31:25
+665,391,4,Konzumacija u restoranu,490 Random Street,2024-02-20 13:06:00,215,Sample note for the order.,240.00,2023-12-12 06:14:10
+780,356,3,Dostava,429 Random Street,2024-11-22 13:06:00,499,Sample note for the order.,140.00,2023-12-12 18:06:32
+759,114,7,Dostava,332 Random Street,2024-03-01 13:06:00,499,Sample note for the order.,72.00,2023-12-12 09:12:00
+638,437,2,Dostava,965 Random Street,2024-01-08 13:06:00,972,Sample note for the order.,102.00,2023-12-12 07:10:40
+768,286,4,Konzumacija u restoranu,580 Random Street,2024-07-26 13:06:00,499,Sample note for the order.,150.00,2023-12-12 07:44:53
+791,461,2,Dostava,35 Random Street,2024-04-30 13:06:00,499,Sample note for the order.,56.00,2023-12-12 07:28:09
+775,578,7,Dostava,57 Random Street,2024-03-01 13:06:00,499,Sample note for the order.,32.00,2023-12-12 22:31:29
+733,464,8,Dostava,645 Random Street,2024-06-05 13:06:00,215,Sample note for the order.,276.00,2023-12-12 06:26:44
+577,578,3,Dostava,405 Random Street,2024-02-04 13:06:00,972,Sample note for the order.,104.00,2023-12-12 18:38:40
+700,562,2,Konzumacija u restoranu,60 Random Street,2024-06-18 13:06:00,215,Sample note for the order.,188.00,2023-12-12 04:13:42
+561,115,7,Konzumacija u restoranu,997 Random Street,2024-01-18 13:06:00,972,Sample note for the order.,77.00,2023-12-12 01:50:45
+717,277,2,Konzumacija u restoranu,966 Random Street,2024-05-24 13:06:00,215,Sample note for the order.,288.00,2023-12-12 04:18:39
+634,351,1,Dostava,65 Random Street,2024-03-11 13:06:00,972,Sample note for the order.,162.00,2023-12-12 07:12:39
+632,277,6,Konzumacija u restoranu,160 Random Street,2024-11-13 13:06:00,972,Sample note for the order.,294.00,2023-12-12 00:36:29
+755,100,6,Konzumacija u restoranu,165 Random Street,2024-06-09 13:06:00,499,Sample note for the order.,80.00,2023-12-12 06:03:45
+658,328,4,Konzumacija u restoranu,642 Random Street,2024-08-09 13:06:00,215,Sample note for the order.,168.00,2023-12-12 02:39:53
+587,220,10,Konzumacija u restoranu,238 Random Street,2024-06-01 13:06:00,972,Sample note for the order.,50.00,2023-12-12 10:08:25
+650,388,3,Konzumacija u restoranu,134 Random Street,2024-09-22 13:06:00,215,Sample note for the order.,66.00,2023-12-12 14:54:51
+802,565,2,Dostava,418 Random Street,2024-04-02 13:06:00,499,Sample note for the order.,216.00,2023-12-12 15:12:38
+578,221,6,Konzumacija u restoranu,857 Random Street,2024-08-16 13:06:00,972,Sample note for the order.,168.00,2023-12-12 00:13:14
+815,533,4,Konzumacija u restoranu,818 Random Street,2024-09-06 13:06:00,499,Sample note for the order.,196.00,2023-12-12 03:18:12
+695,204,7,Dostava,886 Random Street,2024-11-04 13:06:00,215,Sample note for the order.,66.00,2023-12-12 10:39:21
+710,170,2,Konzumacija u restoranu,699 Random Street,2024-11-14 13:06:00,215,Sample note for the order.,72.00,2023-12-12 21:01:17
+794,572,3,Konzumacija u restoranu,73 Random Street,2024-03-05 13:06:00,499,Sample note for the order.,232.00,2023-12-12 22:40:34
+767,592,2,Konzumacija u restoranu,150 Random Street,2024-08-14 13:06:00,499,Sample note for the order.,360.00,2023-12-12 12:45:39
+766,201,2,Konzumacija u restoranu,725 Random Street,2024-03-08 13:06:00,499,Sample note for the order.,32.00,2023-12-12 08:14:05
+728,357,10,Dostava,126 Random Street,2024-04-14 13:06:00,215,Sample note for the order.,90.00,2023-12-12 07:03:30
+602,252,10,Dostava,388 Random Street,2024-07-07 13:06:00,972,Sample note for the order.,184.00,2023-12-12 21:28:53
+691,503,9,Konzumacija u restoranu,580 Random Street,2024-04-05 13:06:00,215,Sample note for the order.,329.00,2023-12-12 01:32:36
+697,471,1,Konzumacija u restoranu,401 Random Street,2024-07-25 13:06:00,215,Sample note for the order.,270.00,2023-12-12 22:34:55
+800,408,4,Konzumacija u restoranu,977 Random Street,2024-09-17 13:06:00,499,Sample note for the order.,200.00,2023-12-12 11:44:54
+769,217,9,Dostava,101 Random Street,2024-09-21 13:06:00,499,Sample note for the order.,60.00,2023-12-12 04:00:59
+705,404,5,Konzumacija u restoranu,640 Random Street,2024-03-29 13:06:00,215,Sample note for the order.,270.00,2023-12-12 04:15:25
+599,579,6,Konzumacija u restoranu,717 Random Street,2024-09-29 13:06:00,972,Sample note for the order.,85.00,2023-12-12 17:07:15
+677,399,6,Dostava,529 Random Street,2024-04-24 13:06:00,215,Sample note for the order.,140.00,2023-12-12 01:13:58
+604,549,7,Konzumacija u restoranu,432 Random Street,2024-10-16 13:06:00,972,Sample note for the order.,217.00,2023-12-12 01:49:55
+786,401,8,Konzumacija u restoranu,42 Random Street,2024-05-28 13:06:00,499,Sample note for the order.,7.00,2023-12-12 16:58:18
+807,502,6,Dostava,983 Random Street,2024-11-16 13:06:00,499,Sample note for the order.,16.00,2023-12-12 19:48:51
+803,113,2,Dostava,825 Random Street,2024-12-01 13:06:00,499,Sample note for the order.,328.00,2023-12-12 00:42:29
+624,478,8,Konzumacija u restoranu,910 Random Street,2024-07-18 13:06:00,972,Sample note for the order.,231.00,2023-12-12 10:02:35
+562,311,4,Dostava,470 Random Street,2024-09-27 13:06:00,972,Sample note for the order.,77.00,2023-12-12 14:00:03
+698,277,8,Dostava,385 Random Street,2024-06-23 13:06:00,215,Sample note for the order.,112.00,2023-12-12 11:45:03
+686,571,7,Dostava,900 Random Street,2024-07-24 13:06:00,215,Sample note for the order.,270.00,2023-12-12 21:51:24
+636,365,5,Dostava,766 Random Street,2024-02-23 13:06:00,972,Sample note for the order.,270.00,2023-12-12 12:23:32
+743,134,6,Dostava,448 Random Street,2024-06-07 13:06:00,215,Sample note for the order.,135.00,2023-12-12 06:12:10
+785,159,4,Konzumacija u restoranu,394 Random Street,2024-06-26 13:06:00,499,Sample note for the order.,340.00,2023-12-12 20:48:05
+631,219,9,Dostava,288 Random Street,2024-08-11 13:06:00,972,Sample note for the order.,280.00,2023-12-12 10:33:12
+804,511,6,Dostava,428 Random Street,2024-08-12 13:06:00,499,Sample note for the order.,190.00,2023-12-12 13:52:01
+643,456,2,Konzumacija u restoranu,115 Random Street,2024-02-03 13:06:00,972,Sample note for the order.,400.00,2023-12-12 18:23:19
+749,386,8,Konzumacija u restoranu,783 Random Street,2024-10-13 13:06:00,215,Sample note for the order.,490.00,2023-12-12 02:30:19
+776,417,9,Konzumacija u restoranu,340 Random Street,2024-03-18 13:06:00,499,Sample note for the order.,352.00,2023-12-12 18:53:14
+596,440,9,Dostava,988 Random Street,2024-07-08 13:06:00,972,Sample note for the order.,64.00,2023-12-12 18:40:15
+723,277,6,Konzumacija u restoranu,61 Random Street,2024-04-18 13:06:00,215,Sample note for the order.,22.00,2023-12-12 09:51:31
+692,501,10,Konzumacija u restoranu,968 Random Street,2024-05-25 13:06:00,215,Sample note for the order.,58.00,2023-12-12 21:30:02
+581,102,9,Dostava,893 Random Street,2024-01-28 13:06:00,972,Sample note for the order.,190.00,2023-12-12 05:05:20
+661,550,9,Dostava,283 Random Street,2024-10-01 13:06:00,215,Sample note for the order.,110.00,2023-12-12 03:10:30
+722,297,7,Konzumacija u restoranu,474 Random Street,2024-12-02 13:06:00,215,Sample note for the order.,230.00,2023-12-12 22:53:30
+609,567,7,Dostava,954 Random Street,2024-10-29 13:06:00,972,Sample note for the order.,40.00,2023-12-12 08:10:19
+699,436,1,Konzumacija u restoranu,683 Random Street,2024-07-19 13:06:00,215,Sample note for the order.,184.00,2023-12-12 16:05:19
+640,466,8,Konzumacija u restoranu,2 Random Street,2024-05-15 13:06:00,972,Sample note for the order.,120.00,2023-12-12 20:13:33
+735,561,2,Dostava,938 Random Street,2024-09-14 13:06:00,215,Sample note for the order.,42.00,2023-12-12 19:34:19
+714,194,7,Konzumacija u restoranu,995 Random Street,2024-06-12 13:06:00,215,Sample note for the order.,168.00,2023-12-12 19:29:20
+772,155,6,Dostava,917 Random Street,2024-02-11 13:06:00,499,Sample note for the order.,5.00,2023-12-12 07:25:50
+745,386,9,Konzumacija u restoranu,277 Random Street,2024-06-14 13:06:00,215,Sample note for the order.,392.00,2023-12-12 20:41:09
+740,491,2,Konzumacija u restoranu,461 Random Street,2024-04-03 13:06:00,215,Sample note for the order.,294.00,2023-12-12 15:09:31
+637,115,6,Konzumacija u restoranu,296 Random Street,2024-02-10 13:06:00,972,Sample note for the order.,196.00,2023-12-12 10:50:25
+603,512,3,Konzumacija u restoranu,820 Random Street,2024-07-29 13:06:00,972,Sample note for the order.,161.00,2023-12-12 00:00:00
+591,109,6,Konzumacija u restoranu,669 Random Street,2024-08-01 13:06:00,972,Sample note for the order.,26.00,2023-12-12 20:58:36
+808,452,5,Konzumacija u restoranu,291 Random Street,2024-07-08 13:06:00,499,Sample note for the order.,205.00,2023-12-12 15:21:10
+792,499,9,Konzumacija u restoranu,473 Random Street,2024-07-28 13:06:00,499,Sample note for the order.,32.00,2023-12-12 07:42:23
+747,551,2,Konzumacija u restoranu,324 Random Street,2024-07-09 13:06:00,215,Sample note for the order.,25.00,2023-12-12 18:09:17
+651,205,2,Konzumacija u restoranu,215 Random Street,2024-06-04 13:06:00,215,Sample note for the order.,308.00,2023-12-12 00:47:05
+757,542,6,Dostava,237 Random Street,2024-04-17 13:06:00,499,Sample note for the order.,92.00,2023-12-12 01:59:27
+597,526,4,Dostava,5 Random Street,2024-08-11 13:06:00,972,Sample note for the order.,56.00,2023-12-12 23:48:38
+771,316,2,Dostava,600 Random Street,2024-07-06 13:06:00,499,Sample note for the order.,342.00,2023-12-12 00:51:25
+777,523,10,Konzumacija u restoranu,678 Random Street,2024-05-13 13:06:00,499,Sample note for the order.,441.00,2023-12-12 07:06:36
+573,300,10,Konzumacija u restoranu,85 Random Street,2024-10-14 13:06:00,972,Sample note for the order.,162.00,2023-12-12 16:01:46
+730,214,3,Konzumacija u restoranu,89 Random Street,2024-04-01 13:06:00,215,Sample note for the order.,70.00,2023-12-12 00:47:28
+787,520,3,Dostava,155 Random Street,2024-05-13 13:06:00,499,Sample note for the order.,56.00,2023-12-12 12:00:04
+611,424,3,Konzumacija u restoranu,940 Random Street,2024-03-15 13:06:00,972,Sample note for the order.,156.00,2023-12-12 13:36:28
+709,305,9,Dostava,273 Random Street,2024-01-20 13:06:00,215,Sample note for the order.,160.00,2023-12-12 06:34:24
+619,591,5,Konzumacija u restoranu,133 Random Street,2024-05-19 13:06:00,972,Sample note for the order.,217.00,2023-12-12 09:56:22
+621,440,1,Konzumacija u restoranu,567 Random Street,2024-04-05 13:06:00,972,Sample note for the order.,30.00,2023-12-12 03:46:38
+750,387,4,Dostava,101 Random Street,2024-05-28 13:06:00,499,Sample note for the order.,189.00,2023-12-12 12:30:37
+727,204,8,Konzumacija u restoranu,362 Random Street,2024-06-18 13:06:00,215,Sample note for the order.,450.00,2023-12-12 08:28:12
+810,300,10,Konzumacija u restoranu,752 Random Street,2024-01-22 13:06:00,499,Sample note for the order.,240.00,2023-12-12 18:22:07
+779,270,9,Konzumacija u restoranu,364 Random Street,2024-08-21 13:06:00,499,Sample note for the order.,18.00,2023-12-12 23:07:48
+811,405,4,Konzumacija u restoranu,28 Random Street,2024-12-01 13:06:00,499,Sample note for the order.,210.00,2023-12-12 03:23:37
+563,592,8,Dostava,366 Random Street,2024-08-26 13:06:00,972,Sample note for the order.,100.00,2023-12-12 11:34:30
+557,261,3,Dostava,825 Random Street,2024-09-04 13:06:00,972,Sample note for the order.,47.00,2023-12-12 23:22:59
+795,578,2,Dostava,747 Random Street,2024-05-14 13:06:00,499,Sample note for the order.,225.00,2023-12-12 04:20:24
+809,159,4,Konzumacija u restoranu,140 Random Street,2024-01-21 13:06:00,499,Sample note for the order.,28.00,2023-12-12 04:14:05
+718,205,10,Konzumacija u restoranu,706 Random Street,2024-12-03 13:06:00,215,Sample note for the order.,117.00,2023-12-12 12:04:03
+585,310,8,Dostava,230 Random Street,2024-04-20 13:06:00,972,Sample note for the order.,184.00,2023-12-12 11:24:42
+667,273,2,Dostava,609 Random Street,2024-07-13 13:06:00,215,Sample note for the order.,160.00,2023-12-12 14:27:34
+623,164,10,Dostava,753 Random Street,2024-05-20 13:06:00,972,Sample note for the order.,78.00,2023-12-12 20:39:36
+814,104,1,Konzumacija u restoranu,122 Random Street,2024-07-14 13:06:00,499,Sample note for the order.,117.00,2023-12-12 15:56:27
+668,415,7,Dostava,274 Random Street,2024-05-05 13:06:00,215,Sample note for the order.,333.00,2023-12-12 18:27:47
+789,100,1,Dostava,816 Random Street,2024-01-12 13:06:00,499,Sample note for the order.,273.00,2023-12-12 00:57:28
+708,499,7,Konzumacija u restoranu,866 Random Street,2024-11-18 13:06:00,215,Sample note for the order.,63.00,2023-12-12 13:35:33
+684,203,2,Dostava,264 Random Street,2024-07-08 13:06:00,215,Sample note for the order.,21.00,2023-12-12 15:18:58
+713,256,5,Konzumacija u restoranu,978 Random Street,2024-03-08 13:06:00,215,Sample note for the order.,150.00,2023-12-12 03:19:02
+559,461,2,Dostava,351 Random Street,2024-07-18 13:06:00,972,Sample note for the order.,95.00,2023-12-12 18:38:14
+788,543,6,Dostava,106 Random Street,2024-11-21 13:06:00,499,Sample note for the order.,36.00,2023-12-12 05:18:54
+773,522,5,Konzumacija u restoranu,575 Random Street,2024-02-03 13:06:00,499,Sample note for the order.,48.00,2023-12-12 01:23:09
+645,121,9,Konzumacija u restoranu,351 Random Street,2024-09-07 13:06:00,972,Sample note for the order.,384.00,2023-12-12 08:36:55
+607,370,3,Dostava,556 Random Street,2024-03-29 13:06:00,972,Sample note for the order.,288.00,2023-12-12 13:01:59
+701,104,2,Dostava,550 Random Street,2024-12-01 13:06:00,215,Sample note for the order.,96.00,2023-12-12 11:29:09
+633,500,9,Konzumacija u restoranu,91 Random Street,2024-11-08 13:06:00,972,Sample note for the order.,126.00,2023-12-12 21:45:54
+738,598,4,Konzumacija u restoranu,468 Random Street,2024-02-29 13:06:00,215,Sample note for the order.,70.00,2023-12-12 13:04:12
+797,564,2,Dostava,923 Random Street,2024-06-14 13:06:00,499,Sample note for the order.,36.00,2023-12-12 13:43:20
+582,378,6,Konzumacija u restoranu,340 Random Street,2024-10-17 13:06:00,972,Sample note for the order.,117.00,2023-12-12 12:17:14
+762,130,1,Konzumacija u restoranu,284 Random Street,2024-01-24 13:06:00,499,Sample note for the order.,215.00,2023-12-12 09:05:10
+712,110,3,Konzumacija u restoranu,262 Random Street,2024-08-25 13:06:00,215,Sample note for the order.,56.00,2023-12-12 16:23:49
+799,192,4,Konzumacija u restoranu,576 Random Street,2024-09-10 13:06:00,499,Sample note for the order.,29.00,2023-12-12 04:32:27
+646,433,3,Dostava,806 Random Street,2024-05-09 13:06:00,972,Sample note for the order.,200.00,2023-12-12 11:43:00
+679,435,10,Konzumacija u restoranu,730 Random Street,2024-06-14 13:06:00,215,Sample note for the order.,196.00,2023-12-12 14:56:25
+729,311,7,Dostava,280 Random Street,2024-03-20 13:06:00,215,Sample note for the order.,130.00,2023-12-12 10:39:35
+560,257,3,Konzumacija u restoranu,361 Random Street,2024-04-06 13:06:00,972,Sample note for the order.,55.00,2023-12-12 17:24:05
+680,157,3,Dostava,397 Random Street,2024-01-05 13:06:00,215,Sample note for the order.,168.00,2023-12-12 22:22:40
+818,122,3,Konzumacija u restoranu,401 Random Street,2024-06-21 13:06:00,499,Sample note for the order.,64.00,2023-12-12 08:44:29
+513,264,331,Konzumacija u restoranu,951 High Crossing Hill,2024-10-10 04:15:53,658,,387.00,2024-10-10 03:15:53
+514,645,351,Konzumacija u restoranu,6098 Butternut Circle,2022-09-14 10:23:38,897,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",24.00,2022-09-14 07:23:38
+515,424,236,Konzumacija u restoranu,57 Moose Court,2023-11-15 01:42:17,223,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",360.00,2023-11-14 22:42:17
+516,807,345,Dostava,369 Annamark Way,2022-11-04 11:58:24,97,,32.00,2022-11-04 10:58:24
+517,933,53,Dostava,57888 Grim Lane,2024-04-26 00:14:59,520,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,126.00,2024-04-25 23:14:59
+518,458,388,Konzumacija u restoranu,0830 Scott Point,2023-02-10 11:24:51,813,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,128.00,2023-02-10 08:24:51
+519,968,283,Konzumacija u restoranu,39 Starling Center,2024-11-11 04:16:44,307,,248.00,2024-11-11 01:16:44
+520,355,336,Konzumacija u restoranu,2 Stephen Point,2023-11-17 23:34:32,415,,39.00,2023-11-17 22:34:32
+613,190,10,Dostava,440 Random Street,2024-07-27 13:06:00,972,Sample note for the order.,42.00,2023-12-12 11:51:25
+737,278,7,Dostava,870 Random Street,2024-11-21 13:06:00,215,Sample note for the order.,80.00,2023-12-12 14:42:29
+782,336,8,Konzumacija u restoranu,365 Random Street,2024-01-13 13:06:00,499,Sample note for the order.,56.00,2023-12-12 21:46:52
+589,437,8,Konzumacija u restoranu,758 Random Street,2024-10-28 13:06:00,972,Sample note for the order.,77.00,2023-12-12 09:40:47
+583,152,3,Dostava,861 Random Street,2024-11-22 13:06:00,972,Sample note for the order.,130.00,2023-12-12 18:28:34
+689,428,3,Dostava,503 Random Street,2024-09-09 13:06:00,215,Sample note for the order.,48.00,2023-12-12 19:13:47
+569,372,1,Dostava,440 Random Street,2024-08-12 13:06:00,972,Sample note for the order.,38.00,2023-12-12 20:37:35
+615,325,6,Konzumacija u restoranu,282 Random Street,2024-09-19 13:06:00,972,Sample note for the order.,410.00,2023-12-12 16:10:01
+798,314,4,Konzumacija u restoranu,359 Random Street,2024-07-24 13:06:00,499,Sample note for the order.,25.00,2023-12-12 14:25:29
+693,126,1,Konzumacija u restoranu,297 Random Street,2024-05-30 13:06:00,215,Sample note for the order.,28.00,2023-12-12 07:13:34
+555,593,8,Dostava,478 Random Street,2024-12-01 13:06:00,972,Sample note for the order.,76.00,2023-12-12 16:11:28
+744,221,7,Konzumacija u restoranu,683 Random Street,2024-12-03 13:06:00,215,Sample note for the order.,420.00,2023-12-12 09:32:47
+567,548,7,Dostava,269 Random Street,2024-01-29 13:06:00,972,Sample note for the order.,75.00,2023-12-12 07:06:44
+630,305,4,Dostava,308 Random Street,2024-08-23 13:06:00,972,Sample note for the order.,150.00,2023-12-12 16:38:49
+575,454,5,Dostava,710 Random Street,2024-09-04 13:06:00,972,Sample note for the order.,208.00,2023-12-12 20:05:43
+715,101,9,Dostava,264 Random Street,2024-03-06 13:06:00,215,Sample note for the order.,132.00,2023-12-12 12:00:26
+601,465,5,Dostava,616 Random Street,2024-07-30 13:06:00,972,Sample note for the order.,120.00,2023-12-12 11:10:24
+590,417,2,Dostava,886 Random Street,2024-07-10 13:06:00,972,Sample note for the order.,198.00,2023-12-12 14:11:48
+763,510,1,Dostava,94 Random Street,2024-01-05 13:06:00,499,Sample note for the order.,42.00,2023-12-12 22:00:17
+659,381,6,Dostava,999 Random Street,2024-12-03 13:06:00,215,Sample note for the order.,136.00,2023-12-12 21:24:37
+627,129,10,Konzumacija u restoranu,684 Random Street,2024-07-20 13:06:00,972,Sample note for the order.,27.00,2023-12-12 07:14:17
+739,580,5,Dostava,371 Random Street,2024-07-02 13:06:00,215,Sample note for the order.,87.00,2023-12-12 22:09:18
+676,441,8,Dostava,28 Random Street,2024-03-27 13:06:00,215,Sample note for the order.,200.00,2023-12-12 09:49:23
+778,375,3,Konzumacija u restoranu,948 Random Street,2024-02-20 13:06:00,499,Sample note for the order.,57.00,2023-12-12 20:58:09
+685,485,1,Dostava,388 Random Street,2024-01-17 13:06:00,215,Sample note for the order.,25.00,2023-12-12 16:34:37
+741,187,1,Konzumacija u restoranu,614 Random Street,2024-12-01 13:06:00,215,Sample note for the order.,217.00,2023-12-12 01:32:59
+716,315,10,Dostava,398 Random Street,2024-05-20 13:06:00,215,Sample note for the order.,16.00,2023-12-12 16:39:17
+664,548,9,Dostava,711 Random Street,2024-02-25 13:06:00,215,Sample note for the order.,188.00,2023-12-12 08:21:09
+736,556,4,Konzumacija u restoranu,812 Random Street,2024-01-27 13:06:00,215,Sample note for the order.,119.00,2023-12-12 23:32:44
+565,180,8,Dostava,849 Random Street,2024-04-06 13:06:00,972,Sample note for the order.,340.00,2023-12-12 07:49:21
+610,372,2,Konzumacija u restoranu,26 Random Street,2024-01-20 13:06:00,972,Sample note for the order.,48.00,2023-12-12 09:14:45
+566,126,5,Konzumacija u restoranu,35 Random Street,2024-09-22 13:06:00,972,Sample note for the order.,248.00,2023-12-12 15:35:48
+551,579,3,Konzumacija u restoranu,647 Random Street,2024-11-13 13:06:00,972,Sample note for the order.,55.00,2023-12-12 04:31:48
+564,542,8,Dostava,849 Random Street,2024-03-02 13:06:00,972,Sample note for the order.,216.00,2023-12-12 17:01:03
+678,547,5,Konzumacija u restoranu,975 Random Street,2024-11-09 13:06:00,215,Sample note for the order.,77.00,2023-12-12 10:47:32
+592,235,5,Konzumacija u restoranu,543 Random Street,2024-08-21 13:06:00,972,Sample note for the order.,77.00,2023-12-12 05:36:33
+812,525,7,Konzumacija u restoranu,948 Random Street,2024-12-03 13:06:00,499,Sample note for the order.,232.00,2023-12-12 20:53:07
+687,323,9,Konzumacija u restoranu,642 Random Street,2024-04-19 13:06:00,215,Sample note for the order.,147.00,2023-12-12 13:53:51
+579,264,9,Dostava,951 Random Street,2024-03-14 13:06:00,972,Sample note for the order.,272.00,2023-12-12 22:44:43
+642,206,4,Dostava,764 Random Street,2024-10-13 13:06:00,972,Sample note for the order.,120.00,2023-12-12 05:17:14
+553,203,8,Dostava,401 Random Street,2024-06-08 13:06:00,972,Sample note for the order.,147.00,2023-12-12 16:32:16
+725,391,10,Konzumacija u restoranu,644 Random Street,2024-04-02 13:06:00,215,Sample note for the order.,360.00,2023-12-12 11:27:46
+622,552,4,Dostava,473 Random Street,2024-10-03 13:06:00,972,Sample note for the order.,304.00,2023-12-12 13:42:45
+774,557,5,Dostava,800 Random Street,2024-05-04 13:06:00,499,Sample note for the order.,360.00,2023-12-12 12:28:38
+584,576,10,Konzumacija u restoranu,267 Random Street,2024-05-15 13:06:00,972,Sample note for the order.,10.00,2023-12-12 01:03:58
+746,470,2,Konzumacija u restoranu,87 Random Street,2024-04-19 13:06:00,215,Sample note for the order.,65.00,2023-12-12 17:27:53
+720,194,4,Dostava,772 Random Street,2024-09-01 13:06:00,215,Sample note for the order.,54.00,2023-12-12 13:10:53
+806,337,3,Dostava,282 Random Street,2024-01-15 13:06:00,499,Sample note for the order.,21.00,2023-12-12 10:05:11
+635,317,7,Dostava,991 Random Street,2024-10-21 13:06:00,972,Sample note for the order.,30.00,2023-12-12 11:27:36
+813,514,1,Dostava,341 Random Street,2024-10-21 13:06:00,499,Sample note for the order.,387.00,2023-12-12 05:46:01
+639,201,6,Dostava,392 Random Street,2024-11-03 13:06:00,972,Sample note for the order.,8.00,2023-12-12 10:25:01
+574,118,6,Dostava,28 Random Street,2024-08-13 13:06:00,972,Sample note for the order.,21.00,2023-12-12 01:14:04
+620,466,7,Konzumacija u restoranu,13 Random Street,2024-11-09 13:06:00,972,Sample note for the order.,72.00,2023-12-12 12:36:29
+761,264,8,Konzumacija u restoranu,504 Random Street,2024-08-01 13:06:00,499,Sample note for the order.,96.00,2023-12-12 05:13:10
+706,178,10,Konzumacija u restoranu,669 Random Street,2024-02-21 13:06:00,215,Sample note for the order.,70.00,2023-12-12 03:05:32
+673,227,3,Dostava,195 Random Street,2024-08-10 13:06:00,215,Sample note for the order.,75.00,2023-12-12 15:31:15
+571,162,6,Dostava,991 Random Street,2024-05-31 13:06:00,972,Sample note for the order.,6.00,2023-12-12 13:32:03
+666,170,1,Konzumacija u restoranu,150 Random Street,2024-05-15 13:06:00,215,Sample note for the order.,102.00,2023-12-12 09:28:13
+783,361,1,Dostava,798 Random Street,2024-01-04 13:06:00,499,Sample note for the order.,248.00,2023-12-12 07:15:04
+694,278,10,Konzumacija u restoranu,738 Random Street,2024-07-15 13:06:00,215,Sample note for the order.,180.00,2023-12-12 10:55:27
+558,504,2,Konzumacija u restoranu,554 Random Street,2024-04-06 13:06:00,972,Sample note for the order.,16.00,2023-12-12 05:11:37
+690,136,4,Konzumacija u restoranu,611 Random Street,2024-11-04 13:06:00,215,Sample note for the order.,13.00,2023-12-12 01:25:45
+598,458,7,Konzumacija u restoranu,934 Random Street,2024-07-01 13:06:00,972,Sample note for the order.,84.00,2023-12-12 21:58:28
+669,377,10,Dostava,743 Random Street,2024-06-25 13:06:00,215,Sample note for the order.,300.00,2023-12-12 11:08:39
+752,293,7,Konzumacija u restoranu,686 Random Street,2024-06-19 13:06:00,499,Sample note for the order.,66.00,2023-12-12 00:15:40
+688,423,6,Dostava,146 Random Street,2024-04-21 13:06:00,215,Sample note for the order.,140.00,2023-12-12 02:26:50
+594,312,5,Dostava,155 Random Street,2024-10-20 13:06:00,972,Sample note for the order.,70.00,2023-12-12 02:03:55
+683,149,9,Konzumacija u restoranu,387 Random Street,2024-03-19 13:06:00,215,Sample note for the order.,145.00,2023-12-12 19:45:56
+793,354,9,Dostava,438 Random Street,2024-09-12 13:06:00,499,Sample note for the order.,192.00,2023-12-12 16:50:34
+662,473,3,Konzumacija u restoranu,82 Random Street,2024-10-29 13:06:00,215,Sample note for the order.,198.00,2023-12-12 23:49:52
+608,371,4,Dostava,243 Random Street,2024-02-25 13:06:00,972,Sample note for the order.,16.00,2023-12-12 20:43:44
+702,164,4,Konzumacija u restoranu,454 Random Street,2024-02-06 13:06:00,215,Sample note for the order.,380.00,2023-12-12 08:57:46
+629,180,7,Konzumacija u restoranu,351 Random Street,2024-05-06 13:06:00,972,Sample note for the order.,66.00,2023-12-12 14:55:38
+805,316,5,Konzumacija u restoranu,1 Random Street,2024-10-21 13:06:00,499,Sample note for the order.,240.00,2023-12-12 18:17:44
+726,310,10,Dostava,994 Random Street,2024-02-10 13:06:00,215,Sample note for the order.,10.00,2023-12-12 17:04:51
+588,310,7,Konzumacija u restoranu,211 Random Street,2024-04-28 13:06:00,972,Sample note for the order.,180.00,2023-12-12 21:36:39
+625,258,4,Dostava,644 Random Street,2024-09-09 13:06:00,972,Sample note for the order.,20.00,2023-12-12 00:42:27
+52,683,232,Dostava,45978 Westend Plaza,2022-12-28 05:14:38,510,,340.00,2022-12-28 04:14:38
+451,133,337,Konzumacija u restoranu,68053 Tennyson Pass,2024-03-14 15:32:52,363,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,5.00,2024-03-14 14:32:52
+452,901,477,Dostava,2 Sunfield Drive,2023-08-17 07:37:30,754,,50.00,2023-08-17 05:37:30
+453,453,387,Dostava,54 Ludington Terrace,2024-08-13 05:22:24,492,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,280.00,2024-08-13 03:22:24
+454,848,133,Dostava,437 5th Trail,2023-01-20 13:05:04,410,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,30.00,2023-01-20 10:05:04
+46,962,209,Konzumacija u restoranu,9408 Warrior Alley,2023-08-05 08:30:10,545,,198.00,2023-08-05 06:30:10
+455,466,282,Konzumacija u restoranu,32 Green Ridge Terrace,2023-09-30 20:37:34,500,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",49.00,2023-09-30 18:37:34
+456,211,81,Dostava,82098 Hanover Alley,2023-09-17 13:36:54,45,,84.00,2023-09-17 10:36:54
+457,787,497,Konzumacija u restoranu,73 Pankratz Plaza,2023-09-21 11:27:34,761,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",42.00,2023-09-21 09:27:34
+458,57,185,Konzumacija u restoranu,9 Valley Edge Crossing,2024-07-03 15:41:30,741,,252.00,2024-07-03 13:41:30
+459,504,453,Konzumacija u restoranu,3320 Emmet Parkway,2023-08-22 18:07:56,56,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,238.00,2023-08-22 17:07:56
+460,957,175,Dostava,3 Gale Road,2023-06-07 07:17:48,719,,294.00,2023-06-07 06:17:48
+461,790,208,Konzumacija u restoranu,4827 Comanche Park,2024-06-23 00:44:13,993,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",58.00,2024-06-22 21:44:13
+462,383,221,Konzumacija u restoranu,44 Pennsylvania Point,2024-02-21 00:50:19,991,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,96.00,2024-02-20 22:50:19
+463,131,250,Konzumacija u restoranu,61 Claremont Drive,2024-01-16 07:23:49,621,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,152.00,2024-01-16 06:23:49
+464,35,74,Dostava,16 Morning Circle,2024-05-05 22:32:07,154,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",180.00,2024-05-05 20:32:07
+465,226,421,Dostava,6 Springs Junction,2024-08-22 18:26:51,998,,78.00,2024-08-22 16:26:51
+466,261,67,Dostava,145 Delaware Court,2023-03-13 09:26:28,722,,12.00,2023-03-13 06:26:28
+467,927,127,Dostava,3 Derek Avenue,2024-03-06 04:24:02,473,,152.00,2024-03-06 02:24:02
+468,263,270,Dostava,406 Goodland Court,2024-04-04 19:29:29,115,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",141.00,2024-04-04 16:29:29
+469,884,157,Dostava,7 Fulton Point,2022-11-15 11:36:11,599,,46.00,2022-11-15 09:36:11
+470,950,495,Dostava,18860 Weeping Birch Road,2023-03-18 01:35:04,897,,370.00,2023-03-17 22:35:04
+471,684,237,Dostava,40 Westerfield Trail,2024-04-02 22:46:51,601,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",168.00,2024-04-02 19:46:51
+472,267,131,Dostava,5 Rutledge Point,2022-11-27 06:13:33,733,,272.00,2022-11-27 04:13:33
+473,468,440,Konzumacija u restoranu,192 Calypso Court,2024-05-16 16:35:18,371,,200.00,2024-05-16 14:35:18
+474,367,312,Dostava,35288 Moulton Pass,2024-04-08 08:40:27,127,,198.00,2024-04-08 07:40:27
+475,902,461,Konzumacija u restoranu,8310 Londonderry Place,2023-04-24 06:39:23,328,,340.00,2023-04-24 05:39:23
+476,164,468,Dostava,93712 Boyd Drive,2023-09-09 08:02:12,212,,136.00,2023-09-09 07:02:12
+477,281,263,Dostava,59 Fairview Lane,2023-05-23 04:49:07,161,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,380.00,2023-05-23 02:49:07
+478,857,173,Konzumacija u restoranu,6 Clarendon Parkway,2024-04-13 19:02:12,415,,39.00,2024-04-13 18:02:12
+479,260,354,Dostava,12 Lindbergh Street,2024-05-23 02:17:51,262,,108.00,2024-05-23 00:17:51
+480,115,87,Konzumacija u restoranu,11 Roxbury Court,2023-12-23 02:47:48,854,,22.00,2023-12-22 23:47:48
+481,149,477,Dostava,97 Granby Circle,2023-01-18 08:53:46,284,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,420.00,2023-01-18 05:53:46
+487,432,111,Konzumacija u restoranu,21718 7th Parkway,2024-02-01 23:26:25,572,,48.00,2024-02-01 22:26:25
+400,359,430,Dostava,2462 Southridge Trail,2023-09-19 17:52:13,278,Sed ante. Vivamus tortor. Duis mattis egestas metus.,430.00,2023-09-19 15:52:13
+401,606,484,Konzumacija u restoranu,3 Johnson Lane,2023-11-11 00:43:21,503,,138.00,2023-11-10 22:43:21
+402,834,14,Dostava,00004 Susan Point,2024-01-08 06:19:18,994,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",136.00,2024-01-08 03:19:18
+403,675,280,Konzumacija u restoranu,2 Holy Cross Avenue,2023-08-30 20:20:54,945,,136.00,2023-08-30 18:20:54
+404,148,492,Konzumacija u restoranu,838 Sage Way,2024-10-08 22:06:09,503,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",414.00,2024-10-08 21:06:09
+405,793,412,Dostava,5 Carberry Alley,2023-05-22 18:51:28,209,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",428.00,2023-05-22 16:51:28
+406,681,430,Konzumacija u restoranu,611 Prairieview Court,2023-02-18 12:03:37,748,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",178.00,2023-02-18 09:03:37
+407,45,496,Konzumacija u restoranu,18037 Oneill Alley,2022-12-22 16:21:14,63,,534.00,2022-12-22 14:21:14
+408,472,363,Konzumacija u restoranu,67 Arkansas Park,2024-06-04 12:41:06,941,,408.00,2024-06-04 09:41:06
+409,950,107,Konzumacija u restoranu,18138 Johnson Road,2024-01-30 21:53:46,931,,354.00,2024-01-30 20:53:46
+411,858,129,Konzumacija u restoranu,472 Bowman Center,2023-05-24 08:05:33,328,,266.00,2023-05-24 06:05:33
+412,691,426,Konzumacija u restoranu,99006 Macpherson Circle,2024-02-02 05:10:37,378,,620.00,2024-02-02 02:10:37
+413,51,152,Dostava,107 Kinsman Trail,2024-06-18 21:34:15,436,,314.00,2024-06-18 20:34:15
+414,272,82,Dostava,0468 Namekagon Crossing,2023-10-17 03:09:45,705,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,696.00,2023-10-17 01:09:45
+415,601,29,Dostava,265 Merchant Pass,2023-05-03 10:07:12,223,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,232.00,2023-05-03 09:07:12
+416,181,136,Dostava,8704 Maywood Point,2024-11-03 01:42:39,133,,374.00,2024-11-02 23:42:39
+417,909,228,Dostava,533 Dakota Center,2022-11-25 05:03:59,842,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,176.00,2022-11-25 03:03:59
+418,931,357,Konzumacija u restoranu,4525 Blackbird Drive,2023-08-01 14:01:20,410,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",171.00,2023-08-01 13:01:20
+419,61,414,Dostava,217 Glendale Drive,2023-03-10 09:32:02,981,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",202.00,2023-03-10 07:32:02
+420,907,266,Konzumacija u restoranu,3345 Clove Terrace,2023-05-08 13:11:39,325,,380.00,2023-05-08 11:11:39
+421,625,312,Dostava,18221 Clarendon Drive,2022-10-14 06:17:44,528,,481.00,2022-10-14 04:17:44
+422,427,76,Konzumacija u restoranu,4 Miller Pass,2022-11-08 23:09:33,71,,339.00,2022-11-08 21:09:33
+423,321,207,Konzumacija u restoranu,46468 Hoffman Hill,2023-07-15 21:50:13,468,,373.00,2023-07-15 18:50:13
+424,778,146,Konzumacija u restoranu,269 Golf Parkway,2023-01-08 10:46:31,370,,174.00,2023-01-08 07:46:31
+425,391,162,Konzumacija u restoranu,27 Fallview Avenue,2024-01-07 12:27:48,524,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,120.00,2024-01-07 09:27:48
+426,833,208,Konzumacija u restoranu,7 Morning Court,2024-08-07 09:26:23,249,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,136.00,2024-08-07 06:26:23
+427,663,101,Dostava,8320 Knutson Center,2023-08-22 01:25:08,864,,483.00,2023-08-21 23:25:08
+428,764,26,Konzumacija u restoranu,14 Dakota Road,2024-09-29 09:13:59,614,,428.00,2024-09-29 07:13:59
+429,915,295,Dostava,3433 Dayton Junction,2023-10-20 19:30:27,836,,201.00,2023-10-20 18:30:27
+430,534,247,Konzumacija u restoranu,7 Harper Circle,2024-10-17 20:58:44,218,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",356.00,2024-10-17 18:58:44
+431,377,46,Konzumacija u restoranu,6390 Dunning Alley,2024-04-10 18:07:36,468,,481.00,2024-04-10 17:07:36
+432,629,275,Konzumacija u restoranu,5 Scoville Plaza,2023-03-01 00:02:35,38,,363.00,2023-02-28 21:02:35
+433,169,30,Dostava,05773 Blue Bill Park Court,2023-07-13 05:54:18,440,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",88.00,2023-07-13 03:54:18
+434,548,495,Dostava,36 Walton Center,2024-04-14 17:43:58,71,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,348.00,2024-04-14 16:43:58
+435,117,443,Dostava,45 Spohn Center,2024-06-23 17:10:40,905,,192.00,2024-06-23 14:10:40
+436,428,195,Konzumacija u restoranu,092 Lillian Hill,2024-02-11 16:07:32,615,Sed ante. Vivamus tortor. Duis mattis egestas metus.,169.00,2024-02-11 13:07:32
+437,46,127,Konzumacija u restoranu,83 Hallows Road,2023-08-13 04:04:11,368,,390.00,2023-08-13 03:04:11
+438,209,340,Konzumacija u restoranu,61 Corry Parkway,2024-06-18 18:12:47,953,,334.00,2024-06-18 16:12:47
+439,442,395,Konzumacija u restoranu,6698 Buhler Point,2024-05-24 07:18:06,541,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",150.00,2024-05-24 06:18:06
+440,737,255,Dostava,73075 Mariners Cove Terrace,2024-11-13 12:56:29,440,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",70.00,2024-11-13 09:56:29
+441,490,316,Dostava,016 Continental Place,2024-01-02 22:31:12,905,,255.00,2024-01-02 20:31:12
+442,274,120,Konzumacija u restoranu,6 1st Center,2024-08-08 23:16:58,905,,211.00,2024-08-08 21:16:58
+443,529,487,Konzumacija u restoranu,228 Meadow Vale Trail,2023-11-11 04:18:50,616,,196.00,2023-11-11 02:18:50
+444,855,136,Konzumacija u restoranu,533 Paget Way,2024-06-09 22:59:00,244,,382.00,2024-06-09 21:59:00
+445,995,55,Dostava,7654 Thackeray Junction,2024-12-02 18:13:39,510,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,129.00,2024-12-02 15:13:39
+446,134,69,Dostava,9 Graedel Pass,2023-09-05 23:52:57,884,,146.00,2023-09-05 21:52:57
+447,391,97,Konzumacija u restoranu,14357 Esker Center,2022-09-28 05:40:26,548,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,655.00,2022-09-28 02:40:26
+448,319,440,Dostava,4 Lakewood Way,2024-09-09 20:06:24,447,,202.00,2024-09-09 19:06:24
+449,153,475,Konzumacija u restoranu,3913 Meadow Valley Place,2024-07-14 01:07:15,733,,407.00,2024-07-13 23:07:15
+450,662,177,Dostava,528 Glacier Hill Hill,2024-12-01 04:47:34,528,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",498.00,2024-12-01 02:47:34
+482,57,224,Konzumacija u restoranu,1903 Badeau Plaza,2022-12-21 09:09:22,119,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",12.00,2022-12-21 07:09:22
+483,85,11,Dostava,3 Mitchell Terrace,2024-02-14 20:59:31,529,,141.00,2024-02-14 17:59:31
+484,224,224,Dostava,7 Petterle Alley,2024-03-24 08:34:29,930,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",396.00,2024-03-24 07:34:29
+485,722,212,Dostava,00 High Crossing Drive,2022-10-27 17:23:41,927,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",128.00,2022-10-27 16:23:41
+486,888,40,Dostava,034 Spenser Center,2023-01-30 02:06:55,86,Sed ante. Vivamus tortor. Duis mattis egestas metus.,35.00,2023-01-29 23:06:55
+488,783,423,Dostava,25048 Chinook Way,2024-01-16 04:38:54,598,,14.00,2024-01-16 03:38:54
+489,17,479,Konzumacija u restoranu,0173 Continental Parkway,2024-11-09 18:00:01,433,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,234.00,2024-11-09 17:00:01
+490,522,293,Konzumacija u restoranu,99 Raven Circle,2024-05-24 00:09:26,267,,245.00,2024-05-23 23:09:26
+491,793,425,Konzumacija u restoranu,63 Declaration Court,2023-02-21 17:46:03,543,,64.00,2023-02-21 14:46:03
+492,495,240,Dostava,2123 Dayton Park,2023-04-11 13:01:00,150,,224.00,2023-04-11 10:01:00
+493,360,118,Konzumacija u restoranu,6369 Fallview Pass,2023-02-13 07:30:51,868,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,144.00,2023-02-13 05:30:51
+494,531,172,Konzumacija u restoranu,520 Ludington Junction,2023-10-27 21:31:39,9,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",210.00,2023-10-27 19:31:39
+495,947,203,Konzumacija u restoranu,4 Dahle Hill,2024-11-19 17:01:13,516,,259.00,2024-11-19 14:01:13
+496,446,343,Konzumacija u restoranu,5583 Jay Avenue,2024-06-14 15:10:32,781,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",13.00,2024-06-14 12:10:32
+497,133,286,Dostava,659 Ohio Drive,2024-03-18 10:08:04,16,,145.00,2024-03-18 08:08:04
+498,564,479,Konzumacija u restoranu,08871 Maple Plaza,2022-09-22 21:49:46,235,,368.00,2022-09-22 18:49:46
+499,920,414,Dostava,940 Eliot Junction,2023-02-06 17:23:31,238,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",114.00,2023-02-06 15:23:31
+500,475,252,Dostava,1284 Hermina Park,2023-12-16 21:16:38,417,,15.00,2023-12-16 20:16:38
+47,541,340,Konzumacija u restoranu,1917 Bunting Plaza,2023-08-23 12:28:13,310,,384.00,2023-08-23 11:28:13
+501,745,291,Konzumacija u restoranu,98770 Namekagon Park,2024-05-17 15:57:42,986,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,168.00,2024-05-17 12:57:42
+502,766,223,Konzumacija u restoranu,956 Welch Road,2024-01-11 14:25:12,503,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",84.00,2024-01-11 12:25:12
+503,106,429,Dostava,77 Harper Terrace,2022-10-21 06:19:56,676,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",74.00,2022-10-21 05:19:56
+504,12,32,Dostava,251 Monica Center,2024-09-11 22:28:06,800,,280.00,2024-09-11 21:28:06
+505,96,114,Konzumacija u restoranu,57051 Surrey Park,2023-04-25 22:50:50,249,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",160.00,2023-04-25 21:50:50
+506,827,471,Dostava,81659 Debra Street,2023-07-02 23:47:32,432,Fusce consequat. Nulla nisl. Nunc nisl.,234.00,2023-07-02 21:47:32
+507,847,142,Dostava,7911 Green Court,2023-10-23 10:13:04,719,,38.00,2023-10-23 08:13:04
+508,645,39,Dostava,71529 Stuart Terrace,2024-01-22 21:11:33,885,,171.00,2024-01-22 20:11:33
+509,194,308,Dostava,372 Morning Court,2023-10-12 19:43:48,170,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",38.00,2023-10-12 16:43:48
+510,306,18,Konzumacija u restoranu,32 Russell Park,2024-04-18 10:07:19,499,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",126.00,2024-04-18 08:07:19
+511,650,257,Konzumacija u restoranu,2245 Green Ridge Lane,2022-12-28 17:48:54,585,,112.00,2022-12-28 16:48:54
+512,202,215,Dostava,99 Pleasure Place,2024-07-16 10:15:35,25,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,92.00,2024-07-16 08:15:35
+521,597,412,Konzumacija u restoranu,2528 Veith Plaza,2023-11-11 02:07:34,144,,245.00,2023-11-11 01:07:34
+522,341,160,Konzumacija u restoranu,92148 Golf View Center,2023-05-18 11:15:44,733,,46.00,2023-05-18 09:15:44
+523,377,295,Dostava,81337 Melody Center,2024-11-30 06:10:13,133,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",49.00,2024-11-30 05:10:13
+524,720,477,Konzumacija u restoranu,13 Vera Pass,2023-11-28 01:55:07,188,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",78.00,2023-11-27 22:55:07
+525,294,73,Konzumacija u restoranu,7202 Blaine Street,2023-06-25 05:14:31,816,,168.00,2023-06-25 03:14:31
+526,206,6,Dostava,3013 Mcguire Street,2024-01-03 23:16:47,20,,18.00,2024-01-03 21:16:47
+527,976,358,Konzumacija u restoranu,7 Oak Lane,2024-04-26 18:47:19,252,,120.00,2024-04-26 17:47:19
+528,785,437,Konzumacija u restoranu,70368 Anzinger Street,2022-09-19 17:01:06,314,,224.00,2022-09-19 14:01:06
+529,605,398,Konzumacija u restoranu,0 Moulton Trail,2024-08-12 09:15:40,914,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",306.00,2024-08-12 08:15:40
+530,786,382,Dostava,2704 Garrison Trail,2023-09-02 02:02:04,962,,11.00,2023-09-02 01:02:04
+531,300,420,Dostava,848 Milwaukee Crossing,2023-09-30 21:07:47,683,,140.00,2023-09-30 18:07:47
+532,621,411,Dostava,754 Victoria Lane,2023-03-07 00:24:23,611,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,153.00,2023-03-06 21:24:23
+533,277,322,Konzumacija u restoranu,942 Lunder Drive,2024-08-14 18:42:15,372,,72.00,2024-08-14 16:42:15
+534,651,258,Konzumacija u restoranu,2327 Sunfield Junction,2024-06-25 04:59:43,63,,24.00,2024-06-25 03:59:43
+535,982,379,Dostava,3714 Lakewood Gardens Center,2023-04-27 23:04:26,464,,64.00,2023-04-27 21:04:26
+536,394,313,Dostava,36 Hoffman Crossing,2023-03-10 07:07:06,45,,228.00,2023-03-10 04:07:06
+537,95,401,Dostava,2353 Buena Vista Drive,2023-09-24 12:12:21,943,,48.00,2023-09-24 11:12:21
+538,240,78,Konzumacija u restoranu,2603 Village Green Terrace,2024-04-21 13:37:57,317,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",48.00,2024-04-21 12:37:57
+539,847,481,Dostava,511 Roth Center,2022-12-15 11:02:23,809,,90.00,2022-12-15 10:02:23
+540,264,242,Konzumacija u restoranu,1571 Lighthouse Bay Road,2024-09-30 00:09:42,921,,60.00,2024-09-29 22:09:42
+541,925,456,Konzumacija u restoranu,9551 Schurz Terrace,2023-05-26 04:47:54,928,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,266.00,2023-05-26 01:47:54
+542,866,364,Dostava,40 Kinsman Point,2022-11-13 02:13:27,328,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",144.00,2022-11-12 23:13:27
+543,807,315,Dostava,1961 Erie Court,2024-10-17 00:54:01,548,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,252.00,2024-10-16 21:54:01
+544,392,468,Konzumacija u restoranu,1899 Reindahl Point,2024-03-30 20:36:28,222,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",99.00,2024-03-30 19:36:28
+545,622,273,Dostava,244 Karstens Pass,2024-10-02 04:02:05,209,,48.00,2024-10-02 02:02:05
+546,919,390,Konzumacija u restoranu,32544 Anderson Street,2022-12-11 11:06:16,890,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",120.00,2022-12-11 08:06:16
+547,320,145,Konzumacija u restoranu,6239 Montana Trail,2023-06-25 08:28:03,574,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",300.00,2023-06-25 05:28:03
+548,447,269,Dostava,87412 Trailsway Crossing,2024-05-15 08:11:12,57,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",60.00,2024-05-15 05:11:12
+549,383,466,Dostava,7 Summerview Street,2023-11-05 21:37:01,134,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",196.00,2023-11-05 19:37:01
+550,814,109,Dostava,1 Hoffman Trail,2023-11-29 18:46:52,985,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,42.00,2023-11-29 17:46:52
+1,166,397,Dostava,785 Green Ridge Hill,2023-05-11 20:02:55,972,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",240.00,2023-05-11 19:02:55
+2,511,438,Konzumacija u restoranu,70 Manley Street,2023-07-23 00:50:01,215,,156.00,2023-07-22 23:50:01
+3,69,212,Konzumacija u restoranu,50 Farragut Plaza,2023-10-09 20:30:59,250,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",105.00,2023-10-09 18:30:59
+4,123,137,Konzumacija u restoranu,3148 Arizona Parkway,2024-02-25 17:11:18,953,,34.00,2024-02-25 15:11:18
+5,115,195,Dostava,50683 Bayside Crossing,2024-10-29 11:00:06,499,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",322.00,2024-10-29 10:00:06
+6,458,187,Dostava,53 Northland Hill,2022-12-30 08:27:03,264,,114.00,2022-12-30 05:27:03
+7,728,352,Dostava,5 5th Drive,2024-05-12 04:28:37,816,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",80.00,2024-05-12 03:28:37
+8,706,439,Konzumacija u restoranu,392 Kennedy Avenue,2023-07-07 12:13:29,614,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",102.00,2023-07-07 10:13:29
+9,347,410,Konzumacija u restoranu,6733 Porter Parkway,2023-07-16 15:43:00,57,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,168.00,2023-07-16 12:43:00
+10,684,193,Konzumacija u restoranu,5249 Hagan Road,2023-03-14 04:41:16,941,,165.00,2023-03-14 02:41:16
+11,301,96,Dostava,5455 Straubel Pass,2023-01-08 22:06:37,450,,8.00,2023-01-08 20:06:37
+12,942,50,Dostava,20 Westport Lane,2022-09-13 17:48:54,648,,40.00,2022-09-13 15:48:54
+13,822,83,Dostava,0979 Spenser Terrace,2023-01-09 18:46:54,928,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",147.00,2023-01-09 15:46:54
+14,596,407,Dostava,7941 Lakewood Street,2023-08-24 04:50:42,218,,147.00,2023-08-24 02:50:42
+15,955,26,Dostava,8 Buell Parkway,2022-09-17 09:15:17,285,,54.00,2022-09-17 08:15:17
+16,858,464,Konzumacija u restoranu,75246 Esker Plaza,2023-05-06 23:59:44,104,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",189.00,2023-05-06 22:59:44
+17,7,456,Dostava,0 Lillian Avenue,2023-05-12 10:38:25,868,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",225.00,2023-05-12 08:38:25
+18,766,313,Konzumacija u restoranu,35 Fairview Street,2023-10-22 12:16:15,651,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",65.00,2023-10-22 10:16:15
+19,446,197,Dostava,5 Dorton Circle,2024-04-24 20:27:49,378,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,15.00,2024-04-24 19:27:49
+20,673,97,Dostava,04504 Warner Avenue,2023-03-27 16:09:44,838,Fusce consequat. Nulla nisl. Nunc nisl.,153.00,2023-03-27 14:09:44
+21,335,8,Dostava,1243 Sheridan Plaza,2023-10-21 12:15:09,521,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,123.00,2023-10-21 11:15:09
+22,354,106,Dostava,1 Shelley Lane,2024-10-13 23:14:45,845,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",38.00,2024-10-13 20:14:45
+23,972,176,Konzumacija u restoranu,68344 Westridge Drive,2024-05-12 20:53:47,513,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",28.00,2024-05-12 17:53:47
+24,85,165,Dostava,407 Fairfield Center,2023-09-30 22:46:33,936,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",279.00,2023-09-30 19:46:33
+25,960,11,Konzumacija u restoranu,9 Twin Pines Circle,2023-04-10 06:46:50,927,,105.00,2023-04-10 03:46:50
+26,957,76,Dostava,809 Talmadge Trail,2022-10-30 06:38:36,538,,14.00,2022-10-30 04:38:36
+27,833,160,Dostava,6500 Elmside Way,2023-06-25 23:41:57,890,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",43.00,2023-06-25 22:41:57
+28,517,67,Konzumacija u restoranu,94 Glacier Hill Drive,2023-08-01 03:01:10,279,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",120.00,2023-08-01 00:01:10
+29,238,359,Dostava,392 Erie Pass,2023-08-02 11:38:42,412,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,21.00,2023-08-02 10:38:42
+30,140,257,Konzumacija u restoranu,58863 Saint Paul Alley,2024-06-04 10:20:38,303,,222.00,2024-06-04 09:20:38
+31,221,233,Dostava,96728 Petterle Hill,2023-08-12 08:11:35,124,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",320.00,2023-08-12 05:11:35
+32,560,312,Konzumacija u restoranu,889 Crest Line Pass,2024-03-07 12:03:06,352,,136.00,2024-03-07 10:03:06
+33,900,291,Konzumacija u restoranu,70 Bayside Hill,2024-10-23 12:28:37,378,,259.00,2024-10-23 10:28:37
+34,602,239,Dostava,32 Lake View Center,2023-07-09 02:23:25,844,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",39.00,2023-07-09 00:23:25
+35,762,333,Konzumacija u restoranu,6261 Kennedy Pass,2023-01-07 16:20:41,159,,60.00,2023-01-07 13:20:41
+36,850,445,Konzumacija u restoranu,3995 Cordelia Way,2023-05-23 01:01:23,10,,20.00,2023-05-22 22:01:23
+37,455,490,Konzumacija u restoranu,93 Summit Road,2022-12-21 15:57:42,722,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,160.00,2022-12-21 14:57:42
+38,575,191,Konzumacija u restoranu,6 Macpherson Plaza,2022-09-17 07:46:06,779,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,138.00,2022-09-17 04:46:06
+39,454,470,Konzumacija u restoranu,001 Redwing Road,2024-03-12 12:34:20,350,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",60.00,2024-03-12 11:34:20
+40,874,453,Konzumacija u restoranu,8510 Dahle Alley,2023-05-19 14:03:53,310,,224.00,2023-05-19 12:03:53
+41,612,370,Dostava,87 Mandrake Pass,2024-11-25 15:03:29,697,,120.00,2024-11-25 12:03:29
+42,947,399,Konzumacija u restoranu,22 Mallard Junction,2024-08-24 12:49:19,557,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,84.00,2024-08-24 09:49:19
+43,736,353,Konzumacija u restoranu,583 Southridge Way,2023-03-04 02:59:15,119,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,66.00,2023-03-03 23:59:15
+44,954,252,Konzumacija u restoranu,1 Gale Center,2024-05-15 23:27:53,487,,420.00,2024-05-15 21:27:53
+45,993,44,Dostava,60 Morrow Circle,2024-03-19 03:07:03,250,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,92.00,2024-03-19 02:07:03
+48,647,444,Konzumacija u restoranu,6278 Arkansas Circle,2024-07-17 05:49:01,637,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",76.00,2024-07-17 02:49:01
+49,562,174,Konzumacija u restoranu,3903 Lunder Drive,2023-09-12 23:35:10,13,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",27.00,2023-09-12 20:35:10
+50,893,98,Dostava,86 Londonderry Place,2023-08-22 15:39:52,616,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",198.00,2023-08-22 13:39:52
+51,179,404,Dostava,51204 Warbler Circle,2023-04-18 14:13:02,761,Fusce consequat. Nulla nisl. Nunc nisl.,308.00,2023-04-18 12:13:02
+53,326,95,Konzumacija u restoranu,98990 Superior Hill,2023-11-03 18:43:39,178,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,13.00,2023-11-03 16:43:39
+54,184,229,Dostava,417 Helena Road,2024-02-22 10:57:29,125,,376.00,2024-02-22 09:57:29
+55,648,171,Dostava,494 Cottonwood Street,2022-10-11 11:52:11,159,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,344.00,2022-10-11 08:52:11
+56,731,368,Konzumacija u restoranu,533 Sauthoff Plaza,2023-07-06 17:18:01,766,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,315.00,2023-07-06 16:18:01
+57,532,354,Dostava,9 5th Parkway,2023-10-12 13:34:17,134,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",99.00,2023-10-12 12:34:17
+58,668,267,Konzumacija u restoranu,830 Beilfuss Drive,2022-10-07 11:48:53,927,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",186.00,2022-10-07 10:48:53
+59,874,248,Konzumacija u restoranu,700 Sloan Point,2023-08-18 03:29:44,608,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,368.00,2023-08-18 02:29:44
+60,750,359,Dostava,73153 Vera Road,2024-05-23 04:32:25,658,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,46.00,2024-05-23 01:32:25
+61,443,195,Konzumacija u restoranu,0142 Dawn Lane,2024-01-12 22:08:38,739,,216.00,2024-01-12 21:08:38
+62,678,452,Konzumacija u restoranu,239 Pepper Wood Pass,2023-11-05 00:57:49,371,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,245.00,2023-11-04 23:57:49
+63,830,127,Dostava,16 Tony Alley,2022-12-01 16:56:19,840,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",231.00,2022-12-01 15:56:19
+64,644,418,Konzumacija u restoranu,4040 Declaration Trail,2023-05-19 00:00:50,218,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,84.00,2023-05-18 21:00:50
+65,112,97,Konzumacija u restoranu,835 Saint Paul Center,2023-09-28 00:05:43,647,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",175.00,2023-09-27 22:05:43
+66,338,130,Konzumacija u restoranu,8 Lakeland Point,2023-04-30 10:04:03,966,,297.00,2023-04-30 08:04:03
+67,571,109,Konzumacija u restoranu,85437 Burrows Trail,2023-06-22 17:26:03,791,,196.00,2023-06-22 16:26:03
+68,202,37,Dostava,279 Rigney Pass,2023-11-17 02:30:19,698,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",152.00,2023-11-17 01:30:19
+69,636,67,Konzumacija u restoranu,4 Homewood Alley,2022-10-31 16:52:28,779,,272.00,2022-10-31 15:52:28
+70,363,322,Dostava,84254 Gina Lane,2022-11-04 00:15:22,17,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",96.00,2022-11-03 21:15:22
+71,567,73,Konzumacija u restoranu,1536 Jenna Road,2022-12-28 05:57:48,737,,33.00,2022-12-28 04:57:48
+72,361,213,Dostava,3797 Hauk Park,2022-10-01 14:08:19,382,Fusce consequat. Nulla nisl. Nunc nisl.,180.00,2022-10-01 11:08:19
+73,205,8,Konzumacija u restoranu,8960 Boyd Lane,2024-01-21 07:02:36,825,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",170.00,2024-01-21 05:02:36
+74,327,59,Dostava,830 Clyde Gallagher Plaza,2023-06-11 06:23:38,677,,160.00,2023-06-11 05:23:38
+75,316,470,Konzumacija u restoranu,98251 Esker Parkway,2024-07-16 05:02:31,150,,360.00,2024-07-16 03:02:31
+76,201,176,Dostava,382 Pearson Point,2024-01-07 06:10:45,56,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,162.00,2024-01-07 05:10:45
+163,778,489,Dostava,62911 Barnett Alley,2023-05-18 00:53:11,676,,240.00,2023-05-17 21:53:11
+77,450,9,Konzumacija u restoranu,0 Nova Terrace,2022-12-19 20:19:06,813,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",99.00,2022-12-19 18:19:06
+78,889,211,Konzumacija u restoranu,3881 Stoughton Road,2023-08-01 23:59:10,503,,72.00,2023-08-01 22:59:10
+79,287,473,Konzumacija u restoranu,97374 Jackson Hill,2023-12-21 14:17:49,647,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,280.00,2023-12-21 11:17:49
+80,119,222,Dostava,62413 Aberg Way,2024-10-20 06:46:08,38,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",216.00,2024-10-20 05:46:08
+81,530,185,Konzumacija u restoranu,76236 Kedzie Terrace,2023-11-24 15:55:27,13,,42.00,2023-11-24 13:55:27
+82,878,473,Dostava,51 Waubesa Parkway,2022-12-05 22:10:23,677,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,135.00,2022-12-05 19:10:23
+83,452,337,Dostava,8252 Service Street,2023-07-23 03:57:07,13,,111.00,2023-07-23 02:57:07
+84,816,206,Konzumacija u restoranu,65889 Moulton Point,2024-05-01 22:53:16,410,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",42.00,2024-05-01 21:53:16
+85,344,349,Dostava,7 Meadow Valley Center,2022-12-05 07:09:53,538,,32.00,2022-12-05 06:09:53
+86,326,319,Dostava,1832 Farmco Crossing,2022-12-06 21:21:49,991,,270.00,2022-12-06 20:21:49
+87,13,191,Konzumacija u restoranu,41 Melody Terrace,2024-09-20 13:09:18,254,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,222.00,2024-09-20 10:09:18
+88,947,487,Konzumacija u restoranu,65065 Brickson Park Alley,2023-03-07 23:07:22,73,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,18.00,2023-03-07 22:07:22
+89,756,498,Konzumacija u restoranu,923 Straubel Parkway,2023-11-04 04:08:15,368,,140.00,2023-11-04 01:08:15
+90,2,248,Dostava,3520 Gale Pass,2022-12-12 10:09:10,505,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,112.00,2022-12-12 08:09:10
+91,439,37,Konzumacija u restoranu,510 Hallows Plaza,2022-12-20 00:18:16,637,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",15.00,2022-12-19 21:18:16
+92,476,309,Dostava,1686 Little Fleur Court,2024-02-28 11:16:39,144,,54.00,2024-02-28 10:16:39
+93,554,411,Dostava,01 Hoard Road,2024-02-28 06:47:14,57,,234.00,2024-02-28 05:47:14
+94,53,38,Dostava,6163 Buena Vista Drive,2023-10-17 20:25:54,604,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",190.00,2023-10-17 17:25:54
+95,649,55,Konzumacija u restoranu,7912 Bonner Drive,2023-02-22 03:07:27,32,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,195.00,2023-02-22 00:07:27
+96,391,169,Dostava,94 Rowland Junction,2024-02-29 19:46:19,754,,48.00,2024-02-29 18:46:19
+97,301,30,Konzumacija u restoranu,0430 Northland Place,2024-02-10 20:15:26,930,Fusce consequat. Nulla nisl. Nunc nisl.,17.00,2024-02-10 19:15:26
+98,316,47,Dostava,5 Maywood Hill,2023-02-12 21:52:23,303,,94.00,2023-02-12 18:52:23
+99,373,431,Konzumacija u restoranu,0332 Anniversary Alley,2024-07-12 11:01:43,178,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,95.00,2024-07-12 08:01:43
+100,253,249,Dostava,27082 Prairie Rose Trail,2022-10-22 16:40:58,264,,33.00,2022-10-22 14:40:58
+101,814,197,Dostava,5 Drewry Plaza,2023-09-19 11:31:00,273,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,176.00,2023-09-19 08:31:00
+102,373,420,Dostava,3402 Knutson Lane,2023-11-17 03:27:54,524,,240.00,2023-11-17 00:27:54
+103,391,461,Dostava,329 Maple Wood Trail,2024-11-26 09:29:45,279,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,216.00,2024-11-26 06:29:45
+104,397,26,Konzumacija u restoranu,29780 Red Cloud Plaza,2024-01-13 17:12:56,716,,110.00,2024-01-13 16:12:56
+105,301,70,Konzumacija u restoranu,5 Hollow Ridge Parkway,2023-10-11 15:38:14,344,,50.00,2023-10-11 14:38:14
+106,227,440,Dostava,157 Fisk Place,2023-09-02 21:24:13,972,,224.00,2023-09-02 19:24:13
+107,552,22,Dostava,1 Parkside Circle,2024-01-12 18:20:02,56,,44.00,2024-01-12 16:20:02
+108,932,86,Dostava,6 Nelson Hill,2023-07-30 09:41:28,981,,200.00,2023-07-30 08:41:28
+109,364,201,Konzumacija u restoranu,2 Paget Center,2024-05-05 02:39:52,845,,96.00,2024-05-05 01:39:52
+110,817,191,Konzumacija u restoranu,292 Grim Road,2023-12-10 20:01:16,928,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",92.00,2023-12-10 19:01:16
+111,575,33,Dostava,08248 Hallows Hill,2022-11-30 06:06:47,350,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,49.00,2022-11-30 04:06:47
+112,111,345,Dostava,0962 North Avenue,2024-11-07 00:29:24,81,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,108.00,2024-11-06 21:29:24
+113,702,497,Dostava,91 Erie Center,2023-02-13 07:13:48,945,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,88.00,2023-02-13 04:13:48
+114,93,56,Konzumacija u restoranu,688 Blackbird Court,2024-02-12 02:57:33,812,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,320.00,2024-02-12 01:57:33
+115,745,28,Dostava,7 Glacier Hill Crossing,2023-07-17 01:36:06,780,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",46.00,2023-07-16 23:36:06
+116,201,147,Konzumacija u restoranu,650 Drewry Place,2023-07-29 04:12:05,820,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",108.00,2023-07-29 03:12:05
+117,243,492,Dostava,2 Corben Court,2023-11-16 01:52:12,574,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,45.00,2023-11-16 00:52:12
+118,165,471,Konzumacija u restoranu,9 Union Alley,2023-07-15 18:47:10,65,,310.00,2023-07-15 15:47:10
+119,284,371,Konzumacija u restoranu,941 Monterey Drive,2023-11-22 19:51:31,945,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",190.00,2023-11-22 16:51:31
+120,329,175,Dostava,4400 Annamark Way,2023-08-05 06:37:10,809,,147.00,2023-08-05 04:37:10
+121,591,48,Konzumacija u restoranu,7280 3rd Junction,2024-06-10 11:35:33,815,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",234.00,2024-06-10 08:35:33
+122,220,458,Dostava,4 Nancy Way,2023-04-22 05:48:11,553,,30.00,2023-04-22 03:48:11
+123,86,369,Dostava,426 Hansons Avenue,2023-03-01 19:13:00,956,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",8.00,2023-03-01 16:13:00
+124,11,318,Konzumacija u restoranu,597 Drewry Drive,2024-06-25 02:23:22,621,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,92.00,2024-06-25 00:23:22
+125,160,124,Konzumacija u restoranu,99434 Wayridge Parkway,2024-01-14 22:17:25,10,,87.00,2024-01-14 19:17:25
+126,790,311,Konzumacija u restoranu,16052 Truax Circle,2024-06-21 19:08:08,941,,230.00,2024-06-21 17:08:08
+127,416,423,Konzumacija u restoranu,780 Johnson Parkway,2024-08-27 02:01:34,813,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",90.00,2024-08-26 23:01:34
+128,592,54,Konzumacija u restoranu,3335 Banding Lane,2023-12-04 16:42:40,650,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",90.00,2023-12-04 15:42:40
+129,255,485,Dostava,476 Crownhardt Court,2024-02-13 18:33:36,184,,126.00,2024-02-13 15:33:36
+130,274,15,Dostava,2 Moland Pass,2023-10-28 13:59:46,716,,54.00,2023-10-28 10:59:46
+131,954,112,Konzumacija u restoranu,84 Rusk Parkway,2023-01-26 05:56:44,983,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,216.00,2023-01-26 04:56:44
+132,109,489,Dostava,157 Hagan Hill,2023-04-25 02:16:19,731,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,264.00,2023-04-25 01:16:19
+133,933,442,Dostava,828 Pierstorff Street,2024-08-17 18:50:06,812,,96.00,2024-08-17 16:50:06
+134,96,86,Konzumacija u restoranu,99 Hoffman Crossing,2023-11-25 05:24:12,510,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,156.00,2023-11-25 04:24:12
+135,292,220,Dostava,48639 Grover Drive,2024-08-06 04:55:28,178,,294.00,2024-08-06 02:55:28
+136,420,141,Konzumacija u restoranu,397 Westerfield Plaza,2023-08-22 19:37:22,127,,234.00,2023-08-22 18:37:22
+137,533,93,Dostava,2 Coleman Park,2024-09-01 21:24:38,177,,57.00,2024-09-01 20:24:38
+138,25,227,Konzumacija u restoranu,884 Tennessee Terrace,2023-09-07 02:24:23,111,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,54.00,2023-09-07 00:24:23
+139,731,33,Dostava,074 Jana Lane,2024-02-14 13:16:37,930,Fusce consequat. Nulla nisl. Nunc nisl.,72.00,2024-02-14 10:16:37
+140,500,315,Dostava,1 Milwaukee Circle,2024-11-30 00:01:05,487,,50.00,2024-11-29 22:01:05
+141,567,430,Dostava,04 Meadow Valley Crossing,2023-06-20 17:11:30,450,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,7.00,2023-06-20 14:11:30
+142,508,129,Konzumacija u restoranu,2 Valley Edge Plaza,2024-07-22 14:47:07,837,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",152.00,2024-07-22 12:47:07
+143,491,417,Konzumacija u restoranu,12325 Quincy Lane,2023-11-13 07:05:43,363,,78.00,2023-11-13 05:05:43
+144,673,52,Dostava,09695 Village Junction,2023-04-08 16:02:54,218,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,126.00,2023-04-08 15:02:54
+145,443,135,Dostava,8 Oakridge Pass,2022-10-06 05:44:04,677,,210.00,2022-10-06 02:44:04
+146,436,46,Dostava,99 Steensland Circle,2024-11-19 15:40:57,748,,13.00,2024-11-19 13:40:57
+147,555,482,Konzumacija u restoranu,77926 Northwestern Street,2023-03-18 22:53:06,144,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",36.00,2023-03-18 21:53:06
+148,567,113,Dostava,53153 Namekagon Place,2023-10-14 11:01:28,890,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,84.00,2023-10-14 08:01:28
+149,593,207,Dostava,11234 Bonner Alley,2023-03-28 21:32:07,223,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",86.00,2023-03-28 20:32:07
+150,962,450,Konzumacija u restoranu,58 Packers Place,2024-10-07 11:11:16,500,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",39.00,2024-10-07 08:11:16
+151,204,205,Konzumacija u restoranu,2618 Cambridge Center,2023-10-19 04:05:20,615,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",150.00,2023-10-19 01:05:20
+152,921,253,Dostava,16 Gina Crossing,2023-10-08 05:03:14,242,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",98.00,2023-10-08 02:03:14
+153,68,322,Konzumacija u restoranu,33 Forest Circle,2022-12-08 02:13:57,536,,74.00,2022-12-08 01:13:57
+154,933,82,Konzumacija u restoranu,02 Havey Plaza,2024-03-04 07:42:19,312,,500.00,2024-03-04 04:42:19
+155,737,269,Konzumacija u restoranu,9477 Surrey Circle,2023-05-06 10:39:47,782,,198.00,2023-05-06 09:39:47
+156,332,184,Konzumacija u restoranu,118 Pond Park,2022-09-23 07:23:48,982,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",204.00,2022-09-23 04:23:48
+157,845,166,Dostava,1 Crowley Park,2022-11-16 23:28:44,982,,120.00,2022-11-16 22:28:44
+158,222,240,Dostava,6699 Hallows Way,2023-02-01 05:53:45,691,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,116.00,2023-02-01 03:53:45
+159,421,130,Dostava,45042 Eastlawn Road,2023-12-21 19:01:09,620,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",310.00,2023-12-21 16:01:09
+160,697,189,Konzumacija u restoranu,92742 Johnson Avenue,2024-08-30 22:01:26,57,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,280.00,2024-08-30 20:01:26
+161,6,186,Dostava,95 Debra Road,2022-12-30 06:07:09,86,,33.00,2022-12-30 03:07:09
+162,541,168,Konzumacija u restoranu,78 Main Drive,2024-04-27 09:32:32,303,,15.00,2024-04-27 07:32:32
+164,529,179,Konzumacija u restoranu,60584 Emmet Trail,2022-10-17 12:04:48,335,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,470.00,2022-10-17 11:04:48
+165,724,330,Dostava,1926 Del Sol Park,2024-08-02 19:23:16,722,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",54.00,2024-08-02 18:23:16
+166,440,256,Dostava,61177 Ronald Regan Street,2024-03-01 09:39:05,921,,460.00,2024-03-01 07:39:05
+167,670,312,Dostava,56340 Continental Circle,2024-10-03 11:49:31,868,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,182.00,2024-10-03 08:49:31
+168,879,319,Dostava,2105 Gateway Pass,2023-02-28 19:42:06,63,,100.00,2023-02-28 18:42:06
+169,345,340,Konzumacija u restoranu,69 Farwell Junction,2023-05-14 23:24:28,658,,57.00,2023-05-14 22:24:28
+170,377,500,Dostava,5 Commercial Park,2024-04-09 14:15:40,1,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",207.00,2024-04-09 11:15:40
+171,430,386,Konzumacija u restoranu,46 Fairfield Terrace,2022-12-01 22:26:22,446,,16.00,2022-12-01 20:26:22
+172,137,179,Dostava,74878 Muir Circle,2024-08-05 09:48:39,513,,64.00,2024-08-05 06:48:39
+173,654,236,Konzumacija u restoranu,890 Carioca Road,2024-03-03 00:15:37,815,,26.00,2024-03-02 21:15:37
+174,646,416,Konzumacija u restoranu,52709 Hanson Avenue,2022-09-02 03:20:48,513,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",132.00,2022-09-02 02:20:48
+175,930,407,Dostava,33395 7th Center,2024-07-15 04:52:09,173,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",152.00,2024-07-15 03:52:09
+176,397,462,Dostava,593 Gerald Alley,2024-03-29 00:37:27,115,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,180.00,2024-03-28 23:37:27
+177,963,292,Konzumacija u restoranu,8498 Brickson Park Junction,2023-09-08 20:36:33,921,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,390.00,2023-09-08 19:36:33
+178,518,209,Dostava,02140 Steensland Drive,2024-06-04 19:54:51,943,,392.00,2024-06-04 18:54:51
+179,482,362,Konzumacija u restoranu,17 Dovetail Parkway,2022-12-30 13:04:40,326,,200.00,2022-12-30 12:04:40
+180,294,495,Dostava,4 Toban Terrace,2024-01-19 06:37:17,538,,22.00,2024-01-19 03:37:17
+181,147,176,Konzumacija u restoranu,6592 Pankratz Place,2023-12-12 20:22:07,731,,68.00,2023-12-12 19:22:07
+182,893,148,Konzumacija u restoranu,88748 Jay Plaza,2023-03-01 01:47:00,73,,329.00,2023-02-28 23:47:00
+183,702,49,Konzumacija u restoranu,8901 Dapin Trail,2024-01-15 09:23:51,352,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,296.00,2024-01-15 08:23:51
+184,897,243,Konzumacija u restoranu,15017 Moulton Pass,2024-03-31 04:42:40,570,,480.00,2024-03-31 01:42:40
+185,334,292,Konzumacija u restoranu,78766 Garrison Center,2024-07-07 08:28:01,666,,74.00,2024-07-07 07:28:01
+186,546,11,Dostava,51957 Parkside Road,2023-03-16 07:09:55,20,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",35.00,2023-03-16 06:09:55
+187,897,134,Dostava,59 Shelley Place,2022-12-30 15:37:47,897,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",130.00,2022-12-30 13:37:47
+188,262,276,Konzumacija u restoranu,6 7th Plaza,2022-12-02 21:57:16,529,,174.00,2022-12-02 20:57:16
+189,198,130,Konzumacija u restoranu,47940 Annamark Way,2024-02-18 03:21:36,7,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",63.00,2024-02-18 02:21:36
+190,981,48,Dostava,7947 Derek Park,2024-03-04 02:01:52,996,,90.00,2024-03-03 23:01:52
+191,725,377,Konzumacija u restoranu,49139 Fallview Lane,2023-11-16 04:58:38,111,"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",432.00,2023-11-16 03:58:38
+192,136,39,Dostava,937 Bultman Place,2024-08-26 20:15:02,676,,39.00,2024-08-26 17:15:02
+193,918,334,Konzumacija u restoranu,31571 Bowman Crossing,2023-08-22 09:56:57,505,,126.00,2023-08-22 07:56:57
+194,507,275,Dostava,5 Garrison Place,2024-04-07 15:09:37,326,,132.00,2024-04-07 13:09:37
+195,500,76,Konzumacija u restoranu,13260 Corben Junction,2024-11-05 06:48:47,326,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,15.00,2024-11-05 03:48:47
+196,254,16,Konzumacija u restoranu,56 Lakeland Pass,2023-10-14 17:18:57,557,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,196.00,2023-10-14 14:18:57
+197,805,312,Konzumacija u restoranu,6846 Pine View Hill,2023-03-04 17:01:26,837,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,60.00,2023-03-04 15:01:26
+198,930,361,Konzumacija u restoranu,0 Butterfield Crossing,2022-12-17 07:44:47,992,,27.00,2022-12-17 05:44:47
+199,190,121,Konzumacija u restoranu,3 Sutteridge Junction,2024-11-04 13:00:24,926,,66.00,2024-11-04 12:00:24
+200,589,134,Konzumacija u restoranu,51368 Novick Park,2023-08-18 08:03:26,985,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",306.00,2023-08-18 07:03:26
+201,220,119,Dostava,4 Ramsey Plaza,2023-06-20 00:54:14,894,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",8.00,2023-06-19 21:54:14
+202,308,96,Konzumacija u restoranu,167 Sherman Junction,2024-02-25 14:23:17,451,,170.00,2024-02-25 12:23:17
+203,647,173,Konzumacija u restoranu,272 Green Ridge Place,2023-09-25 03:29:15,946,,80.00,2023-09-25 00:29:15
+204,53,85,Dostava,21392 Northport Plaza,2022-10-04 09:59:49,307,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",64.00,2022-10-04 06:59:49
+205,569,309,Dostava,37651 American Park,2023-09-21 00:16:35,89,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,230.00,2023-09-20 21:16:35
+206,872,27,Konzumacija u restoranu,6 Forest Road,2023-01-23 21:02:29,846,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",195.00,2023-01-23 19:02:29
+207,396,113,Dostava,5 Basil Terrace,2022-09-09 11:31:13,705,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",92.00,2022-09-09 08:31:13
+208,336,211,Dostava,44 Carioca Trail,2023-07-01 04:47:23,884,,20.00,2023-07-01 01:47:23
+209,302,162,Konzumacija u restoranu,4 Banding Point,2023-02-26 05:07:32,13,,72.00,2023-02-26 03:07:32
+210,343,53,Konzumacija u restoranu,18 Birchwood Plaza,2023-12-28 16:28:32,483,,92.00,2023-12-28 13:28:32
+211,352,175,Dostava,15 Reindahl Junction,2024-10-26 21:48:13,800,,430.00,2024-10-26 18:48:13
+212,814,268,Konzumacija u restoranu,730 Delaware Street,2024-01-15 18:21:37,57,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,144.00,2024-01-15 15:21:37
+213,222,183,Konzumacija u restoranu,052 Tomscot Park,2023-02-06 05:38:40,897,,336.00,2023-02-06 03:38:40
+214,412,216,Konzumacija u restoranu,52 Kings Parkway,2024-09-18 05:05:46,417,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",116.00,2024-09-18 02:05:46
+215,921,326,Konzumacija u restoranu,55933 Forest Dale Court,2023-04-13 03:43:37,410,,500.00,2023-04-13 01:43:37
+216,86,74,Konzumacija u restoranu,073 Meadow Vale Pass,2024-05-06 05:23:50,683,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",84.00,2024-05-06 02:23:50
+217,592,331,Konzumacija u restoranu,84346 Spenser Center,2024-04-08 10:39:28,312,,333.00,2024-04-08 09:39:28
+218,852,298,Konzumacija u restoranu,2630 Corscot Avenue,2023-09-25 04:15:21,40,,330.00,2023-09-25 03:15:21
+219,757,313,Konzumacija u restoranu,51 Glendale Plaza,2023-03-31 04:50:21,524,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,30.00,2023-03-31 01:50:21
+220,511,109,Konzumacija u restoranu,31 Tennyson Drive,2022-11-08 05:09:56,144,,27.00,2022-11-08 02:09:56
+221,377,291,Konzumacija u restoranu,6 Kings Pass,2023-04-22 01:20:11,813,,44.00,2023-04-21 22:20:11
+222,950,93,Dostava,7254 Becker Place,2023-01-23 23:30:09,67,,203.00,2023-01-23 20:30:09
+223,113,409,Dostava,8479 Caliangt Court,2023-12-18 04:34:39,776,,420.00,2023-12-18 01:34:39
+320,601,200,Konzumacija u restoranu,4 Burrows Road,2024-10-05 20:33:23,370,,72.00,2024-10-05 19:33:23
+224,717,460,Konzumacija u restoranu,66095 Mifflin Avenue,2022-09-11 06:59:16,785,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",45.00,2022-09-11 03:59:16
+225,368,378,Konzumacija u restoranu,4 Golf Course Crossing,2023-03-29 02:49:21,417,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",258.00,2023-03-29 00:49:21
+226,245,330,Konzumacija u restoranu,75 Schurz Lane,2023-03-19 23:03:12,614,,120.00,2023-03-19 22:03:12
+227,908,232,Dostava,5156 Nobel Plaza,2024-08-20 23:31:05,926,,204.00,2024-08-20 22:31:05
+228,580,219,Konzumacija u restoranu,1515 Butterfield Point,2023-06-25 18:12:49,218,,200.00,2023-06-25 15:12:49
+229,947,446,Dostava,799 Judy Crossing,2024-11-07 10:50:20,709,,63.00,2024-11-07 09:50:20
+230,398,341,Konzumacija u restoranu,3 Hagan Terrace,2023-04-04 01:40:23,620,,290.00,2023-04-03 23:40:23
+231,797,478,Dostava,7992 Burning Wood Hill,2024-06-03 20:59:32,387,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,170.00,2024-06-03 19:59:32
+232,731,6,Dostava,35292 Gulseth Alley,2023-04-14 09:12:31,927,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",380.00,2023-04-14 07:12:31
+233,791,70,Konzumacija u restoranu,6413 Moose Terrace,2022-12-01 09:40:30,840,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",54.00,2022-12-01 07:40:30
+234,737,39,Dostava,834 Del Sol Point,2023-10-23 07:47:33,215,,38.00,2023-10-23 05:47:33
+235,980,292,Konzumacija u restoranu,10 Elgar Road,2023-02-24 02:53:19,983,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,42.00,2023-02-23 23:53:19
+236,763,242,Konzumacija u restoranu,9 Pleasure Alley,2022-09-27 06:10:54,611,,333.00,2022-09-27 03:10:54
+237,289,39,Dostava,8032 Scoville Court,2024-08-05 10:02:09,573,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,294.00,2024-08-05 07:02:09
+238,925,55,Dostava,51989 Hudson Crossing,2024-02-20 05:50:49,38,,196.00,2024-02-20 04:50:49
+239,54,201,Dostava,2357 Fair Oaks Park,2024-05-06 18:29:47,819,,16.00,2024-05-06 15:29:47
+240,541,315,Dostava,5 Sachtjen Drive,2024-01-17 04:45:17,525,,78.00,2024-01-17 03:45:17
+241,577,208,Dostava,999 Huxley Trail,2024-03-14 22:46:50,766,,102.00,2024-03-14 21:46:50
+242,773,178,Konzumacija u restoranu,7 Butternut Pass,2024-08-24 04:52:23,432,,232.00,2024-08-24 03:52:23
+243,510,444,Dostava,11 Granby Circle,2024-09-01 22:28:27,650,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.,16.00,2024-09-01 21:28:27
+244,762,87,Dostava,92 Hazelcrest Parkway,2023-08-27 08:15:52,739,,189.00,2023-08-27 06:15:52
+245,261,70,Dostava,3 Ridgeview Pass,2023-05-22 21:12:30,829,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",400.00,2023-05-22 19:12:30
+246,988,466,Dostava,439 Hansons Street,2024-05-17 15:05:08,363,,470.00,2024-05-17 13:05:08
+247,375,107,Dostava,1889 Mallard Place,2024-07-17 23:13:06,159,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,315.00,2024-07-17 22:13:06
+248,909,267,Konzumacija u restoranu,14670 Ronald Regan Avenue,2023-03-02 00:55:59,538,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",140.00,2023-03-01 22:55:59
+249,212,323,Dostava,80 Longview Point,2023-05-12 03:30:59,72,Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,384.00,2023-05-12 02:30:59
+250,995,289,Dostava,65 Northridge Hill,2023-10-29 02:52:52,854,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",29.00,2023-10-29 00:52:52
+251,845,206,Konzumacija u restoranu,6 Farwell Park,2023-11-06 08:14:00,300,,90.00,2023-11-06 06:14:00
+252,170,325,Dostava,082 Aberg Point,2023-11-15 01:04:47,111,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",34.00,2023-11-14 23:04:47
+253,656,414,Dostava,85311 Dennis Parkway,2024-09-18 13:58:34,766,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",288.00,2024-09-18 10:58:34
+254,289,441,Konzumacija u restoranu,47 American Ash Junction,2024-07-12 19:11:34,65,,81.00,2024-07-12 18:11:34
+255,978,315,Konzumacija u restoranu,8 Merry Way,2023-07-17 01:13:43,697,,99.00,2023-07-16 23:13:43
+256,162,209,Dostava,40 Holmberg Crossing,2022-11-24 04:50:21,563,,112.00,2022-11-24 01:50:21
+257,464,41,Konzumacija u restoranu,9 Summerview Plaza,2023-03-01 04:28:45,72,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",245.00,2023-03-01 02:28:45
+258,684,447,Dostava,6206 Lunder Center,2024-10-25 17:59:10,188,,32.00,2024-10-25 16:59:10
+259,751,151,Konzumacija u restoranu,22 Blue Bill Park Circle,2023-02-09 08:10:55,510,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",329.00,2023-02-09 06:10:55
+260,643,223,Dostava,4508 Del Sol Court,2023-09-21 20:27:31,492,,144.00,2023-09-21 17:27:31
+261,951,342,Konzumacija u restoranu,0159 La Follette Circle,2024-08-02 19:30:41,620,,384.00,2024-08-02 18:30:41
+262,405,412,Konzumacija u restoranu,335 Anthes Alley,2023-12-05 19:24:03,459,,123.00,2023-12-05 16:24:03
+263,434,123,Konzumacija u restoranu,4997 Loftsgordon Pass,2023-09-11 12:49:23,310,,184.00,2023-09-11 11:49:23
+264,99,138,Konzumacija u restoranu,107 Mitchell Pass,2024-06-14 00:16:24,377,,410.00,2024-06-13 23:16:24
+265,135,48,Konzumacija u restoranu,677 Di Loreto Pass,2023-10-30 09:54:11,981,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",105.00,2023-10-30 06:54:11
+266,920,331,Dostava,0709 Corscot Circle,2022-10-01 07:43:50,223,,300.00,2022-10-01 05:43:50
+267,139,218,Dostava,03301 Summer Ridge Park,2023-09-17 14:11:59,651,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,34.00,2023-09-17 13:11:59
+268,6,395,Dostava,34457 Jenifer Drive,2023-10-31 11:50:50,125,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",35.00,2023-10-31 09:50:50
+269,193,393,Konzumacija u restoranu,83058 Erie Point,2024-07-27 03:53:16,850,,22.00,2024-07-27 01:53:16
+270,702,399,Konzumacija u restoranu,91309 Beilfuss Point,2024-07-29 23:23:11,124,,93.00,2024-07-29 21:23:11
+271,614,453,Konzumacija u restoranu,39334 Farragut Terrace,2024-04-03 20:20:58,573,,72.00,2024-04-03 17:20:58
+272,676,334,Konzumacija u restoranu,5598 Aberg Drive,2022-12-23 11:36:26,559,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",296.00,2022-12-23 08:36:26
+273,820,7,Konzumacija u restoranu,2 Mariners Cove Park,2023-05-12 04:43:32,894,,110.00,2023-05-12 03:43:32
+274,610,237,Konzumacija u restoranu,62478 Melvin Junction,2024-07-03 17:36:08,436,,270.00,2024-07-03 15:36:08
+275,860,242,Dostava,7717 Birchwood Way,2023-05-07 23:23:02,303,,84.00,2023-05-07 22:23:02
+276,502,446,Konzumacija u restoranu,3511 Namekagon Drive,2023-05-09 18:55:32,65,,36.00,2023-05-09 16:55:32
+277,280,226,Konzumacija u restoranu,8 Rowland Way,2022-09-29 12:35:27,966,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",380.00,2022-09-29 09:35:27
+278,965,131,Dostava,3 Upham Circle,2024-09-25 16:15:52,543,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",156.00,2024-09-25 15:15:52
+279,477,175,Dostava,06502 Calypso Alley,2024-08-29 07:32:42,983,,112.00,2024-08-29 04:32:42
+280,453,426,Konzumacija u restoranu,96 Gateway Terrace,2023-02-09 12:53:59,154,,31.00,2023-02-09 10:53:59
+281,675,383,Dostava,3 Spohn Alley,2024-08-05 20:03:14,118,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,216.00,2024-08-05 19:03:14
+282,110,164,Dostava,63341 Lerdahl Place,2022-10-16 11:17:54,325,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,40.00,2022-10-16 09:17:54
+283,645,424,Konzumacija u restoranu,434 Victoria Terrace,2024-11-04 22:19:24,315,,126.00,2024-11-04 21:19:24
+284,564,52,Dostava,9573 Bayside Parkway,2023-02-26 04:03:40,10,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,96.00,2023-02-26 01:03:40
+285,832,336,Dostava,4661 Fuller Place,2023-04-06 21:09:58,676,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",126.00,2023-04-06 20:09:58
+286,41,133,Dostava,10 Sunbrook Park,2024-10-02 15:10:56,234,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.,270.00,2024-10-02 13:10:56
+287,728,275,Dostava,13 Delladonna Plaza,2023-05-29 13:19:25,275,,161.00,2023-05-29 11:19:25
+288,690,477,Konzumacija u restoranu,15 Northfield Road,2023-12-03 02:12:45,883,,333.00,2023-12-03 00:12:45
+289,524,177,Dostava,07 Thackeray Point,2022-12-11 00:19:05,614,,90.00,2022-12-10 21:19:05
+290,885,80,Dostava,682 Fair Oaks Street,2023-04-16 20:36:30,13,,120.00,2023-04-16 19:36:30
+291,765,137,Konzumacija u restoranu,6 Pearson Crossing,2024-08-23 08:12:15,951,,240.00,2024-08-23 07:12:15
+292,848,197,Dostava,00 Merchant Drive,2023-03-18 00:33:34,755,,15.00,2023-03-17 23:33:34
+293,524,292,Dostava,1 Cordelia Terrace,2023-01-15 22:30:42,310,,46.00,2023-01-15 19:30:42
+294,471,477,Konzumacija u restoranu,4 School Way,2023-07-12 13:07:01,722,In congue. Etiam justo. Etiam pretium iaculis justo.,171.00,2023-07-12 11:07:01
+295,886,198,Konzumacija u restoranu,69148 8th Trail,2023-12-21 05:22:24,720,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",400.00,2023-12-21 03:22:24
+296,666,281,Dostava,371 Calypso Park,2024-07-08 22:04:23,809,,310.00,2024-07-08 21:04:23
+297,134,66,Konzumacija u restoranu,020 Briar Crest Crossing,2023-07-30 09:13:36,417,,144.00,2023-07-30 06:13:36
+298,803,374,Dostava,68 Amoth Trail,2023-09-10 22:36:22,611,,234.00,2023-09-10 19:36:22
+299,527,220,Konzumacija u restoranu,622 Blue Bill Park Avenue,2024-08-10 20:08:28,620,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,5.00,2024-08-10 19:08:28
+300,591,108,Dostava,4 Sauthoff Street,2023-11-16 09:05:32,669,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",70.00,2023-11-16 07:05:32
+301,681,490,Dostava,2 Scofield Junction,2023-08-02 13:24:01,851,Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.,74.00,2023-08-02 11:24:01
+302,361,166,Dostava,3653 Sachs Crossing,2022-10-02 04:53:00,781,,40.00,2022-10-02 02:53:00
+303,410,156,Konzumacija u restoranu,7 Mallory Center,2024-06-17 01:54:47,709,,120.00,2024-06-16 23:54:47
+304,214,469,Konzumacija u restoranu,9903 Colorado Trail,2023-06-27 06:20:33,998,,266.00,2023-06-27 03:20:33
+351,127,128,Konzumacija u restoranu,43805 Buena Vista Court,2024-06-01 12:02:09,118,,470.00,2024-06-01 10:02:09
+305,603,268,Konzumacija u restoranu,5576 Becker Center,2023-08-20 00:37:32,536,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",24.00,2023-08-19 22:37:32
+306,231,401,Dostava,25749 Daystar Alley,2023-06-26 02:50:04,124,,340.00,2023-06-25 23:50:04
+307,663,367,Dostava,50 Dexter Place,2022-12-07 16:10:59,56,,210.00,2022-12-07 15:10:59
+308,781,285,Dostava,7 Tomscot Point,2023-04-11 11:24:45,780,,200.00,2023-04-11 08:24:45
+309,21,36,Dostava,6077 Surrey Terrace,2023-01-04 05:33:16,310,,36.00,2023-01-04 03:33:16
+310,300,37,Dostava,85050 Gateway Point,2023-03-29 21:42:06,254,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",490.00,2023-03-29 19:42:06
+311,351,116,Dostava,0 Longview Point,2023-05-02 13:58:25,851,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",28.00,2023-05-02 10:58:25
+312,836,10,Konzumacija u restoranu,402 Division Place,2024-04-18 20:53:41,555,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",225.00,2024-04-18 17:53:41
+313,449,309,Dostava,65156 Vahlen Alley,2023-07-12 07:19:39,614,,170.00,2023-07-12 06:19:39
+314,289,9,Dostava,1 Oriole Parkway,2024-10-19 17:26:40,234,,414.00,2024-10-19 16:26:40
+315,379,121,Dostava,667 Talisman Crossing,2022-10-08 21:07:58,170,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",9.00,2022-10-08 20:07:58
+316,453,45,Konzumacija u restoranu,530 Loeprich Trail,2023-08-10 11:31:21,321,,14.00,2023-08-10 08:31:21
+317,20,238,Konzumacija u restoranu,67 Kingsford Hill,2024-03-20 10:11:05,484,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",54.00,2024-03-20 09:11:05
+318,750,60,Konzumacija u restoranu,6310 Mifflin Hill,2024-02-04 03:43:40,793,,76.00,2024-02-04 02:43:40
+319,629,26,Konzumacija u restoranu,47130 Dawn Place,2023-11-12 15:38:32,780,,60.00,2023-11-12 12:38:32
+321,737,424,Dostava,96914 Cambridge Street,2023-01-01 11:30:36,436,,39.00,2023-01-01 09:30:36
+322,187,340,Dostava,97 Maywood Terrace,2024-11-27 07:04:38,118,,259.00,2024-11-27 06:04:38
+323,846,133,Konzumacija u restoranu,362 7th Circle,2024-07-07 04:14:40,440,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.,8.00,2024-07-07 01:14:40
+324,727,79,Dostava,7382 Dixon Drive,2023-04-17 11:39:17,177,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",450.00,2023-04-17 08:39:17
+325,206,337,Konzumacija u restoranu,2093 David Road,2024-06-05 20:59:48,417,,30.00,2024-06-05 19:59:48
+326,911,468,Konzumacija u restoranu,997 Lotheville Drive,2022-10-28 21:04:04,927,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",168.00,2022-10-28 18:04:04
+327,401,214,Konzumacija u restoranu,8 Schlimgen Junction,2024-06-15 10:37:52,677,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,6.00,2024-06-15 07:37:52
+328,65,132,Dostava,550 Del Sol Center,2023-02-09 03:05:43,847,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",378.00,2023-02-09 00:05:43
+329,277,432,Konzumacija u restoranu,59 Main Crossing,2024-05-31 07:19:55,985,,180.00,2024-05-31 06:19:55
+330,42,69,Dostava,85135 Lyons Park,2024-01-12 18:18:12,983,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",315.00,2024-01-12 15:18:12
+331,724,433,Dostava,282 Vernon Junction,2024-06-26 19:49:03,38,,84.00,2024-06-26 17:49:03
+332,939,87,Konzumacija u restoranu,1 Trailsway Center,2024-02-28 00:21:26,521,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",189.00,2024-02-27 23:21:26
+333,763,302,Dostava,391 2nd Drive,2023-06-20 18:51:59,992,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,156.00,2023-06-20 17:51:59
+334,326,106,Konzumacija u restoranu,8885 Northridge Trail,2024-03-12 11:36:38,505,,245.00,2024-03-12 08:36:38
+335,683,76,Konzumacija u restoranu,5 Wayridge Lane,2024-01-12 19:07:29,555,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.,288.00,2024-01-12 16:07:29
+336,33,422,Konzumacija u restoranu,33 Muir Hill,2023-04-02 20:06:46,144,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,108.00,2023-04-02 17:06:46
+337,18,257,Konzumacija u restoranu,061 Scoville Crossing,2023-10-16 06:05:28,20,,36.00,2023-10-16 04:05:28
+338,418,395,Dostava,8968 Coolidge Street,2024-01-09 15:58:28,751,,234.00,2024-01-09 14:58:28
+339,204,228,Konzumacija u restoranu,8381 Logan Drive,2024-10-14 08:38:26,134,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.,144.00,2024-10-14 07:38:26
+340,424,237,Konzumacija u restoranu,15 Drewry Drive,2024-02-17 03:22:22,972,,50.00,2024-02-17 01:22:22
+341,700,292,Dostava,8768 Norway Maple Way,2023-09-14 18:40:07,150,,44.00,2023-09-14 17:40:07
+342,306,146,Dostava,571 Hollow Ridge Pass,2023-12-01 22:08:31,536,,200.00,2023-12-01 19:08:31
+343,641,143,Konzumacija u restoranu,2 Morrow Circle,2024-01-01 12:35:12,238,,240.00,2024-01-01 09:35:12
+344,467,265,Dostava,7659 Maple Wood Place,2024-04-19 06:51:45,598,,80.00,2024-04-19 04:51:45
+345,179,334,Dostava,566 Mariners Cove Court,2022-12-20 15:46:32,574,Fusce consequat. Nulla nisl. Nunc nisl.,19.00,2022-12-20 13:46:32
+346,909,469,Konzumacija u restoranu,8 East Trail,2024-10-16 04:14:22,528,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,297.00,2024-10-16 01:14:22
+347,238,358,Dostava,631 Glacier Hill Lane,2023-02-26 18:49:21,396,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.,490.00,2023-02-26 16:49:21
+348,584,401,Konzumacija u restoranu,083 Meadow Ridge Parkway,2023-05-16 02:11:04,377,,152.00,2023-05-15 23:11:04
+349,208,148,Konzumacija u restoranu,4395 Banding Crossing,2024-01-15 14:56:13,823,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",105.00,2024-01-15 13:56:13
+350,12,322,Konzumacija u restoranu,629 Division Alley,2022-12-11 13:53:03,325,,114.00,2022-12-11 11:53:03
+352,510,163,Dostava,84062 Northport Street,2023-05-14 05:22:38,209,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.,186.00,2023-05-14 03:22:38
+353,122,342,Konzumacija u restoranu,4459 Melby Place,2022-12-09 03:21:27,170,,100.00,2022-12-09 00:21:27
+354,540,41,Konzumacija u restoranu,54802 Blue Bill Park Lane,2023-06-08 06:30:31,754,,68.00,2023-06-08 05:30:31
+355,821,417,Konzumacija u restoranu,104 Golf Lane,2023-03-31 20:11:06,815,,175.00,2023-03-31 18:11:06
+356,322,443,Dostava,70897 Garrison Avenue,2024-05-01 07:47:37,111,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,32.00,2024-05-01 04:47:37
+357,438,212,Dostava,216 Arapahoe Plaza,2023-10-29 22:10:21,825,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",42.00,2023-10-29 21:10:21
+358,477,299,Dostava,87112 Jenifer Alley,2022-10-06 03:52:58,328,,15.00,2022-10-06 00:52:58
+359,813,398,Dostava,3619 Doe Crossing Plaza,2023-07-01 00:20:02,996,,18.00,2023-06-30 21:20:02
+360,599,229,Dostava,467 Lawn Parkway,2023-11-23 15:29:19,574,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",100.00,2023-11-23 14:29:19
+361,68,376,Konzumacija u restoranu,6526 Oakridge Junction,2023-01-21 00:04:13,538,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",44.00,2023-01-20 23:04:13
+362,641,315,Dostava,314 Stang Way,2024-05-20 04:48:33,166,,153.00,2024-05-20 02:48:33
+363,836,41,Dostava,0 Dunning Terrace,2022-09-05 14:50:20,750,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",160.00,2022-09-05 12:50:20
+364,249,6,Konzumacija u restoranu,9859 Brentwood Alley,2024-10-07 17:12:38,992,,140.00,2024-10-07 15:12:38
+410,22,255,Dostava,8587 Corry Terrace,2024-11-28 02:12:28,82,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,68.00,2024-11-27 23:12:28
+365,327,482,Konzumacija u restoranu,8595 Birchwood Crossing,2024-07-23 06:43:50,273,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",390.00,2024-07-23 05:43:50
+366,656,172,Dostava,32028 Ryan Plaza,2024-08-01 05:56:10,578,Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,144.00,2024-08-01 03:56:10
+367,969,23,Dostava,79 Donald Crossing,2024-03-15 19:09:36,793,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",69.00,2024-03-15 17:09:36
+368,993,151,Konzumacija u restoranu,3 Dovetail Center,2023-09-06 19:39:39,317,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",240.00,2023-09-06 18:39:39
+369,551,468,Dostava,4 Melody Drive,2024-03-28 08:38:12,487,,450.00,2024-03-28 05:38:12
+370,759,176,Dostava,93905 Norway Maple Center,2024-02-10 13:08:27,846,,56.00,2024-02-10 10:08:27
+371,285,130,Dostava,7 Mcguire Point,2023-12-28 20:06:34,548,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",120.00,2023-12-28 19:06:34
+372,43,458,Dostava,32 Petterle Circle,2024-04-29 19:34:16,159,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",207.00,2024-04-29 18:34:16
+373,768,251,Dostava,77376 Grover Lane,2023-01-22 23:04:35,5,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,24.00,2023-01-22 20:04:35
+374,524,213,Dostava,22276 Bellgrove Road,2023-11-04 23:26:43,464,,112.00,2023-11-04 20:26:43
+375,10,452,Dostava,97 Sherman Parkway,2024-03-31 08:27:23,825,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",126.00,2024-03-31 06:27:23
+376,627,131,Dostava,222 Meadow Valley Trail,2023-09-19 21:27:17,930,,180.00,2023-09-19 20:27:17
+377,560,405,Konzumacija u restoranu,7 Grayhawk Point,2024-01-11 17:53:55,448,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.,112.00,2024-01-11 14:53:55
+378,248,146,Dostava,7992 International Pass,2022-10-23 20:56:45,70,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",76.00,2022-10-23 19:56:45
+379,697,167,Konzumacija u restoranu,590 Anderson Center,2024-02-10 07:47:05,885,,300.00,2024-02-10 06:47:05
+380,993,451,Dostava,6 Kensington Place,2022-09-07 02:01:03,446,,500.00,2022-09-07 01:01:03
+381,757,306,Konzumacija u restoranu,933 Rutledge Place,2023-02-18 15:51:09,418,,63.00,2023-02-18 14:51:09
+382,174,329,Konzumacija u restoranu,260 Mitchell Park,2024-03-03 05:15:19,840,,114.00,2024-03-03 04:15:19
+383,885,166,Konzumacija u restoranu,066 Loftsgordon Avenue,2022-12-30 04:25:05,982,,96.00,2022-12-30 03:25:05
+384,772,224,Dostava,3 Gale Trail,2022-09-18 06:39:25,691,,240.00,2022-09-18 04:39:25
+385,824,68,Konzumacija u restoranu,37150 Spenser Street,2023-12-04 05:14:27,483,,36.00,2023-12-04 02:14:27
+386,684,120,Konzumacija u restoranu,515 2nd Hill,2024-08-04 02:06:38,303,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",130.00,2024-08-04 01:06:38
+387,350,240,Dostava,35080 Dorton Place,2022-11-13 12:53:07,819,,315.00,2022-11-13 09:53:07
+388,900,380,Konzumacija u restoranu,9 Spenser Crossing,2024-11-28 07:57:49,173,Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.,112.00,2024-11-28 06:57:49
+389,150,440,Konzumacija u restoranu,91876 Oakridge Trail,2023-08-02 04:26:36,107,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",266.00,2023-08-02 01:26:36
+390,220,149,Konzumacija u restoranu,4413 Roxbury Street,2023-07-18 09:10:30,733,,42.00,2023-07-18 06:10:30
+391,938,126,Konzumacija u restoranu,3820 Magdeline Trail,2024-08-05 06:43:19,477,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.,35.00,2024-08-05 05:43:19
+392,473,259,Konzumacija u restoranu,3 Anniversary Place,2023-11-16 19:48:56,85,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",196.00,2023-11-16 18:48:56
+393,447,493,Dostava,37860 Vera Terrace,2023-03-13 07:31:47,505,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,414.00,2023-03-13 05:31:47
+394,715,180,Dostava,954 Jenifer Lane,2023-05-13 11:18:39,850,,40.00,2023-05-13 08:18:39
+395,498,133,Dostava,510 Meadow Valley Parkway,2023-06-04 06:46:47,57,,116.00,2023-06-04 04:46:47
+396,7,264,Dostava,3188 Trailsway Circle,2023-07-20 03:57:02,352,,96.00,2023-07-20 01:57:02
+397,757,10,Konzumacija u restoranu,681 Mayer Street,2024-02-28 04:33:13,614,,75.00,2024-02-28 03:33:13
+398,326,59,Dostava,0 David Circle,2024-10-26 07:27:30,985,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",252.00,2024-10-26 04:27:30
+399,617,176,Dostava,07890 Sheridan Way,2024-01-06 04:15:39,846,Phasellus in felis. Donec semper sapien a libero. Nam dui.,175.00,2024-01-06 03:15:39
