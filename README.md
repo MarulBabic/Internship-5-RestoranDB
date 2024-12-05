@@ -1,0 +1,1 @@
+This project models a restaurant management system with a focus on orders, ratings, and menu tracking. It was created as a learning exercise to practice SQL skills, including creating tables, relationships, and writing queries. The goal was to build a functional database while exploring concepts like data integrity, constraints, and basic analytics.
